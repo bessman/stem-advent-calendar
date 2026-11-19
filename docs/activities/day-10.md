@@ -27,7 +27,7 @@ Household food colouring and paper towels can be reused.
 | --- | --- | --- |
 | Paper towels | 4 strips, about 3 × 20 cm | Plain white absorbent paper towels work best. |
 | Food colouring | A few drops each of red, yellow and blue | Use liquid colouring if available; colours may stain. |
-| Small clear cups | 5 | For the coloured water and empty cups. |
+| Small clear cup | 5 | For the coloured water and empty cups. Wash and save for Days 11 and 12 if suitable. |
 
 ## What's inside the box?
 

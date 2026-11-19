@@ -26,16 +26,17 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Green or other colour 5 mm LED | 1 | Second signal light; reuse the red LED from Day 17 as the first. |
-| 220-ohm resistor | 1 | One resistor in series with each external LED. Reuse Day 17's resistor for its LED. |
-| Recycled cardboard panel | 1, about 10 × 15 cm | Use the Day 23 prototype or clean packaging. |
+| 220-ohm resistor | 1 additional | New resistor for the second LED; connect in series with that LED. |
+| Thin cardboard | 1 panel, about 10 × 15 cm | Reuse the prototype from Day 23, or use clean packaging. |
 | Arduino board | 1 | Reuse the board from Days 19–20. Do not use the AA battery holder for this Arduino circuit. |
 | USB data cable | 1 | Reuse the cable from Day 19. |
-| Computer with Arduino IDE installed | 1 | For programming the board. |
-| Mini breadboard | 1 | Reuse the board from Day 20. |
-| Pushbutton | 1 | Reuse the button from Day 20. |
-| Jumper wires | 5 | Reuse the wires from Day 20. |
-| Red LED and 220-ohm resistor | 1 each | Reuse the Day 17 parts. |
-| Tape | A small amount | For attaching the cardboard parts. |
+| Computer with Arduino IDE installed | 1 | Reuse the computer from Day 19 for programming the board. |
+| Mini solderless breadboard | 1 | Reuse the breadboard from Day 20. |
+| Breadboard-compatible momentary pushbutton | 1 | Reuse the pushbutton from Day 20. |
+| Male-to-male jumper wire | 5 | Reuse the wires from Day 20. |
+| Red 5 mm LED | 1 | Reuse the LED from Day 17, keeping its resistor connected in series. |
+| 220-ohm resistor | 1 | Reuse the resistor from Day 17 for the red LED; this is separate from the additional resistor above. |
+| Adhesive tape | A small amount | Choose child-safe tape for attaching the cardboard parts. |
 
 ## What's inside the box?
 

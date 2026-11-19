@@ -30,9 +30,54 @@
   white-space: nowrap;
 }
 
+.inventory__sort {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.inventory__sort[hidden] {
+  display: none;
+}
+
+.inventory__sort select {
+  padding: 0.3rem 0.5rem;
+  margin-left: 0.4rem;
+  font: inherit;
+  color: inherit;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--light);
+  border-radius: 4px;
+}
+
 .inventory__table {
   max-width: 100%;
   overflow-x: auto;
+}
+
+.md-typeset .inventory__table .md-typeset__scrollwrap {
+  margin: 0;
+  overflow: visible;
+}
+
+.md-typeset .inventory__table .md-typeset__table {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.md-typeset .inventory__table table {
+  display: table;
+  width: 100%;
+  min-width: 42rem;
+  max-width: none;
+  overflow: visible;
+}
+
+.md-typeset .inventory__table th[scope="rowgroup"] {
+  min-width: 8rem;
+  max-width: 14rem;
+  white-space: normal;
+  vertical-align: top;
 }
 
 .md-typeset .admonition {

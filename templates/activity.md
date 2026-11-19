@@ -12,13 +12,13 @@
 
 A short explanation of what children will discover, with 2–3 concrete learning goals.
 
-## Shopping list
+## Materials list
 
-| Item | Quantity | Est. cost (SEK) | Notes |
-| --- | ---: | ---: | --- |
-| ... | ... | ... | ... |
+Use the exact existing item name for equivalent materials, preferably singular. Put quantities and dimensions in Amount needed, and specifications in Notes. List components separately, even when supplied as an assembly. Mark physical reuse with "Reuse the [item] from Day N." and retained experiments with "Keep the setup intact for Day N." Do not count reused parts as additional supplies.
 
-**Estimated purchased total:** ... SEK (maximum 100 SEK)
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| ... | ... | ... |
 
 ## What's inside the box?
 

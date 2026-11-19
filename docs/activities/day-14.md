@@ -27,7 +27,7 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 | --- | --- | --- |
 | Cress seeds | 8–10 seeds | Fast-sprouting, untreated seeds from a food or garden supplier. Do not eat the experiment seeds. |
 | Cotton pad | 1 small piece | Plain, unscented cotton wool or a cotton pad. |
-| Small clear cup or jar | 1 | Choose a stable container that is easy to inspect from the side. |
+| Small clear cup or jar | 1 | Choose a stable container that is easy to inspect from the side. Keep the seed setup intact for Day 21; this container remains in use until then. |
 
 ## What's inside the box?
 

@@ -25,12 +25,12 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Small solderless breadboard | 1 | A mini board is sufficient for the button. |
+| Mini solderless breadboard | 1 | A mini board is sufficient for the button. |
 | Breadboard-compatible momentary pushbutton | 1 | Normally open, four-leg tactile button. |
-| Insulated jumper wires | 5 | Male-to-male wires; use two today and save all five for Day 24. |
+| Male-to-male jumper wire | 5 | Insulated wires; use two today and save all five for Day 24. |
 | Arduino board | 1 | Reuse the Day 19 board; use its built-in LED. No external power supply, battery or LED is needed. |
 | USB data cable | 1 | Reuse the Day 19 cable. |
-| Computer with Arduino IDE installed | 1 | For programming the board. |
+| Computer with Arduino IDE installed | 1 | Reuse the computer from Day 19 for programming the board. |
 
 ## What's inside the box?
 

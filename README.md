@@ -34,7 +34,17 @@ Print on A4 or Letter in portrait at 100% scale with browser headers and footers
 
 ## Overall inventory
 
-Use **Overall inventory** in the navigation to view one table collected from the Materials lists on all 24 activity pages. Entries remain in day order, with links back to each source list. Duplicate and reused items are kept as separate entries; quantities are not combined. JavaScript and a running site are required.
+Use **Overall inventory** in the navigation to view one table collected from the Materials lists on all 24 activity pages. Equivalent items are grouped alphabetically, with activity entries in day order within each group and links back to each source list. Use **Sort by** to switch between grouped **Item** order and numeric **Activity day** order. Activity order repeats the item name on each row. Each activity's amount and notes are preserved; quantities are not combined. JavaScript and a running site are required.
+
+### Materials naming and reuse
+
+- Use a `## Materials list` section with exactly three columns: `Item`, `Amount needed`, and `Notes`.
+- Reuse an existing item name for interchangeable materials, preferably singular: for example, `Small clear cup` regardless of quantity. Grouping ignores case and repeated whitespace, but does not guess synonyms or singular/plural variants.
+- Put quantities and dimensions in `Amount needed`; keep specifications and safety requirements in `Notes`. Keep non-interchangeable materials distinct, such as `Adhesive tape` and `Insulating tape`, or small paperclips and large steel paperclips.
+- A shared name means the same kind of material, not necessarily the same physical object. Consumables such as tape need a portion for each activity. For the same physical equipment, write `Reuse the [item] from Day N.` in Notes, and identify any additional parts separately.
+- List components separately even when supplied as an assembly. Preserve assembly and safety instructions in Notes. For example, a reused red LED and resistor have separate rows while remaining connected in series.
+- Keep retained experiments distinct from fresh supplies. Use `Keep the setup intact for Day N.` when creating one, and identify the original day when reusing it. Containers and components in a retained setup remain occupied until that activity.
+- Notes are for people, not parsed metadata. There is no automatic purchasing total or inferred reuse calculation; check the per-activity notes before buying or packing materials.
 
 ## Translate a mission card
 

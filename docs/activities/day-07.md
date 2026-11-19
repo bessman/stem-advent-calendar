@@ -25,8 +25,8 @@ Household cups and string can be reused.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Small paper cups | 2, about 120 ml | Choose cups about 6 cm wide so they can be nested in the box. |
-| Smooth cotton string | 2 m | Thin, non-stretch string works best. |
+| Small paper cup | 2, about 120 ml | Choose cups about 6 cm wide so they can be nested in the box. |
+| Smooth string | 2 m | Thin, non-stretch cotton string works best. |
 
 ## What's inside the box?
 

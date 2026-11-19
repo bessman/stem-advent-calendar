@@ -26,10 +26,10 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | 2-AA battery holder with leads | 1 | Holds two AA cells in series for about 3 V. No exposed battery terminals. |
-| AA alkaline batteries | 2 | Ordinary 1.5 V cells; remove them after testing. Do not use mains electricity, chargers or wall adapters. |
+| AA alkaline battery | 2 | Ordinary 1.5 V cells; remove them after testing. Do not use mains electricity, chargers or wall adapters. |
 | Red 5 mm LED | 1 | Standard through-hole LED. |
 | 220-ohm resistor | 1 | Must be connected in series to limit current. |
-| Insulated alligator-clip leads | 2 | For temporary connections; do not let the clips touch each other. |
+| Insulated alligator-clip lead | 2 | For temporary connections; do not let the clips touch each other. |
 | Insulating tape | A few small pieces | For securing or covering connections. |
 
 ## What's inside the box?

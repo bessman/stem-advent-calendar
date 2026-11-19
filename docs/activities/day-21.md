@@ -25,9 +25,9 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Day 14 seed setup | 1 | Cress seeds on damp cotton in a clear cup or jar. |
+| Cress growing setup | 1 | Reuse the seed setup from Day 14: cress seeds on damp cotton in a clear cup or jar. This is the intact experiment, not fresh supplies. |
 | Small hand lens | 1 | A simple magnifier helps inspect roots and shoots through the cup. |
-| Day 14 observation record | 1 | The child's first drawing or notes. If the seed setup has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead. |
+| Cress observation record | 1 | Reuse the observation record from Day 14: the child's first drawing or notes. If the seed setup has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead. |
 
 ## What's inside the box?
 

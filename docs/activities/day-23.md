@@ -25,10 +25,12 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Recycled thin cardboard | 1 small panel, about 10 × 15 cm | Cereal-box card or other clean, uncoated packaging. |
-| Plain paper | 1 small piece | For a sketch or paper prototype. |
-| Reused LED/resistor assembly and pushbutton | 1 each | Use the disconnected parts from Days 17 and 20 as size and placement templates; save them for Day 24. |
-| Child-safe tape | A small amount | For the paper prototype. |
+| Thin cardboard | 1 small panel, about 10 × 15 cm | Cereal-box card or other clean, uncoated packaging. Save the prototype for Day 24. |
+| Ordinary printer paper | 1 small piece | For a sketch or paper prototype. |
+| Red 5 mm LED | 1 | Reuse the LED from Day 17 as a size and placement template, keeping its resistor connected in series and disconnected from power. Save for Day 24. |
+| 220-ohm resistor | 1 | Reuse the resistor from Day 17 as part of the unpowered LED assembly. Save for Day 24. |
+| Breadboard-compatible momentary pushbutton | 1 | Reuse the pushbutton from Day 20 as a size and placement template, disconnected from power. Save for Day 24. |
+| Adhesive tape | A small amount | Choose child-safe tape for the paper prototype. |
 
 ## What's inside the box?
 

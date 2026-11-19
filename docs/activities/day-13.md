@@ -29,7 +29,7 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 | Leakproof small bottle | 1, about 10–15 ml | A clean screw-top sample bottle; double-bag for packing. |
 | Lemon juice | A small amount | For one test sample; use tiny quantities and do not taste any samples. |
 | Baking soda | A small amount | For preparing another test sample; use tiny quantities and do not taste any samples. |
-| Small clear cups | 3 | For the test samples. |
+| Small clear cup | 3 | For the test samples. Reuse washed cups from Day 10 if suitable. |
 
 ## What's inside the box?
 

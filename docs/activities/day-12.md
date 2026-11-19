@@ -26,7 +26,7 @@ Use ordinary granulated sugar and household water.
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Granulated sugar | 2 level teaspoons | About 8 g total; pre-portion into two small packets. |
-| Clear cups | 2, identical | For comparing warm and cool water. |
+| Small clear cup | 2, identical | For comparing warm and cool water. Reuse washed cups from Day 10 if suitable for warm water. |
 
 ## What's inside the box?
 

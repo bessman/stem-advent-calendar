@@ -27,12 +27,13 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 | --- | --- | --- |
 | Aluminium foil | 2 squares, about 2 × 2 cm | Ordinary kitchen foil, folded once for strength. |
 | Large steel paperclip | 1 | Use as a movable metal bridge between contacts. |
-| Insulated alligator-clip lead | 1 | Adds a lead so the switch can be inserted into the circuit. |
-| Day 17 two-AA battery holder | 1 | Reuse the Day 17 circuit; remove the batteries while changing it. |
-| AA batteries | 2 | Reuse the Day 17 batteries; remove them from the holder during setup. |
-| Red LED with 220-ohm resistor | 1 assembly | Reuse the Day 17 component. |
-| Insulated alligator-clip leads | 2 | Reuse the Day 17 leads. |
-| Small piece of card | 1 | For mounting the foil contacts. |
+| Insulated alligator-clip lead | 1 additional | Adds a lead so the switch can be inserted into the circuit. |
+| 2-AA battery holder with leads | 1 | Reuse the battery holder from Day 17; remove the batteries while changing the circuit. |
+| AA alkaline battery | 2 | Reuse the batteries from Day 17; remove them from the holder during setup. |
+| Red 5 mm LED | 1 | Reuse the LED from Day 17, keeping its resistor connected in series. |
+| 220-ohm resistor | 1 | Reuse the resistor from Day 17, keeping it connected in series with the red LED. |
+| Insulated alligator-clip lead | 2 | Reuse the leads from Day 17. |
+| Thin cardboard | 1 small piece | For mounting the foil contacts. |
 | Insulating tape | A small piece | For securing the switch parts. |
 
 ## What's inside the box?

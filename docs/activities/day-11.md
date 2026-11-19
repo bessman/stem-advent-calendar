@@ -27,7 +27,7 @@ Test the chosen marker on the filter paper before the activity.
 | --- | --- | --- |
 | White coffee filter paper | 2 strips, about 2 × 8 cm | Unbleached brown filters make colours harder to see. |
 | Washable water-based marker | 1 dark colour | Brown, black or dark green may separate; permanent markers do not work with water. |
-| Small clear cup | 1 | Holds a little water. |
+| Small clear cup | 1 | Holds a little water. Reuse a washed cup from Day 10 if suitable. |
 
 ## What's inside the box?
 

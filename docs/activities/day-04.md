@@ -26,7 +26,7 @@ Reuse clean printer paper and paperclips if available.
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Ordinary printer paper | 2 strips, each 15 × 4 cm | Use two pieces from the same kind of paper; recycled paper is fine. |
-| Small paperclips | 2 | One for the bottom of each helicopter. |
+| Small paperclip | 2 | One for the bottom of each helicopter. |
 
 ## What's inside the box?
 
