@@ -31,7 +31,7 @@ As individual activity pages are completed, they will include an **introduction*
 | 1 | Tue 1 Dec | **[The Mystery Materials Lab](activities/day-01.md)** | Observe and sort materials like a scientist | 10–15 min |
 | 2 | Wed 2 Dec | **[Sink or Float?](activities/day-02.md)** | Buoyancy, shapes and predictions | 10–15 min |
 | 3 | Thu 3 Dec | **[Balloon Rocket Race](activities/day-03.md)** | Forces and propulsion | 10–15 min |
-| 4 | Fri 4 Dec | **The Flying Helicopter** | Gravity and aerodynamics | 10–15 min |
+| 4 | Fri 4 Dec | **[The Flying Helicopter](activities/day-04.md)** | Gravity and aerodynamics | 10–15 min |
 | 5 | Sat 5 Dec | **Build a Bridge: Part 1** | Structures and load-bearing | 20–30 min |
 | 6 | Sun 6 Dec | **Build a Bridge: Part 2** | Testing and improving a design | 20–30 min |
 
