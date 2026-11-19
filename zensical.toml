@@ -1,6 +1,7 @@
 [project]
 site_name = "STEM Advent Calendar 2026"
 site_description = "24 small science and technology adventures for curious children aged 6–9."
+site_url = "https://bessman.github.io/stem-advent-calendar/"
 docs_dir = "docs"
 site_dir = "site"
 nav = [
