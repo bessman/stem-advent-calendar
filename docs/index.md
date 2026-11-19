@@ -75,12 +75,12 @@ As individual activity pages are completed, they will include an **introduction*
 
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
-| 19 | Sat 19 Dec | **Hello, Arduino!** | Make a light blink with code | 20–30 min |
-| 20 | Sun 20 Dec | **The Magic Button** | Inputs, outputs and logic | 20–30 min |
-| 21 | Mon 21 Dec | **The Seed Scientist Returns** | Compare plant growth with predictions | 10–15 min |
-| 22 | Tue 22 Dec | **The Secret Light Message** | Encode and decode flashes | 10–15 min |
-| 23 | Wed 23 Dec | **Design Your Christmas Invention** | Plan and prototype a display | 10–15 min |
-| 24 | Thu 24 Dec | **The Grand Christmas Invention!** | Combine a button, lights and code | 40–60 min |
+| 19 | Sat 19 Dec | **[Hello, Arduino!](activities/day-19.md)** | Make a light blink with code | 20–30 min |
+| 20 | Sun 20 Dec | **[The Magic Button](activities/day-20.md)** | Inputs, outputs and logic | 20–30 min |
+| 21 | Mon 21 Dec | **[The Seed Scientist Returns](activities/day-21.md)** | Compare plant growth with predictions | 10–15 min |
+| 22 | Tue 22 Dec | **[The Secret Light Message](activities/day-22.md)** | Encode and decode flashes | 10–15 min |
+| 23 | Wed 23 Dec | **[Design Your Christmas Invention](activities/day-23.md)** | Plan and prototype a display | 10–15 min |
+| 24 | Thu 24 Dec | **[The Grand Christmas Invention!](activities/day-24.md)** | Combine a button, lights and code | 40–60 min |
 
 **The connection:** Each electronics challenge adds a skill for a final **Christmas Signal Station**: a cardboard scene with lights that can blink out a secret message when you press a button.
 
@@ -99,4 +99,4 @@ These are **small experiments, not tests**. Invite children to make their own gu
 
 ### What is coming next?
 
-This is the project overview. Detailed activity pages are now available for Days 1–13; start with [Day 1](activities/day-01.md). The remaining activity pages will be added as their experiments are specified and checked. Each page explains what to buy, what to pack, what the child does, and what the adult needs to know.
+This is the project overview. Detailed activity pages are now available for Days 1–24; start with [Day 1](activities/day-01.md). Each page explains what to buy, what to pack, what the child does, and what the adult needs to know.

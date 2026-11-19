@@ -1,0 +1,124 @@
+# Day 22 · The Secret Light Message
+
+**Field:** Technology · Communication · Patterns  
+**Time:** 10–15 minutes (Tuesday 22 December 2026)  
+**Age group:** 6–9  
+**Progression:** On [Day 21](day-21.md), we compared our cress observations with an earlier prediction. Today we encode a short message with light flashes using a simple Morse code key. Tomorrow, we will plan a Christmas display that can send a light signal.
+
+## Introduction
+
+Can a light send a message without using words? In Morse code, short and long flashes stand for letters. Practise sending and decoding **SOS**, then invent a short pattern to use in the final Christmas Signal Station.
+
+By the end of this mission, the child can:
+
+- Recognize that a repeated pattern can represent a message.
+- Encode and decode the letters S and O using short and long flashes.
+- Describe a simple light signal clearly enough for another person to interpret.
+
+**The big question:** How can the same light communicate different letters?
+
+## Shopping list
+
+No special materials need to be purchased if a household flashlight is available.
+
+| Item | Amount needed | Estimated cost (SEK) | Notes |
+| --- | --- | ---: | --- |
+| Printed Day 22 mission card | 1 folded card | 0–2 | Includes the short Morse code key. |
+| **Estimated purchased total** | | **0–2** | Under the **100 SEK per activity** limit. |
+
+**Household items supplied separately:** a small flashlight, a quiet indoor space and a pencil. Do not use a phone flashlight; keep the phone away from the activity.
+
+## What's inside the 7 × 7 × 7 cm box?
+
+- [ ] **One folded Day 22 mission card** with the Morse key (below).
+
+**Household items supplied separately:** a flashlight. The Arduino, breadboard and LED parts are not needed today.
+
+## Child's mission card
+
+<div class="mission-card" markdown="1">
+<div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
+
+!!! example "🔦 DAY 22 — THE SECRET LIGHT MESSAGE"
+    **Your mission:** Send and decode a secret message with light!
+
+    **You need:** A flashlight, the Morse key below, a grown-up and a dim room.
+
+    **Morse key:** **S = short, short, short** · **O = long, long, long**
+
+    **1. Predict!** What might three short flashes mean? What about three long flashes?
+
+    **2. Send!** Make **S O S**: three short flashes, a pause, three long flashes, a pause, three short flashes.
+
+    **3. Decode!** Ask your grown-up to send SOS. Can you tell where each letter begins?
+
+    **4. Invent!** Choose S or O, or make up a new pattern and teach it to your grown-up.
+
+    ⭐ **Scientist's question:** Why do pauses matter in a light message?
+
+</div>
+
+<div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
+
+!!! example "🔦 DAG 22 — DET HEMLIGA LJUSMEDDELANDET"
+    **Ditt uppdrag:** Skicka och avkoda ett hemligt meddelande med ljus!
+
+    **Du behöver:** En ficklampa, morsealfabetet nedan, en vuxen och ett lite mörkare rum.
+
+    **Morsenyckel:** **S = kort, kort, kort** · **O = långt, långt, långt**
+
+    **1. Gissa!** Vad kan tre korta blinkningar betyda? Och tre långa?
+
+    **2. Skicka!** Gör **S O S**: tre korta blinkningar, en paus, tre långa blinkningar, en paus och tre korta blinkningar.
+
+    **3. Avkoda!** Be en vuxen skicka SOS. Kan du se var varje bokstav börjar?
+
+    **4. Hitta på!** Välj S eller O, eller hitta på ett nytt mönster och lär det till en vuxen.
+
+    ⭐ **Forskarens fråga:** Varför behövs pauser i ett ljusmeddelande?
+
+</div>
+</div>
+
+## Adult instructions
+
+### Preparation (1–2 minutes before opening)
+
+1. Check that the flashlight works and is not too bright for the room. Keep it pointed at a wall or a clear surface, not at a person's face.
+2. Review the simple code: **S = three short flashes** and **O = three long flashes**. A short flash can last about half a second; a long one about one and a half seconds.
+3. Pack the folded mission card. No electrical wiring or Arduino is needed today.
+
+### How to help (10–15 minutes total)
+
+| Time | What to do |
+| --- | --- |
+| 0–2 min | Explain that a code is a shared set of rules. Practise one short and one long flash. |
+| 2–5 min | Send SOS by making three short flashes, a clear letter pause, three long flashes, a pause, then three short flashes. |
+| 5–9 min | Take turns sending SOS and decoding it. Ask the listener to identify the three groups. |
+| 9–13 min | Let the child invent a simple pattern or encode an initial using the short key on the card. Agree on pauses before sending. |
+| 13–15 min | Turn off the flashlight and discuss how the receiver knew where one letter ended. |
+
+**Keep it a fair comparison:** Keep short and long flashes clearly different, and use the same pause between letters each time. A clear start and end helps the listener decode the message.
+
+### Safety
+
+- Do not shine the flashlight into eyes or across a road, window or public space. Use a wall or a nearby surface as the signal target.
+- Do not use rapidly flashing patterns; keep the signals slow and comfortable to watch.
+- An adult should supervise the flashlight and keep it away from water.
+
+### Why it works
+
+Morse code represents letters with patterns of short and long signals. The timing and pauses carry information: a listener can tell which marks belong together and where one letter ends. A flashlight is one way to send the marks; a buzzer or radio can send the same code in other forms.
+
+SOS is a well-known distress signal, but this activity is a practice code, not an emergency communication system. The child is learning how agreed patterns can carry a message.
+
+### Troubleshooting and optional extension
+
+- **The listener cannot tell short from long:** Make the long flash about three times longer than the short one and pause between groups.
+- **Letters run together:** Add a longer pause between letters and announce when the message starts.
+- **The room is too bright:** Aim the flashlight at a nearby pale wall and shade the area slightly without making the room unsafe to move in.
+- **Extra challenge for older children:** Use a complete Morse alphabet chart from a trusted source to encode a short name. Write it down before sending and compare the decoded result.
+
+**Next experiment:** On [Day 23](day-23.md), we will plan and prototype a Christmas display for our light-message invention.
+
+[← Back to the calendar](../index.md) · [← Day 21: The Seed Scientist Returns](day-21.md)

@@ -124,6 +124,6 @@ This is the same basic idea used by many everyday switches. A switch does not cr
 - **A clip or battery feels warm:** Disconnect immediately. Do not reconnect until an adult has found and fixed the short circuit.
 - **Extra challenge for older children:** Design a switch that uses a folded card flap to press the paperclip down. Keep the two contacts separate when the flap is raised.
 
-**Next experiment:** On [Day 19](../index.md), we will use the saved LED parts with an Arduino to make a light blink with code.
+**Next experiment:** On [Day 19](day-19.md), we will use an Arduino to make a light blink with code.
 
 [← Back to the calendar](../index.md) · [← Day 17: Light Up an LED!](day-17.md)
