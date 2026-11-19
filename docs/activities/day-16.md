@@ -31,7 +31,7 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 
 **Household items supplied separately:** a table, a sheet of paper if a larger maze is wanted, and a pencil or crayons for drawing a route.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One large, low-strength ceramic magnet**, about 3–5 cm.
 - [ ] **One large steel paperclip**, packed separately from the magnet.

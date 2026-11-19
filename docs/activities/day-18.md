@@ -32,7 +32,7 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 
 **Household items supplied separately:** the Day 17 battery holder, two AA batteries, LED with 220-ohm resistor, two clip leads, a small piece of card and insulating tape. The batteries must be removed from the holder while changing the circuit.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **Two foil squares**, about 2 × 2 cm each.
 - [ ] **One large steel paperclip.**

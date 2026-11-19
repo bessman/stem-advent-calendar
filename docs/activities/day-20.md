@@ -32,7 +32,7 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 
 **Household items supplied separately:** Arduino, the USB data cable from Day 19, and a computer with the Arduino IDE. No external power supply, battery or LED is needed; use the Arduino's built-in LED.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One small solderless breadboard.**
 - [ ] **One momentary pushbutton**, packed separately.

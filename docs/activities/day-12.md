@@ -30,7 +30,7 @@ Use ordinary granulated sugar and household water.
 
 **Household items supplied separately:** two identical clear cups, 200 ml total water, a teaspoon, a measuring cup, a stirring spoon, a towel and a thermometer if available. An adult prepares and handles the warm water.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **Two small packets of granulated sugar**, each containing one level teaspoon.
 - [ ] **One folded Day 12 mission card** (below).

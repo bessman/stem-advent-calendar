@@ -31,7 +31,7 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 
 **Household items supplied separately:** a small clear cup or jar, tap water, a spoon or dropper, a tray and a pencil or notebook for recording observations.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One sealed packet of 8–10 cress seeds.**
 - [ ] **One small piece of cotton pad.**

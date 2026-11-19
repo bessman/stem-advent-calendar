@@ -32,7 +32,7 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 
 **Household items supplied separately:** Arduino, USB data cable and computer with Arduino IDE; mini breadboard, pushbutton and jumper wires from Day 20; red LED and 220-ohm resistor from Day 17; cardboard, pencil, tape and adult-handled scissors. Do not use the AA battery holder for this Arduino circuit.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One second LED** in a different colour.
 - [ ] **One 220-ohm resistor** for the second LED.

@@ -31,7 +31,7 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 
 **Household items supplied separately:** the Day 14 cup, seed setup, first drawing or notes, and a pencil. If the original setup has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One small hand lens** for looking closely at the seedlings.
 - [ ] **One folded Day 21 mission card** (below).

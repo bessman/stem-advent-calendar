@@ -30,7 +30,7 @@ No special materials need to be purchased if suitable household glasses are avai
 
 **Household items supplied separately:** three identical, sturdy drinking glasses, a wooden spoon, a jug of room-temperature water, a towel and a stable table. An adult should choose and place the glasses.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One small plastic dropper** for adjusting the water levels.
 - [ ] **One folded Day 8 mission card** (below).

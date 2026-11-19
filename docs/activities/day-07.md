@@ -31,7 +31,7 @@ Household cups and string can be reused.
 
 **Household items supplied separately:** a pencil for the adult to make holes, and a clear space for two people to stand apart. No batteries or electronics are needed.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **Two small paper cups**, nested together.
 - [ ] **Two metres of string**, loosely coiled.

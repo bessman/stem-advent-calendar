@@ -30,7 +30,7 @@ The Arduino is already available. Reuse its compatible USB data cable.
 
 **Household items supplied separately:** Arduino, computer with the Arduino IDE installed, and a clear, dry table. Use the built-in LED; no external wiring or battery pack is needed.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One USB data cable** compatible with the supplied Arduino.
 - [ ] **One folded Day 19 mission card** (below).

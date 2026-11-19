@@ -31,7 +31,7 @@ Household food colouring and paper towels can be reused.
 
 **Household items supplied separately:** five small clear cups, tap water, a washable tray or plate and a towel.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **Four paper towel strips**, each about 3 × 20 cm, folded loosely.
 - [ ] **One folded Day 10 mission card** (below).

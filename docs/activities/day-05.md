@@ -31,7 +31,7 @@ Reuse clean printer paper if available.
 
 **Household items supplied separately:** two stable book supports of the same height, a sturdy table, about 30 similar coins, a ruler and pencil. Books and the test items do not need to fit inside the box.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One A4 sheet of printer paper**, folded for packing.
 - [ ] **One small paper cup** for holding the test coins.

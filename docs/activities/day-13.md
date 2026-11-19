@@ -32,7 +32,7 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 
 **Household items supplied separately:** lemon juice, baking soda, water, three small clear cups, a teaspoon, a strainer, a small pot or heat-safe bowl for the adult's preparation, and a washable tray. Use tiny quantities and do not taste any samples.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One leakproof bottle of cooled red-cabbage indicator**, about 10–15 ml, sealed inside a second bag.
 - [ ] **One small pipette** (optional if using a household teaspoon).

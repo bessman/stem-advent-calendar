@@ -30,7 +30,7 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 
 **Household items supplied separately:** a stable table, a desk lamp with a cool LED bulb, and a room that can be dimmed slightly. An adult positions and operates the lamp.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One small white ball**, about 4–5 cm across.
 - [ ] **One folded Day 15 mission card** (below).

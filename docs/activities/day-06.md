@@ -31,7 +31,7 @@ Use the same type of paper for both bridges.
 
 **Household items supplied separately:** the same two stable book supports, sturdy table, lightweight cup, about 30 similar coins, ruler and pencil used on Day 5. If the Day 5 setup is unavailable, use matching supports and the same 15 cm gap.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **Two A4 sheets of the same printer paper**, folded for packing.
 - [ ] **One small paper cup** for holding the test coins.

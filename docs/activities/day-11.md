@@ -31,7 +31,7 @@ Test the chosen marker on the filter paper before the activity.
 
 **Household items supplied separately:** a small clear cup, a little tap water, pencil, tape and a plate or tray to catch drips.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **Two white coffee-filter strips**, about 2 × 8 cm each.
 - [ ] **One washable water-based dark marker**, checked by an adult.

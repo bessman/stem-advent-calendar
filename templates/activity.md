@@ -20,7 +20,7 @@ A short explanation of what children will discover, with 2–3 concrete learning
 
 **Estimated purchased total:** ... SEK (maximum 100 SEK)
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] A printed child mission card
 - [ ] ...

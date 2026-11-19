@@ -32,7 +32,7 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 
 **Household items supplied separately:** pencil, crayons or markers, child-safe tape, scissors for adult use, cardboard packaging, and the saved Arduino, button and LED parts. Do not connect or power the circuit during today's design activity.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One small piece of plain paper** for the design sketch or mock-up.
 - [ ] **One disconnected LED/resistor assembly and one pushbutton**, reused from earlier days as layout templates.

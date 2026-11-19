@@ -31,7 +31,7 @@ By the end of this mission, the child can:
 !!! info "Choose the right clay"
     Some craft clays float on their own, absorb water, dissolve or become too soft. **Before packing**, test a compact ball made from the intended 20–25 g piece: it should sink. Then check that a **wide, thin-walled boat** made from the same clay can float briefly. If not, switch to a suitable non-hardening plasticine rather than promising the child that every clay will work.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One 20–25 g portion of tested modelling clay**, wrapped in a small reusable bag or wrapper.
 - [ ] **One folded Day 2 mission card** (below).

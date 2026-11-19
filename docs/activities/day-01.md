@@ -36,7 +36,7 @@ Only a **small sample** of each material goes in the box.
 !!! info "Choosing materials"
     Clean household scraps work well. Choose safe materials with different surface properties.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **A:** Small piece of clean kitchen sponge, approx. 3 × 3 × 1 cm
 - [ ] **B:** Cotton fabric square, approx. 4 × 4 cm

@@ -34,7 +34,7 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 
 **Household items supplied separately:** small pieces of insulating tape and a non-metal tray or clear table area. No mains electricity, chargers or wall adapters are used.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One two-AA battery holder and two AA batteries**, packed separately so the cells are not installed yet.
 - [ ] **One red LED with a 220-ohm resistor pre-connected in series** by an adult; insulate the joined legs with tape or heat-shrink.

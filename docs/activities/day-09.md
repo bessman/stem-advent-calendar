@@ -31,7 +31,7 @@ Household dish soap and water are supplied separately.
 
 **Household items supplied separately:** a shallow dish, cool tap water, a small drop of dish soap, a washable work surface and a towel.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One small, sealed portion of ground black pepper.**
 - [ ] **One or two cotton swabs.**

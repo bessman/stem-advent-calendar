@@ -32,7 +32,7 @@ The small flashlight is reusable and included in the box.
 
 **Household items supplied separately:** a quiet indoor space and a pencil. Do not use a phone flashlight; keep the phone away from the activity.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One small battery-powered flashlight** for sending the light signals.
 - [ ] **One folded Day 22 mission card.**

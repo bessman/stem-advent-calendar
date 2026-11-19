@@ -31,7 +31,7 @@ Reuse clean printer paper and paperclips if available.
 
 **Household items supplied separately:** a ruler, pencil, scissors for the adult, and a clear indoor drop area with a hard floor. No water, batteries or special equipment are needed.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **Two paper strips**, each 15 × 4 cm, with a centre slit started at the top: one slit 5 cm long and one 3 cm long.
 - [ ] **Two small paperclips**, one for each helicopter.

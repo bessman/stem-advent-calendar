@@ -31,7 +31,7 @@ By the end of the mission, the child can:
 
 **Household items supplied separately:** two stable anchor points (for example, door handles or chair backs), a clear floor area about 2–3 m long, scissors for the adult, and optionally a hand pump to inflate the balloon. String and tape may be household supplies rather than purchases.
 
-## What's inside the 7 × 7 × 7 cm box?
+## What's inside the box?
 
 - [ ] **One uninflated balloon**, plus an optional spare, folded loosely.
 - [ ] **One straw piece about 5 cm long**, cut by an adult.
