@@ -21,21 +21,20 @@ By the end of today's mission, the child can:
 
 ## Shopping list
 
-Only a **small sample** of each material goes in the box. The prices are rough SEK estimates of the portion used, **not current store quotes**. If you do not already own the materials, the cost of buying a whole pack may be higher.
+Only a **small sample** of each material goes in the box.
 
-| Item | Quantity for this activity | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Kitchen sponge | 1 piece, about 3 × 3 × 1 cm | 3–10 | Cut from a clean, unused sponge. |
-| Cotton cloth | 1 square, about 4 × 4 cm | 0–10 | Scrap from an old clean T-shirt is fine. |
-| Aluminium foil | 1 square, about 4 × 4 cm | 1–3 | Ordinary kitchen foil. |
-| Flexible plastic packaging | 1 square, about 4 × 4 cm | 0–5 | Clean, smooth food packaging; no sharp edges. |
-| Printed mission card | 1 small card | 0–2 | Fold to fit the box. |
-| **Estimated materials used** | | **4–30** | **Below the 100 SEK/day limit.** |
+| Item | Quantity for this activity | Notes |
+| --- | --- | --- |
+| Kitchen sponge | 1 piece, about 3 × 3 × 1 cm | Cut from a clean, unused sponge. |
+| Cotton cloth | 1 square, about 4 × 4 cm | Scrap from an old clean T-shirt is fine. |
+| Aluminium foil | 1 square, about 4 × 4 cm | Ordinary kitchen foil. |
+| Flexible plastic packaging | 1 square, about 4 × 4 cm | Clean, smooth food packaging; no sharp edges. |
+| Printed mission card | 1 small card | Fold to fit the box. |
 
 **Household items (not packed):** a little tap water, a teaspoon, a plate or shallow tray, a cloth or towel for spills, and a pen/pencil if the child wishes to record a prediction. An adult needs scissors to prepare the samples.
 
-!!! info "Budget note"
-    This is a low-cost activity when household scraps are available. If everything must be purchased new, check the **full package prices**, not just the amount used; the activity can still be completed by substituting other clean, safe materials with different properties.
+!!! info "Choosing materials"
+    Clean household scraps work well. Choose safe materials with different surface properties.
 
 ## What's inside the 7 × 7 × 7 cm box?
 

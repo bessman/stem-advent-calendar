@@ -23,11 +23,10 @@ By the end of this mission, the child can:
 
 No special materials need to be purchased if suitable household glasses are available; the dropper is reusable.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Small plastic dropper | 1 | 1–3 | Lets the child add water in small amounts while comparing the sounds. |
-| Printed Day 8 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **1–5** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Small plastic dropper | 1 | Lets the child add water in small amounts while comparing the sounds. |
+| Printed Day 8 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** three identical, sturdy drinking glasses, a wooden spoon, a jug of room-temperature water, a towel and a stable table. An adult should choose and place the glasses.
 

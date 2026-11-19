@@ -21,15 +21,14 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Reuse the Arduino Uno and most circuit parts from Days 17–20. The existing Arduino Uno is excluded from the **100 SEK** activity limit.
+Reuse the Arduino Uno and most circuit parts from Days 17–20.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Green or other colour 5 mm LED | 1 | 1–3 | Second signal light; reuse the red LED from Day 17 as the first. |
-| 220-ohm resistor | 1 | 1–2 | One resistor in series with each external LED. Reuse Day 17's resistor for its LED. |
-| Recycled cardboard panel | 1, about 10 × 15 cm | 0–5 | Use the Day 23 prototype or clean packaging. |
-| Printed Day 24 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated additional materials** | | **2–12** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Green or other colour 5 mm LED | 1 | Second signal light; reuse the red LED from Day 17 as the first. |
+| 220-ohm resistor | 1 | One resistor in series with each external LED. Reuse Day 17's resistor for its LED. |
+| Recycled cardboard panel | 1, about 10 × 15 cm | Use the Day 23 prototype or clean packaging. |
+| Printed Day 24 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** Arduino Uno, USB data cable and computer with Arduino IDE; mini breadboard, pushbutton and jumper wires from Day 20; red LED and 220-ohm resistor from Day 17; cardboard, pencil, tape and adult-handled scissors. Do not use the AA battery holder for this Arduino circuit.
 

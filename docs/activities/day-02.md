@@ -21,13 +21,10 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-These are indicative SEK prices, **not live shop quotations**. Costs distinguish what is *used* from what you may need to *buy*.
-
-| Item | Amount needed | Estimated purchase cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Non-hardening, water-resistant modelling clay / plasticine | 1 piece, about **20–25 g** | **25–60** for a small pack | Choose clay that sinks as a compact ball and stays firm in cool water. Avoid air-dry clay, foam/lightweight clay and dissolving dough. |
-| Printed Day 2 mission card | 1 small folded card | **0–2** | Ordinary paper is fine. |
-| **Estimated total if purchasing supplies** | | **25–62** | **Under the 100 SEK/activity limit.** Leftover clay can be reused. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Non-hardening, water-resistant modelling clay / plasticine | 1 piece, about **20–25 g** | Choose clay that sinks as a compact ball and stays firm in cool water. Avoid air-dry clay, foam/lightweight clay and dissolving dough. |
+| Printed Day 2 mission card | 1 small folded card | Ordinary paper is fine. |
 
 **Household items (do not need to fit inside the box):** a wide bowl or deep baking tray, cool tap water, a towel, and a plate or washable work surface. Optional: a spoon for rescuing a sunken shape. An adult can provide a small dish of water in advance to check the chosen clay.
 

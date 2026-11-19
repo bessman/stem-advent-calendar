@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for small amounts used, not live shop quotations. Choose untreated seeds sold for growing, not seeds treated for planting in fields.
+Choose untreated seeds sold for growing, not seeds treated for planting in fields.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Cress seeds | 8–10 seeds | 1–5 | Fast-sprouting, untreated seeds from a food or garden supplier. Do not eat the experiment seeds. |
-| Cotton pad | 1 small piece | 0–1 | Plain, unscented cotton wool or a cotton pad. |
-| Printed Day 14 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **1–8** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Cress seeds | 8–10 seeds | Fast-sprouting, untreated seeds from a food or garden supplier. Do not eat the experiment seeds. |
+| Cotton pad | 1 small piece | Plain, unscented cotton wool or a cotton pad. |
+| Printed Day 14 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** a small clear cup or jar, tap water, a spoon or dropper, a tray and a pencil or notebook for recording observations.
 

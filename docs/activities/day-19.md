@@ -21,13 +21,12 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-The Arduino Uno is already available and excluded from the activity budget. Reuse its compatible USB data cable.
+The Arduino Uno is already available. Reuse its compatible USB data cable.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| USB data cable | 1 | 0 | Reuse a data-capable cable compatible with the supplied Arduino Uno. |
-| Printed Day 19 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **0–2** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| USB data cable | 1 | Reuse a data-capable cable compatible with the supplied Arduino Uno. |
+| Printed Day 19 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** Arduino Uno, computer with the Arduino IDE installed, and a clear, dry table. Use the built-in LED; no external wiring or battery pack is needed.
 

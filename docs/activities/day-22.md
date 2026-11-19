@@ -24,12 +24,11 @@ By the end of this mission, the child can:
 
 The small flashlight is reusable and included in the box.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Small battery-powered flashlight | 1 | 15–35 | Use a compact LED model; keep its batteries enclosed. |
-| Printed Day 22 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| Printed A–Z Morse key | 1 sheet, folded | 0–1 | Print separately from the Morse key section below. |
-| **Estimated materials used** | | **15–38** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Small battery-powered flashlight | 1 | Use a compact LED model; keep its batteries enclosed. |
+| Printed Day 22 mission card | 1 folded card | Ordinary paper is fine. |
+| Printed A–Z Morse key | 1 sheet, folded | Print separately from the Morse key section below. |
 
 **Household items supplied separately:** a quiet indoor space and a pencil. Do not use a phone flashlight; keep the phone away from the activity.
 

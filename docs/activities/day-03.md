@@ -21,16 +21,13 @@ By the end of the mission, the child can:
 
 ## Shopping list
 
-Prices are **indicative estimates in SEK**, not live shop quotations. The quantities used for one rocket are small, but purchases may come in multipacks.
-
-| Item | Amount needed | Estimated purchase cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Ordinary round balloon | 1, plus 1 spare if available | 10–25 for a small pack | Use a standard-size balloon that is safe for the child's age; avoid confetti or water balloons. |
-| Drinking straw | 1, cut to about 5 cm | 5–15 for a pack | Paper or plastic works; the string must slide easily through it. |
-| Smooth string | 2–3 m | 10–20 for a small roll | Thin cotton or synthetic string; smooth and not stretchy. |
-| Adhesive tape | About 15–20 cm | 10–20 for a roll | Painter's or transparent tape. |
-| Printed Day 3 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated total if purchasing all supplies** | | **35–82** | Under the **100 SEK per activity** limit. Supplies left over can be reused. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Ordinary round balloon | 1, plus 1 spare if available | Use a standard-size balloon that is safe for the child's age; avoid confetti or water balloons. |
+| Drinking straw | 1, cut to about 5 cm | Paper or plastic works; the string must slide easily through it. |
+| Smooth string | 2–3 m | Thin cotton or synthetic string; smooth and not stretchy. |
+| Adhesive tape | About 15–20 cm | Painter's or transparent tape. |
+| Printed Day 3 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** two stable anchor points (for example, door handles or chair backs), a clear floor area about 2–3 m long, scissors for the adult, and optionally a hand pump to inflate the balloon. String and tape may be household supplies rather than purchases.
 

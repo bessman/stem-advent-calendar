@@ -23,13 +23,12 @@ By the end of this mission, the child can:
 
 Use clean household packaging and craft supplies. The Arduino and saved circuit components are reused tomorrow.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Recycled thin cardboard | 1 small panel, about 10 × 15 cm | 0–5 | Cereal-box card or other clean, uncoated packaging. |
-| Plain paper | 1 small piece | 0–1 | For a sketch or paper prototype. |
-| Reused LED/resistor assembly and pushbutton | 1 each | 0 | Use the disconnected parts from Days 17 and 20 as size and placement templates; save them for Day 24. |
-| Printed Day 23 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **0–8** | Under the **100 SEK per activity** limit. Household craft supplies may be reused. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Recycled thin cardboard | 1 small panel, about 10 × 15 cm | Cereal-box card or other clean, uncoated packaging. |
+| Plain paper | 1 small piece | For a sketch or paper prototype. |
+| Reused LED/resistor assembly and pushbutton | 1 each | Use the disconnected parts from Days 17 and 20 as size and placement templates; save them for Day 24. |
+| Printed Day 23 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** pencil, crayons or markers, child-safe tape, scissors for adult use, cardboard packaging, and the saved Arduino, button and LED parts. Do not connect or power the circuit during today's design activity.
 

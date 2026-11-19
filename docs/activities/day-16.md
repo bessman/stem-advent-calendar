@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for small amounts used. Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium magnets.
+Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium magnets.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Ceramic bar or block magnet | 1, about 3–5 cm | 5–15 | Use a low-strength classroom or craft magnet, not a rare-earth magnet. |
-| Large steel paperclip | 1 | 0–1 | Use a standard large paperclip, not a tiny clip. |
-| Printed Day 16 mission card | 1 folded card | 0–2 | Draw the maze on the blank back. |
-| **Estimated materials used** | | **5–18** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Ceramic bar or block magnet | 1, about 3–5 cm | Use a low-strength classroom or craft magnet, not a rare-earth magnet. |
+| Large steel paperclip | 1 | Use a standard large paperclip, not a tiny clip. |
+| Printed Day 16 mission card | 1 folded card | Draw the maze on the blank back. |
 
 **Household items supplied separately:** a table, a sheet of paper if a larger maze is wanted, and a pencil or crayons for drawing a route.
 

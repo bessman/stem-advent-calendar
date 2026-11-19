@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for the small amounts used, not live shop quotations. Use the same type of paper for both bridges; printer paper from one pack is ideal.
+Use the same type of paper for both bridges.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Ordinary printer paper | 2 A4 sheets | 2–8 | Use two sheets of the same weight and size; one stays flat and one is folded. |
-| Small paper cup | 1 | 2–5 | Holds the coins during both tests; choose one about 6 cm wide so it fits in the box. |
-| Printed Day 6 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **4–15** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Ordinary printer paper | 2 A4 sheets | Use two sheets of the same weight and size; one stays flat and one is folded. |
+| Small paper cup | 1 | Holds the coins during both tests; choose one about 6 cm wide so it fits in the box. |
+| Printed Day 6 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** the same two stable book supports, sturdy table, lightweight cup, about 30 similar coins, ruler and pencil used on Day 5. If the Day 5 setup is unavailable, use matching supports and the same 15 cm gap.
 

@@ -21,15 +21,14 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-The Arduino Uno is already available and excluded from the budget. The pushbutton and breadboard will be reused on Day 24.
+The Arduino Uno is already available. The pushbutton and breadboard will be reused on Day 24.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Small solderless breadboard | 1 | 15–35 | A mini board is sufficient for the button. |
-| Breadboard-compatible momentary pushbutton | 1 | 1–5 | Normally open, four-leg tactile button. |
-| Insulated jumper wires | 5 | 5–15 | Male-to-male wires; use two today and save all five for Day 24. |
-| Printed Day 20 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated purchased total** | | **21–57** | Under the **100 SEK per activity** limit. Save the button, breadboard and wires for Day 24. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Small solderless breadboard | 1 | A mini board is sufficient for the button. |
+| Breadboard-compatible momentary pushbutton | 1 | Normally open, four-leg tactile button. |
+| Insulated jumper wires | 5 | Male-to-male wires; use two today and save all five for Day 24. |
+| Printed Day 20 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** Arduino Uno, the USB data cable from Day 19, and a computer with the Arduino IDE. No external power supply, battery or LED is needed; use the Uno's built-in LED.
 

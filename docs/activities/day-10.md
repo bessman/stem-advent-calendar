@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for small amounts used, not live shop quotations. Household food colouring and paper towels can be reused.
+Household food colouring and paper towels can be reused.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Paper towels | 4 strips, about 3 × 20 cm | 1–3 | Plain white absorbent paper towels work best. |
-| Food colouring | A few drops each of red, yellow and blue | 1–5 | Use liquid colouring if available; colours may stain. |
-| Printed Day 10 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **2–10** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Paper towels | 4 strips, about 3 × 20 cm | Plain white absorbent paper towels work best. |
+| Food colouring | A few drops each of red, yellow and blue | Use liquid colouring if available; colours may stain. |
+| Printed Day 10 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** five small clear cups, tap water, a washable tray or plate and a towel.
 

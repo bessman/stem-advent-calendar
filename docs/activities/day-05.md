@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for the small amounts used, not live shop quotations. Reuse clean printer paper if available.
+Reuse clean printer paper if available.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Ordinary printer paper | 1 sheet, A4 | 1–4 | Use standard paper, about 80 g/m²; save it for the Day 6 comparison if it stays flat. |
-| Small paper cup | 1 | 2–5 | Holds the coins during the bridge test; choose one about 6 cm wide so it fits in the box. |
-| Printed Day 5 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **3–11** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Ordinary printer paper | 1 sheet, A4 | Use standard paper, about 80 g/m²; save it for the Day 6 comparison if it stays flat. |
+| Small paper cup | 1 | Holds the coins during the bridge test; choose one about 6 cm wide so it fits in the box. |
+| Printed Day 5 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** two stable book supports of the same height, a sturdy table, about 30 similar coins, a ruler and pencil. Books and the test items do not need to fit inside the box.
 

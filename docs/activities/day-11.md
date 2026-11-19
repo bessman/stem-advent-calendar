@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for small amounts used, not live shop quotations. Test the chosen marker on the filter paper before the activity.
+Test the chosen marker on the filter paper before the activity.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| White coffee filter paper | 2 strips, about 2 × 8 cm | 1–3 | Unbleached brown filters make colours harder to see. |
-| Washable water-based marker | 1 dark colour | 2–10 | Brown, black or dark green may separate; permanent markers do not work with water. |
-| Printed Day 11 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **3–15** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| White coffee filter paper | 2 strips, about 2 × 8 cm | Unbleached brown filters make colours harder to see. |
+| Washable water-based marker | 1 dark colour | Brown, black or dark green may separate; permanent markers do not work with water. |
+| Printed Day 11 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** a small clear cup, a little tap water, pencil, tape and a plate or tray to catch drips.
 

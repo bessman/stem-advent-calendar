@@ -23,13 +23,12 @@ By the end of this mission, the child can:
 
 Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Aluminium foil | 2 squares, about 2 × 2 cm | 0–1 | Ordinary kitchen foil, folded once for strength. |
-| Large steel paperclip | 1 | 0–1 | Use as a movable metal bridge between contacts. |
-| Insulated alligator-clip lead | 1 | 5–10 | Adds a lead so the switch can be inserted into the circuit. |
-| Printed Day 18 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated additional materials** | | **5–14** | Under the **100 SEK per activity** limit; circuit parts are reused from Day 17. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Aluminium foil | 2 squares, about 2 × 2 cm | Ordinary kitchen foil, folded once for strength. |
+| Large steel paperclip | 1 | Use as a movable metal bridge between contacts. |
+| Insulated alligator-clip lead | 1 | Adds a lead so the switch can be inserted into the circuit. |
+| Printed Day 18 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** the Day 17 battery holder, two AA batteries, LED with 220-ohm resistor, two clip leads, a small piece of card and insulating tape. The batteries must be removed from the holder while changing the circuit.
 

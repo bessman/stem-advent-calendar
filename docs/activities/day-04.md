@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for the small amounts used, not live shop quotations. Reuse clean printer paper and paperclips if available.
+Reuse clean printer paper and paperclips if available.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Ordinary printer paper | 2 strips, each 15 × 4 cm | 1–4 | Use two pieces from the same kind of paper; recycled paper is fine. |
-| Small paperclips | 2 | 1–3 | One for the bottom of each helicopter. |
-| Printed Day 4 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **2–9** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Ordinary printer paper | 2 strips, each 15 × 4 cm | Use two pieces from the same kind of paper; recycled paper is fine. |
+| Small paperclips | 2 | One for the bottom of each helicopter. |
+| Printed Day 4 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** a ruler, pencil, scissors for the adult, and a clear indoor drop area with a hard floor. No water, batteries or special equipment are needed.
 

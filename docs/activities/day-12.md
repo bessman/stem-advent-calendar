@@ -21,13 +21,12 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for the small amounts used. Use ordinary granulated sugar and household water.
+Use ordinary granulated sugar and household water.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Granulated sugar | 2 level teaspoons | 0–1 | About 8 g total; pre-portion into two small packets. |
-| Printed Day 12 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **0–3** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Granulated sugar | 2 level teaspoons | About 8 g total; pre-portion into two small packets. |
+| Printed Day 12 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** two identical clear cups, 200 ml total water, a teaspoon, a measuring cup, a stirring spoon, a towel and a thermometer if available. An adult prepares and handles the warm water.
 

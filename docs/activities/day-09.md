@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-These are indicative estimates for the small amounts used. Household dish soap and water are supplied separately.
+Household dish soap and water are supplied separately.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Ground black pepper | A small pinch | 1–3 | Fine ground pepper is easiest to see moving. |
-| Cotton swabs | 1–2 | 0–1 | One swab can be reused if kept clean. |
-| Printed Day 9 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **1–6** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Ground black pepper | A small pinch | Fine ground pepper is easiest to see moving. |
+| Cotton swabs | 1–2 | One swab can be reused if kept clean. |
+| Printed Day 9 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** a shallow dish, cool tap water, a small drop of dish soap, a washable work surface and a towel.
 

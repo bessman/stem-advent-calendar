@@ -21,17 +21,16 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for reusable parts, not live shop quotations. Use a standard red LED and a resistor in series; do not use a loose coin-cell battery.
+Use a standard red LED and a resistor in series; do not use a loose coin-cell battery.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| 2-AA battery holder with leads | 1 | 10–25 | Holds two AA cells in series for about 3 V. No exposed battery terminals. |
-| AA alkaline batteries | 2 | 5–10 | Ordinary 1.5 V cells; remove them after testing. |
-| Red 5 mm LED | 1 | 1–3 | Standard through-hole LED. |
-| 220-ohm resistor | 1 | 1–2 | Must be connected in series to limit current. |
-| Insulated alligator-clip leads | 2 | 10–20 | For temporary connections; do not let the clips touch each other. |
-| Printed Day 17 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated total if purchasing all supplies** | | **27–62** | Under the **100 SEK per activity** limit. Parts are reused on Days 18–20 and later missions. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| 2-AA battery holder with leads | 1 | Holds two AA cells in series for about 3 V. No exposed battery terminals. |
+| AA alkaline batteries | 2 | Ordinary 1.5 V cells; remove them after testing. |
+| Red 5 mm LED | 1 | Standard through-hole LED. |
+| 220-ohm resistor | 1 | Must be connected in series to limit current. |
+| Insulated alligator-clip leads | 2 | For temporary connections; do not let the clips touch each other. |
+| Printed Day 17 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** small pieces of insulating tape and a non-metal tray or clear table area. No mains electricity, chargers or wall adapters are used.
 

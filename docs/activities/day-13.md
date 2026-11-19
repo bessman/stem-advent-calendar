@@ -21,15 +21,14 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for small amounts used, not live shop quotations. The indicator can be made from a small piece of red cabbage; household lemon juice and baking soda are used for testing.
+Make the indicator from a small piece of red cabbage; use household lemon juice and baking soda for testing.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Red cabbage | A few leaves for about 100 ml indicator | 2–6 | Use a small amount from a fresh cabbage. |
-| Leakproof small bottle | 1, about 10–15 ml | 2–10 | A clean screw-top sample bottle; double-bag for packing. |
-| Small pipette | 1 | 1–3 | Optional; a teaspoon also works. |
-| Printed Day 13 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **5–21** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Red cabbage | A few leaves for about 100 ml indicator | Use a small amount from a fresh cabbage. |
+| Leakproof small bottle | 1, about 10–15 ml | A clean screw-top sample bottle; double-bag for packing. |
+| Small pipette | 1 | Optional; a teaspoon also works. |
+| Printed Day 13 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** lemon juice, baking soda, water, three small clear cups, a teaspoon, a strainer, a small pot or heat-safe bowl for the adult's preparation, and a washable tray. Use tiny quantities and do not taste any samples.
 

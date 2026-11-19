@@ -21,14 +21,13 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Prices are indicative estimates for small amounts used, not live shop quotations. Household cups and string can be reused.
+Household cups and string can be reused.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Small paper cups | 2, about 120 ml | 2–5 | Choose cups about 6 cm wide so they can be nested in the box. |
-| Smooth cotton string | 2 m | 2–5 | Thin, non-stretch string works best. |
-| Printed Day 7 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **4–12** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Small paper cups | 2, about 120 ml | Choose cups about 6 cm wide so they can be nested in the box. |
+| Smooth cotton string | 2 m | Thin, non-stretch string works best. |
+| Printed Day 7 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** a pencil for the adult to make holes, and a clear space for two people to stand apart. No batteries or electronics are needed.
 

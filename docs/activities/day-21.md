@@ -23,12 +23,11 @@ By the end of this mission, the child can:
 
 This activity uses the Day 14 seed setup and observation record, plus a reusable hand lens.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Day 14 seed setup | 1 | 0 | Cress seeds on damp cotton in a clear cup or jar. |
-| Small hand lens | 1 | 10–25 | A simple magnifier helps inspect roots and shoots through the cup. |
-| Printed Day 21 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **10–27** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Day 14 seed setup | 1 | Cress seeds on damp cotton in a clear cup or jar. |
+| Small hand lens | 1 | A simple magnifier helps inspect roots and shoots through the cup. |
+| Printed Day 21 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** the Day 14 cup, seed setup, first drawing or notes, and a pencil. If the original setup has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead.
 

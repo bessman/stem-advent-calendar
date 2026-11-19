@@ -23,11 +23,10 @@ By the end of this mission, the child can:
 
 No special materials need to be purchased if a small ball and LED lamp are available at home.
 
-| Item | Amount needed | Estimated cost (SEK) | Notes |
-| --- | --- | ---: | --- |
-| Small white ball | 1, about 4–5 cm diameter | 0–10 | A lightweight ping-pong or craft ball; it should fit in the box. |
-| Printed Day 15 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **0–12** | Under the **100 SEK per activity** limit. |
+| Item | Amount needed | Notes |
+| --- | --- | --- |
+| Small white ball | 1, about 4–5 cm diameter | A lightweight ping-pong or craft ball; it should fit in the box. |
+| Printed Day 15 mission card | 1 folded card | Ordinary paper is fine. |
 
 **Household items supplied separately:** a stable table, a desk lamp with a cool LED bulb, and a room that can be dimmed slightly. An adult positions and operates the lamp.
 
