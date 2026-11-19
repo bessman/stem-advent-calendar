@@ -1,0 +1,32 @@
+[project]
+site_name = "STEM Advent Calendar 2026"
+site_description = "24 small science and technology adventures for curious children aged 6–9."
+docs_dir = "docs"
+site_dir = "site"
+nav = [
+  { "Welcome & calendar" = "index.md" },
+  # Add activity pages here as they are written, for example:
+  # { "Week 1 — Physics & engineering" = [
+  #   { "1 · Mystery Materials" = "activities/day-01.md" },
+  # ] },
+]
+extra_css = ["stylesheets/extra.css"]
+
+[project.theme]
+language = "en"
+features = [
+  "navigation.top",
+  "navigation.path",
+  "content.code.copy",
+]
+
+[project.theme.palette]
+scheme = "default"
+primary = "teal"
+accent = "deep orange"
+
+[project.markdown_extensions]
+admonition = {}
+attr_list = {}
+pymdownx.details = {}
+pymdownx.superfences = {}

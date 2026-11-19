@@ -1,0 +1,16 @@
+/* Light, friendly presentation with readable activity tables. */
+:root {
+  --md-typeset-a-color: #087e78;
+}
+.md-typeset h1 { font-weight: 800; letter-spacing: -0.035em; }
+.md-typeset h2 { margin-top: 2.2em; }
+.md-typeset table:not([class]) { font-size: 0.83rem; }
+.md-typeset table:not([class]) th { white-space: nowrap; }
+.md-typeset .admonition { border-radius: 0.6rem; }
+@media (max-width: 600px) {
+  .md-typeset table:not([class]) { font-size: 0.72rem; }
+}
+@media print {
+  .md-header, .md-sidebar, .md-footer, .md-tabs { display: none !important; }
+  .md-content { max-width: none; }
+}
