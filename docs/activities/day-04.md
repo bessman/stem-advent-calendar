@@ -3,7 +3,7 @@
 **Field:** Physics · Gravity · Aerodynamics  
 **Time:** 10–15 minutes (Friday 4 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 3](day-03.md), we explored how escaping air pushes a balloon rocket. Today we watch air slow and spin a falling paper helicopter. On Days 5–6, we will use observations to build and improve a bridge.
+**Progression:** On [Day 3](day-03.md), we explored how escaping air pushes a balloon rocket. Today we watch air slow and spin a falling paper helicopter. On [Days 5–6](day-05.md), we will use observations to build and improve a bridge.
 
 ## Introduction
 

@@ -10,6 +10,8 @@ nav = [
     { "2 · Sink or Float?" = "activities/day-02.md" },
     { "3 · Balloon Rocket Race" = "activities/day-03.md" },
     { "4 · The Flying Helicopter" = "activities/day-04.md" },
+    { "5 · Build a Bridge: Part 1" = "activities/day-05.md" },
+    { "6 · Build a Bridge: Part 2" = "activities/day-06.md" },
   ] },
 ]
 extra_css = ["stylesheets/extra.css"]

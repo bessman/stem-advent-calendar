@@ -32,8 +32,8 @@ As individual activity pages are completed, they will include an **introduction*
 | 2 | Wed 2 Dec | **[Sink or Float?](activities/day-02.md)** | Buoyancy, shapes and predictions | 10–15 min |
 | 3 | Thu 3 Dec | **[Balloon Rocket Race](activities/day-03.md)** | Forces and propulsion | 10–15 min |
 | 4 | Fri 4 Dec | **[The Flying Helicopter](activities/day-04.md)** | Gravity and aerodynamics | 10–15 min |
-| 5 | Sat 5 Dec | **Build a Bridge: Part 1** | Structures and load-bearing | 20–30 min |
-| 6 | Sun 6 Dec | **Build a Bridge: Part 2** | Testing and improving a design | 20–30 min |
+| 5 | Sat 5 Dec | **[Build a Bridge: Part 1](activities/day-05.md)** | Structures and load-bearing | 20–30 min |
+| 6 | Sun 6 Dec | **[Build a Bridge: Part 2](activities/day-06.md)** | Testing and improving a design | 20–30 min |
 
 **The connection:** Explore how things behave, then use what you have learned to build and improve a paper bridge.
 
