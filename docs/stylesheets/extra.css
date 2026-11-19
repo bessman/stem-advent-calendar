@@ -127,7 +127,115 @@
   }
 }
 
+.mission-print__toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.mission-print__toolbar select {
+  font: inherit;
+  color: inherit;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--light);
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+.mission-print__toolbar button:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+
+.mission-print__cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 90mm);
+  gap: 4mm;
+  overflow-x: auto;
+}
+
+.md-typeset .mission-print__card {
+  box-sizing: border-box;
+  width: 90mm;
+  height: 120mm;
+  padding: 4mm;
+  border: 1px dashed #666;
+  color: #111;
+  background: #fff;
+  line-height: 1.25;
+  letter-spacing: 0;
+}
+
+.md-typeset .mission-print__card .admonition {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+  color: inherit;
+  font-size: inherit;
+  break-inside: auto;
+}
+
+.md-typeset .mission-print__card p {
+  margin: 0 0 0.5em;
+}
+
+.md-typeset .mission-print__card .admonition-title {
+  margin: 0 0 0.7em;
+  padding: 0 0 0.5em;
+  border-bottom: 1px solid #aaa;
+  background: transparent;
+  font-size: 1.1em;
+  line-height: 1.2;
+}
+
+.mission-print__card .admonition-title::before,
+.mission-print__card .mission-card__translation::before {
+  display: none;
+}
+
 @media print {
+
+  @page {
+    size: portrait;
+    margin: 10mm;
+  }
+
+  body:has(.mission-print) .md-header,
+  body:has(.mission-print) .md-sidebar,
+  body:has(.mission-print) .md-footer,
+  body:has(.mission-print) .md-tabs,
+  body:has(.mission-print) .md-top,
+  body:has(.mission-print) .md-content__button,
+  body:has(.mission-print) .md-content__inner> :not(.mission-print),
+  .mission-print__toolbar,
+  .mission-print__status {
+    display: none !important;
+  }
+
+  body:has(.mission-print) .md-grid,
+  body:has(.mission-print) .md-main__inner,
+  body:has(.mission-print) .md-content,
+  body:has(.mission-print) .md-content__inner {
+    display: block;
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .mission-print__cards {
+    grid-template-columns: repeat(2, 90mm);
+    overflow: visible;
+  }
+
+  .mission-print__card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
 
   .md-header,
   .md-sidebar,

@@ -20,6 +20,8 @@ As individual activity pages are completed, they will include an **introduction*
 
 **Time and budget:** Weekday challenges take **10–15 minutes**. Weekend challenges on **5–6, 12–13, and 19–20 December** take **20–30 minutes**. The final mission on **24 December** takes **40–60 minutes**. Purchased supplies for each activity must cost **no more than 100 SEK**. An existing Arduino Uno is available and excluded from that limit. Ordinary household supplies can be used without fitting inside the boxes.
 
+[Print all 24 mission cards](print-cards.md){ .md-button .md-button--primary }
+
 ## Your 24-day adventure
 
 ### Week 1 · The Physics Playground

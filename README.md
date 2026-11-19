@@ -24,6 +24,14 @@ A static website for 24 science and technology activities for children aged 6–
 
 No activity links appear on the initial homepage because the 24 detail pages have not yet been written.
 
+## Print all mission cards
+
+Use **Print all 24 mission cards** on the homepage, or **Print mission cards** in the navigation. Choose **English** or **Svenska**, then **Print / Save PDF**. The language choice is shared with the individual activity pages and remembered in this browser.
+
+The combined HTML page loads the current cards from all 24 activity pages; no separate copies need updating. Only languages available on every card are offered, and printing stays disabled if loading fails. JavaScript and a running site are required.
+
+Print on A4 or Letter in portrait at 100% scale with browser headers and footers off. Cards have dashed cutting borders and measure 90 x 120 mm, arranged four per sheet. Fold each card in half twice to fit a 7 cm box. Select **Save as PDF** in the browser print dialog to export a PDF.
+
 ## Translate a mission card
 
 Only the child's mission card is localized; the page heading, adult instructions and site navigation remain in English.
