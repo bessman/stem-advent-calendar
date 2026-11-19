@@ -29,7 +29,7 @@ As individual activity pages are completed, they will include an **introduction*
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
 | 1 | Tue 1 Dec | **[The Mystery Materials Lab](activities/day-01.md)** | Observe and sort materials like a scientist | 10–15 min |
-| 2 | Wed 2 Dec | **Sink or Float?** | Buoyancy, shapes and predictions | 10–15 min |
+| 2 | Wed 2 Dec | **[Sink or Float?](activities/day-02.md)** | Buoyancy, shapes and predictions | 10–15 min |
 | 3 | Thu 3 Dec | **Balloon Rocket Race** | Forces and propulsion | 10–15 min |
 | 4 | Fri 4 Dec | **The Flying Helicopter** | Gravity and aerodynamics | 10–15 min |
 | 5 | Sat 5 Dec | **Build a Bridge: Part 1** | Structures and load-bearing | 20–30 min |
@@ -99,4 +99,4 @@ These are **small experiments, not tests**. Invite children to make their own gu
 
 ### What is coming next?
 
-This is the project overview. The **[Day 1 activity page](activities/day-01.md)** is available now. The remaining activity pages will be added as their experiments are specified and checked. Each page explains what to buy, what to pack, what the child does, and what the adult needs to know.
+This is the project overview. The **[Day 1](activities/day-01.md)** and **[Day 2](activities/day-02.md)** activity pages are available now. The remaining activity pages will be added as their experiments are specified and checked. Each page explains what to buy, what to pack, what the child does, and what the adult needs to know.

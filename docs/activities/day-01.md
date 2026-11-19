@@ -3,7 +3,7 @@
 **Field:** Materials science · Scientific method  
 **Time:** 10–15 minutes (Tuesday 1 December 2026)  
 **Age group:** 6–9  
-**Progression:** Our first mission introduces **predict → test → observe**. On [Day 2](../index.md#week-1-the-physics-playground), children will use the same method to investigate sinking and floating. The materials in this box do **not** need to be saved for later activities.
+**Progression:** Our first mission introduces **predict → test → observe**. On [Day 2](day-02.md), children will use the same method to investigate sinking and floating. The materials in this box do **not** need to be saved for later activities.
 
 ## Introduction
 
@@ -132,6 +132,6 @@ This is the beginning of the **scientific method**: ask a question, make a predi
 - **Drops roll away:** Keep the pieces flat in a shallow plate, and describe the rolling as an observation rather than a failure.
 - **Extra challenge for older children:** Make a simple table with rows A–D and columns **soft/hard**, **bendy/stiff** and **absorbs/not absorbs**. Ask whether the materials could be grouped in more than one way.
 
-**Next experiment:** On Day 2, we will use predictions and careful observations again — this time to ask why some objects float and others sink.
+**Next experiment:** On [Day 2](day-02.md), we will use predictions and careful observations again — this time to ask why some objects float and others sink.
 
 [← Back to the calendar](../index.md)
