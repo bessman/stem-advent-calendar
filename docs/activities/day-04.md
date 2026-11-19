@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How can air make a falling paper helicopter spin?
 
-## Shopping list
+## Materials list
 
 Reuse clean printer paper and paperclips if available.
 
@@ -28,8 +28,10 @@ Reuse clean printer paper and paperclips if available.
 | Ordinary printer paper | 2 strips, each 15 × 4 cm | Use two pieces from the same kind of paper; recycled paper is fine. |
 | Small paperclips | 2 | One for the bottom of each helicopter. |
 | Printed Day 4 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** a ruler, pencil, scissors for the adult, and a clear indoor drop area with a hard floor. No water, batteries or special equipment are needed.
+| Ruler | 1 | For measuring and folding the paper. |
+| Pencil | 1 | For marking the folds. |
+| Scissors | 1 pair | Adult use for preparing the strips. |
+| Clear indoor drop area with hard floor | 1 | Keep the landing area clear. |
 
 ## What's inside the box?
 

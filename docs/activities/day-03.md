@@ -19,17 +19,19 @@ By the end of the mission, the child can:
 
 **The big question:** If the air shoots backward, which way does the rocket go?
 
-## Shopping list
+## Materials list
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Ordinary round balloon | 1, plus 1 spare if available | Use a standard-size balloon that is safe for the child's age; avoid confetti or water balloons. |
 | Drinking straw | 1, cut to about 5 cm | Paper or plastic works; the string must slide easily through it. |
-| Smooth string | 2–3 m | Thin cotton or synthetic string; smooth and not stretchy. |
-| Adhesive tape | About 15–20 cm | Painter's or transparent tape. |
+| Smooth string | 2–3 m | Thin cotton or synthetic string; smooth and not stretchy. May be a household supply rather than a purchase. |
+| Adhesive tape | About 15–20 cm | Painter's or transparent tape; may be a household supply rather than a purchase. |
 | Printed Day 3 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** two stable anchor points (for example, door handles or chair backs), a clear floor area about 2–3 m long, scissors for the adult, and optionally a hand pump to inflate the balloon. String and tape may be household supplies rather than purchases.
+| Two stable anchor points | 2 | For example, door handles or chair backs. |
+| Clear floor area | About 2–3 m long | Keep the launch path clear. |
+| Scissors | 1 pair | Adult use. |
+| Hand pump | 1, optional | For inflating the balloon. |
 
 ## What's inside the box?
 

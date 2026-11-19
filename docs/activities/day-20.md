@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How does the Arduino know when the button is pressed?
 
-## Shopping list
+## Materials list
 
 The Arduino is already available. The pushbutton and breadboard will be reused on Day 24.
 
@@ -29,8 +29,9 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 | Breadboard-compatible momentary pushbutton | 1 | Normally open, four-leg tactile button. |
 | Insulated jumper wires | 5 | Male-to-male wires; use two today and save all five for Day 24. |
 | Printed Day 20 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** Arduino, the USB data cable from Day 19, and a computer with the Arduino IDE. No external power supply, battery or LED is needed; use the Arduino's built-in LED.
+| Arduino board | 1 | Reuse the Day 19 board; use its built-in LED. No external power supply, battery or LED is needed. |
+| USB data cable | 1 | Reuse the Day 19 cable. |
+| Computer with Arduino IDE installed | 1 | For programming the board. |
 
 ## What's inside the box?
 

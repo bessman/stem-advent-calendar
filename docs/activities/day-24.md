@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How do the button, program and LEDs work together to send a message?
 
-## Shopping list
+## Materials list
 
 Reuse the Arduino and most circuit parts from Days 17–20.
 
@@ -29,8 +29,16 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 | 220-ohm resistor | 1 | One resistor in series with each external LED. Reuse Day 17's resistor for its LED. |
 | Recycled cardboard panel | 1, about 10 × 15 cm | Use the Day 23 prototype or clean packaging. |
 | Printed Day 24 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** Arduino, USB data cable and computer with Arduino IDE; mini breadboard, pushbutton and jumper wires from Day 20; red LED and 220-ohm resistor from Day 17; cardboard, pencil, tape and adult-handled scissors. Do not use the AA battery holder for this Arduino circuit.
+| Arduino board | 1 | Reuse the board from Days 19–20. Do not use the AA battery holder for this Arduino circuit. |
+| USB data cable | 1 | Reuse the cable from Day 19. |
+| Computer with Arduino IDE installed | 1 | For programming the board. |
+| Mini breadboard | 1 | Reuse the board from Day 20. |
+| Pushbutton | 1 | Reuse the button from Day 20. |
+| Jumper wires | 5 | Reuse the wires from Day 20. |
+| Red LED and 220-ohm resistor | 1 each | Reuse the Day 17 parts. |
+| Pencil | 1 | For marking the cardboard design. |
+| Tape | A small amount | For attaching the cardboard parts. |
+| Scissors | 1 pair | Adult use for cutting the cardboard. |
 
 ## What's inside the box?
 

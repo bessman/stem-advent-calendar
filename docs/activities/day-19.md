@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How does the Arduino know when to turn its light on and off?
 
-## Shopping list
+## Materials list
 
 The Arduino is already available. Reuse its compatible USB data cable.
 
@@ -27,8 +27,9 @@ The Arduino is already available. Reuse its compatible USB data cable.
 | --- | --- | --- |
 | USB data cable | 1 | Reuse a data-capable cable compatible with the supplied Arduino. |
 | Printed Day 19 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** Arduino, computer with the Arduino IDE installed, and a clear, dry table. Use the built-in LED; no external wiring or battery pack is needed.
+| Arduino board | 1 | Use its built-in LED; no external wiring or battery pack is needed. |
+| Computer with Arduino IDE installed | 1 | For programming the board. |
+| Clear, dry table | 1 | For setting up the computer and Arduino. |
 
 ## What's inside the box?
 

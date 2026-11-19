@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How can the design make the light message easy to see and the button easy to press?
 
-## Shopping list
+## Materials list
 
 Use clean household packaging and craft supplies. The Arduino and saved circuit components are reused tomorrow.
 
@@ -29,8 +29,12 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 | Plain paper | 1 small piece | For a sketch or paper prototype. |
 | Reused LED/resistor assembly and pushbutton | 1 each | Use the disconnected parts from Days 17 and 20 as size and placement templates; save them for Day 24. |
 | Printed Day 23 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** pencil, crayons or markers, child-safe tape, scissors for adult use, cardboard packaging, and the saved Arduino, button and LED parts. Do not connect or power the circuit during today's design activity.
+| Pencil | 1 | For sketches and labels. |
+| Crayons or markers | As needed | For drawing and decorating the design. |
+| Child-safe tape | A small amount | For the paper prototype. |
+| Scissors | 1 pair | Adult use. |
+| Arduino board | 1 | Keep disconnected and unpowered; reuse on Day 24. |
+| Mini breadboard and jumper wires | 1 board and wires | Keep stored until Day 24; do not connect or power them today. |
 
 ## What's inside the box?
 

@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** Can an invisible force move something through a maze?
 
-## Shopping list
+## Materials list
 
 Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium magnets.
 
@@ -28,8 +28,9 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 | Ceramic bar or block magnet | 1, about 3–5 cm | Use a low-strength classroom or craft magnet, not a rare-earth magnet. |
 | Large steel paperclip | 1 | Use a standard large paperclip, not a tiny clip. |
 | Printed Day 16 mission card | 1 folded card | Draw the maze on the blank back. |
-
-**Household items supplied separately:** a table, a sheet of paper if a larger maze is wanted, and a pencil or crayons for drawing a route.
+| Table | 1 | For the maze activity. |
+| Sheet of paper | 1, optional | For drawing a larger maze. |
+| Pencil or crayons | 1 or more | For drawing a route. |
 
 ## What's inside the box?
 

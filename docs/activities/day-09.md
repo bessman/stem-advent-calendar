@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** Why does the pepper move away when soap touches the water?
 
-## Shopping list
+## Materials list
 
 Household dish soap and water are supplied separately.
 
@@ -28,8 +28,11 @@ Household dish soap and water are supplied separately.
 | Ground black pepper | A small pinch | Fine ground pepper is easiest to see moving. |
 | Cotton swabs | 1–2 | One swab can be reused if kept clean. |
 | Printed Day 9 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** a shallow dish, cool tap water, a small drop of dish soap, a washable work surface and a towel.
+| Shallow dish | 1 | For holding the water. |
+| Cool tap water | A small amount | Enough to cover the bottom of the dish. |
+| Dish soap | 1 small drop | Ordinary household dish soap. |
+| Washable work surface | 1 | Protect the table from spills. |
+| Towel | 1 | For spills. |
 
 ## What's inside the box?
 

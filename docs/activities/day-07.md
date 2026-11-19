@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How does your voice travel from one cup to the other?
 
-## Shopping list
+## Materials list
 
 Household cups and string can be reused.
 
@@ -28,8 +28,8 @@ Household cups and string can be reused.
 | Small paper cups | 2, about 120 ml | Choose cups about 6 cm wide so they can be nested in the box. |
 | Smooth cotton string | 2 m | Thin, non-stretch string works best. |
 | Printed Day 7 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** a pencil for the adult to make holes, and a clear space for two people to stand apart. No batteries or electronics are needed.
+| Pencil | 1 | Adult use for making holes in the cups. |
+| Clear space | 1 | Enough for two people to stand apart with the string taut. |
 
 ## What's inside the box?
 

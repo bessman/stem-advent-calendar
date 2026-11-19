@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How can water climb up a paper towel and into another cup?
 
-## Shopping list
+## Materials list
 
 Household food colouring and paper towels can be reused.
 
@@ -28,8 +28,10 @@ Household food colouring and paper towels can be reused.
 | Paper towels | 4 strips, about 3 × 20 cm | Plain white absorbent paper towels work best. |
 | Food colouring | A few drops each of red, yellow and blue | Use liquid colouring if available; colours may stain. |
 | Printed Day 10 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** five small clear cups, tap water, a washable tray or plate and a towel.
+| Small clear cups | 5 | For the coloured water and empty cups. |
+| Tap water | Enough for the cups | Keep liquids away from the paper materials. |
+| Washable tray or plate | 1 | Catches drips. |
+| Towel | 1 | For spills. |
 
 ## What's inside the box?
 

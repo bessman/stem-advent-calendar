@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** What happens to a flat paper bridge when we add weight?
 
-## Shopping list
+## Materials list
 
 Reuse clean printer paper if available.
 
@@ -28,8 +28,11 @@ Reuse clean printer paper if available.
 | Ordinary printer paper | 1 sheet, A4 | Use standard paper, about 80 g/m²; save it for the Day 6 comparison if it stays flat. |
 | Small paper cup | 1 | Holds the coins during the bridge test; choose one about 6 cm wide so it fits in the box. |
 | Printed Day 5 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** two stable book supports of the same height, a sturdy table, about 30 similar coins, a ruler and pencil. Books and the test items do not need to fit inside the box.
+| Stable book supports | 2, same height | Set about 15 cm apart. |
+| Sturdy table | 1 | For the bridge test. |
+| Similar coins | About 30 | Use the same coins throughout. |
+| Ruler | 1 | For measuring the gap. |
+| Pencil | 1 | For recording results. |
 
 ## What's inside the box?
 

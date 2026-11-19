@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** What colours are hiding inside a dark marker?
 
-## Shopping list
+## Materials list
 
 Test the chosen marker on the filter paper before the activity.
 
@@ -28,8 +28,11 @@ Test the chosen marker on the filter paper before the activity.
 | White coffee filter paper | 2 strips, about 2 × 8 cm | Unbleached brown filters make colours harder to see. |
 | Washable water-based marker | 1 dark colour | Brown, black or dark green may separate; permanent markers do not work with water. |
 | Printed Day 11 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** a small clear cup, a little tap water, pencil, tape and a plate or tray to catch drips.
+| Small clear cup | 1 | Holds a little water. |
+| Tap water | A little | For the chromatography test. |
+| Pencil | 1 | Suspends the paper strip across the cup. |
+| Tape | A small piece | Holds the paper strip to the pencil. |
+| Plate or tray | 1 | Catches drips. |
 
 ## What's inside the box?
 

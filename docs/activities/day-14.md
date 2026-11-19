@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** What changes first when a seed begins to grow?
 
-## Shopping list
+## Materials list
 
 Choose untreated seeds sold for growing, not seeds treated for planting in fields.
 
@@ -28,8 +28,11 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 | Cress seeds | 8–10 seeds | Fast-sprouting, untreated seeds from a food or garden supplier. Do not eat the experiment seeds. |
 | Cotton pad | 1 small piece | Plain, unscented cotton wool or a cotton pad. |
 | Printed Day 14 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** a small clear cup or jar, tap water, a spoon or dropper, a tray and a pencil or notebook for recording observations.
+| Small clear cup or jar | 1 | Choose a stable container that is easy to inspect from the side. |
+| Tap water | A little | To dampen the cotton. |
+| Spoon or dropper | 1 | For adding water. |
+| Tray | 1 | For containing drips. |
+| Pencil or notebook | 1 | For recording observations. |
 
 ## What's inside the box?
 

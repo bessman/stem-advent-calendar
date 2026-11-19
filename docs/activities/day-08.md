@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How does the amount of water change the sound a glass makes?
 
-## Shopping list
+## Materials list
 
 No special materials need to be purchased if suitable household glasses are available; the dropper is reusable.
 
@@ -27,8 +27,11 @@ No special materials need to be purchased if suitable household glasses are avai
 | --- | --- | --- |
 | Small plastic dropper | 1 | Lets the child add water in small amounts while comparing the sounds. |
 | Printed Day 8 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** three identical, sturdy drinking glasses, a wooden spoon, a jug of room-temperature water, a towel and a stable table. An adult should choose and place the glasses.
+| Sturdy drinking glasses | 3, identical | An adult chooses and places them. |
+| Wooden spoon | 1 | For tapping the glasses. |
+| Room-temperature water | Enough for the glasses | Pour carefully. |
+| Towel | 1 | For spills. |
+| Stable table | 1 | For setting out the glasses. |
 
 ## What's inside the box?
 

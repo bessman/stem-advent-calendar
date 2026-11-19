@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** How does a switch control whether current can flow?
 
-## Shopping list
+## Materials list
 
 Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 
@@ -29,8 +29,12 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 | Large steel paperclip | 1 | Use as a movable metal bridge between contacts. |
 | Insulated alligator-clip lead | 1 | Adds a lead so the switch can be inserted into the circuit. |
 | Printed Day 18 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** the Day 17 battery holder, two AA batteries, LED with 220-ohm resistor, two clip leads, a small piece of card and insulating tape. The batteries must be removed from the holder while changing the circuit.
+| Day 17 two-AA battery holder | 1 | Reuse the Day 17 circuit; remove the batteries while changing it. |
+| AA batteries | 2 | Reuse the Day 17 batteries; remove them from the holder during setup. |
+| Red LED with 220-ohm resistor | 1 assembly | Reuse the Day 17 component. |
+| Insulated alligator-clip leads | 2 | Reuse the Day 17 leads. |
+| Small piece of card | 1 | For mounting the foil contacts. |
+| Insulating tape | A small piece | For securing the switch parts. |
 
 ## What's inside the box?
 

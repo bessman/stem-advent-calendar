@@ -19,7 +19,7 @@ By the end of today's mission, the child can:
 
 **The big question:** Which mystery materials soak up water, and which keep it on the surface?
 
-## Shopping list
+## Materials list
 
 Only a **small sample** of each material goes in the box.
 
@@ -30,8 +30,13 @@ Only a **small sample** of each material goes in the box.
 | Aluminium foil | 1 square, about 4 × 4 cm | Ordinary kitchen foil. |
 | Flexible plastic packaging | 1 square, about 4 × 4 cm | Clean, smooth food packaging; no sharp edges. |
 | Printed mission card | 1 small card | Fold to fit the box. |
-
-**Household items (not packed):** a little tap water, a teaspoon, a plate or shallow tray, a cloth or towel for spills, and a pen/pencil if the child wishes to record a prediction. An adult needs scissors to prepare the samples.
+| Tap water | A little | Use about one drop per sample. |
+| Small cup | 1 | Holds the water for testing. |
+| Teaspoon | 1 | For adding drops. |
+| Plate or shallow tray | 1 | For testing the samples. |
+| Cloth or towel | 1 | For spills. |
+| Pen or pencil | 1, optional | For recording a prediction. |
+| Scissors | 1 pair | Adult use for preparing the samples. |
 
 !!! info "Choosing materials"
     Clean household scraps work well. Choose safe materials with different surface properties.

@@ -19,14 +19,17 @@ By the end of this mission, the child can:
 
 **The big question:** Can you make something that sinks **float without changing what it is made of**?
 
-## Shopping list
+## Materials list
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Non-hardening, water-resistant modelling clay / plasticine | 1 piece, about **20–25 g** | Choose clay that sinks as a compact ball and stays firm in cool water. Avoid air-dry clay, foam/lightweight clay and dissolving dough. |
 | Printed Day 2 mission card | 1 small folded card | Ordinary paper is fine. |
-
-**Household items (do not need to fit inside the box):** a wide bowl or deep baking tray, cool tap water, a towel, and a plate or washable work surface. Optional: a spoon for rescuing a sunken shape. An adult can provide a small dish of water in advance to check the chosen clay.
+| Wide bowl or deep baking tray | 1 | For holding the cool water. |
+| Cool tap water | Enough to fill the bowl | An adult can use a small dish of water to check the chosen clay before packing. |
+| Towel | 1 | For spills. |
+| Plate or washable work surface | 1 | For shaping and testing the clay. |
+| Spoon | 1, optional | For rescuing a sunken shape. |
 
 !!! info "Choose the right clay"
     Some craft clays float on their own, absorb water, dissolve or become too soft. **Before packing**, test a compact ball made from the intended 20–25 g piece: it should sink. Then check that a **wide, thin-walled boat** made from the same clay can float briefly. If not, switch to a suitable non-hardening plasticine rather than promising the child that every clay will work.

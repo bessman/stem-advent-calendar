@@ -19,7 +19,7 @@ By the end of this mission, the child can:
 
 **The big question:** Does the Moon really change shape, or do we see its light differently?
 
-## Shopping list
+## Materials list
 
 No special materials need to be purchased if a small ball and LED lamp are available at home.
 
@@ -27,8 +27,10 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 | --- | --- | --- |
 | Small white ball | 1, about 4–5 cm diameter | A lightweight ping-pong or craft ball; it should fit in the box. |
 | Printed Day 15 mission card | 1 folded card | Ordinary paper is fine. |
-
-**Household items supplied separately:** a stable table, a desk lamp with a cool LED bulb, and a room that can be dimmed slightly. An adult positions and operates the lamp.
+| Stable table | 1 | For positioning the lamp. |
+| Desk lamp with a cool LED bulb | 1 | Adult positions and operates it. Do not use candles, hot bulbs or direct sunlight. |
+| Dim room | 1 | Dim slightly so the lit part of the ball is easier to see. |
+| Clear standing area | 1 | Enough for the child to turn slowly in place. |
 
 ## What's inside the box?
 
