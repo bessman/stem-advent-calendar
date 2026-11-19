@@ -21,18 +21,20 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-No new materials need to be purchased. This activity uses the Day 14 seed setup and observation record.
+This activity uses the Day 14 seed setup and observation record, plus a reusable hand lens.
 
 | Item | Amount needed | Estimated cost (SEK) | Notes |
 | --- | --- | ---: | --- |
 | Day 14 seed setup | 1 | 0 | Cress seeds on damp cotton in a clear cup or jar. |
+| Small hand lens | 1 | 10–25 | A simple magnifier helps inspect roots and shoots through the cup. |
 | Printed Day 21 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated purchased total** | | **0–2** | Under the **100 SEK per activity** limit. |
+| **Estimated materials used** | | **10–27** | Under the **100 SEK per activity** limit. |
 
 **Household items supplied separately:** the Day 14 cup, seed setup, first drawing or notes, and a pencil. If the original setup has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead.
 
 ## What's inside the 7 × 7 × 7 cm box?
 
+- [ ] **One small hand lens** for looking closely at the seedlings.
 - [ ] **One folded Day 21 mission card** (below).
 
 **Household items to supply separately:** the living or discarded Day 14 seed setup and the child's observation record. Nothing else is needed in the box.
@@ -45,7 +47,7 @@ No new materials need to be purchased. This activity uses the Day 14 seed setup 
 !!! example "🌱 DAY 21 — THE SEED SCIENTIST RETURNS"
     **Your mission:** Find out what happened to your seeds!
 
-    **You need:** Your Day 14 seed cup, your first drawing or notes, a pencil and a grown-up.
+    **You need:** Your Day 14 seed cup, the hand lens in your box, your first drawing or notes, a pencil and a grown-up.
 
     **1. Predict!** Look at your first prediction. What did you think would happen?
 
@@ -64,7 +66,7 @@ No new materials need to be purchased. This activity uses the Day 14 seed setup 
 !!! example "🌱 DAG 21 — FRÖFORSKAREN ÅTERVÄNDER"
     **Ditt uppdrag:** Ta reda på vad som hände med fröna!
 
-    **Du behöver:** Frömuggen från dag 14, din första teckning eller dina anteckningar, en penna och en vuxen.
+    **Du behöver:** Frömuggen från dag 14, förstoringsglaset i lådan, din första teckning eller dina anteckningar, en penna och en vuxen.
 
     **1. Gissa!** Titta på din första gissning. Vad trodde du skulle hända?
 
@@ -85,14 +87,14 @@ No new materials need to be purchased. This activity uses the Day 14 seed setup 
 
 1. Find the Day 14 seed cup and the child's first drawing or notes. Do not add water until you have checked whether the cotton is damp.
 2. If the setup is healthy, place it on a tray in good light. If it has mould or an unpleasant smell, leave it closed and plan to discard it without asking the child to handle it.
-3. Pack the folded mission card. No new science materials are needed.
+3. Pack the hand lens and folded mission card.
 
 ### How to help (10–15 minutes total)
 
 | Time | What to do |
 | --- | --- |
 | 0–3 min | Read the first prediction together. Ask what the child remembers noticing during the week. |
-| 3–6 min | Observe the setup from the outside of the cup. Look for roots, shoots, seed coats and changes in colour or size. |
+| 3–6 min | Observe the setup from the outside of the cup, first with your eyes and then through the hand lens. Look for roots, shoots, seed coats and changes in colour or size. |
 | 6–10 min | Draw or describe today's result beside the first record. Compare what happened with what the child expected. |
 | 10–13 min | Ask what evidence supports the child's explanation and what might be tested next time. |
 | 13–15 min | Decide whether to continue caring for the cress briefly or discard the setup safely. Wash hands after handling the cup. |
@@ -102,6 +104,7 @@ No new materials need to be purchased. This activity uses the Day 14 seed setup 
 ### Safety
 
 - Do not eat the experimental seeds or seedlings. Wash hands after handling the cup.
+- Use the hand lens indoors and never point it at the sun.
 - If there is mould or an unpleasant smell, an adult should discard the setup without opening or shaking it. Clean the cup and surface.
 - Keep the cup away from younger children and pets. Wipe up any water spills.
 

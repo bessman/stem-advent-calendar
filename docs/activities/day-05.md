@@ -26,17 +26,19 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 | Item | Amount needed | Estimated cost (SEK) | Notes |
 | --- | --- | ---: | --- |
 | Ordinary printer paper | 1 sheet, A4 | 1–4 | Use standard paper, about 80 g/m²; save it for the Day 6 comparison if it stays flat. |
+| Small paper cup | 1 | 2–5 | Holds the coins during the bridge test; choose one about 6 cm wide so it fits in the box. |
 | Printed Day 5 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **1–6** | Under the **100 SEK per activity** limit. |
+| **Estimated materials used** | | **3–11** | Under the **100 SEK per activity** limit. |
 
-**Household items supplied separately:** two stable book supports of the same height, a sturdy table, a lightweight cup, about 30 similar coins, a ruler and pencil. Books and the test items do not need to fit inside the box.
+**Household items supplied separately:** two stable book supports of the same height, a sturdy table, about 30 similar coins, a ruler and pencil. Books and the test items do not need to fit inside the box.
 
 ## What's inside the 7 × 7 × 7 cm box?
 
 - [ ] **One A4 sheet of printer paper**, folded for packing.
+- [ ] **One small paper cup** for holding the test coins.
 - [ ] **One folded Day 5 mission card** (below).
 
-**Packing:** Fold the sheet into a compact rectangle no larger than the box and place it with the mission card. Unfold and flatten it before testing. Keep the books, cup, coins, ruler and pencil outside the box.
+**Packing:** Fold the sheet into a compact rectangle no larger than the box. Place the paper and folded card inside the cup. Unfold and flatten the sheet before testing. Keep the books, coins, ruler and pencil outside the box.
 
 ## Child's mission card
 
@@ -46,7 +48,7 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 !!! example "🌉 DAY 5 — BUILD A BRIDGE: PART 1"
     **Your mission:** Build a bridge from one flat sheet of paper. How much can it hold?
 
-    **You need:** Your paper, two grown-up-approved book supports, a light cup and some coins.
+    **You need:** The paper and cup in your box, two grown-up-approved book supports and some coins.
 
     **1. Predict!** Will the flat paper stay level when we put a cup in the middle? How many coins might it hold?
 
@@ -65,7 +67,7 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 !!! example "🌉 DAG 5 — BYGG EN BRO: DEL 1"
     **Ditt uppdrag:** Bygg en bro av ett platt pappersark. Hur mycket kan den bära?
 
-    **Du behöver:** Pappret i lådan, två stadiga bokstöd som en vuxen har godkänt, en lätt mugg och några mynt.
+    **Du behöver:** Pappret och muggen i lådan, två stadiga bokstöd som en vuxen har godkänt och några mynt.
 
     **1. Gissa!** Tror du att det platta pappret förblir rakt när vi ställer en mugg i mitten? Hur många mynt kan det bära?
 
@@ -85,9 +87,9 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 ### Preparation (3–5 minutes before opening)
 
 1. Choose two stable book supports of the same height. Place them on a sturdy table with a **15 cm clear gap** between their inside edges. Make sure the paper bridge will have clear space beneath it before it reaches the tabletop.
-2. Set out a lightweight cup and about **30 similar coins**. Use the same coins throughout; count them before starting. Keep the coins in a small bowl until needed.
+2. Set out the paper cup from the box and about **30 similar coins**. Use the same coins throughout; count them before starting. Keep the coins in a small bowl until needed.
 3. Unfold the paper and smooth it gently without making new folds. Place the ruler and pencil nearby for noting the result.
-4. Pack only the paper and mission card. Keep the supports and test items outside the box.
+4. Pack the paper cup, sheet and mission card. Keep the supports and coins outside the box.
 
 ### How to help (20–30 minutes total)
 

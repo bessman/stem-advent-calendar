@@ -21,20 +21,22 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-No special materials need to be purchased if a household flashlight is available.
+The small flashlight is reusable and included in the box.
 
 | Item | Amount needed | Estimated cost (SEK) | Notes |
 | --- | --- | ---: | --- |
+| Small battery-powered flashlight | 1 | 15–35 | Use a compact LED model; keep its batteries enclosed. |
 | Printed Day 22 mission card | 1 folded card | 0–2 | Includes the short Morse code key. |
-| **Estimated purchased total** | | **0–2** | Under the **100 SEK per activity** limit. |
+| **Estimated materials used** | | **15–37** | Under the **100 SEK per activity** limit. |
 
-**Household items supplied separately:** a small flashlight, a quiet indoor space and a pencil. Do not use a phone flashlight; keep the phone away from the activity.
+**Household items supplied separately:** a quiet indoor space and a pencil. Do not use a phone flashlight; keep the phone away from the activity.
 
 ## What's inside the 7 × 7 × 7 cm box?
 
+- [ ] **One small battery-powered flashlight** for sending the light signals.
 - [ ] **One folded Day 22 mission card** with the Morse key (below).
 
-**Household items supplied separately:** a flashlight. The Arduino, breadboard and LED parts are not needed today.
+The Arduino, breadboard and LED parts are not needed today.
 
 ## Child's mission card
 
@@ -44,7 +46,7 @@ No special materials need to be purchased if a household flashlight is available
 !!! example "🔦 DAY 22 — THE SECRET LIGHT MESSAGE"
     **Your mission:** Send and decode a secret message with light!
 
-    **You need:** A flashlight, the Morse key below, a grown-up and a dim room.
+    **You need:** The flashlight in your box, the Morse key below, a grown-up and a dim room.
 
     **Morse key:** **S = short, short, short** · **O = long, long, long**
 
@@ -65,7 +67,7 @@ No special materials need to be purchased if a household flashlight is available
 !!! example "🔦 DAG 22 — DET HEMLIGA LJUSMEDDELANDET"
     **Ditt uppdrag:** Skicka och avkoda ett hemligt meddelande med ljus!
 
-    **Du behöver:** En ficklampa, morsealfabetet nedan, en vuxen och ett lite mörkare rum.
+    **Du behöver:** Ficklampan i lådan, morsealfabetet nedan, en vuxen och ett lite mörkare rum.
 
     **Morsenyckel:** **S = kort, kort, kort** · **O = långt, långt, långt**
 
@@ -86,9 +88,9 @@ No special materials need to be purchased if a household flashlight is available
 
 ### Preparation (1–2 minutes before opening)
 
-1. Check that the flashlight works and is not too bright for the room. Keep it pointed at a wall or a clear surface, not at a person's face.
+1. Check that the flashlight from the box works and is not too bright for the room. Keep it pointed at a wall or a clear surface, not at a person's face.
 2. Review the simple code: **S = three short flashes** and **O = three long flashes**. A short flash can last about half a second; a long one about one and a half seconds.
-3. Pack the folded mission card. No electrical wiring or Arduino is needed today.
+3. Pack the flashlight and folded mission card. No electrical wiring or Arduino is needed today.
 
 ### How to help (10–15 minutes total)
 

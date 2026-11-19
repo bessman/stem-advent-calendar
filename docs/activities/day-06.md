@@ -26,17 +26,19 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 | Item | Amount needed | Estimated cost (SEK) | Notes |
 | --- | --- | ---: | --- |
 | Ordinary printer paper | 2 A4 sheets | 2–8 | Use two sheets of the same weight and size; one stays flat and one is folded. |
+| Small paper cup | 1 | 2–5 | Holds the coins during both tests; choose one about 6 cm wide so it fits in the box. |
 | Printed Day 6 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated materials used** | | **2–10** | Under the **100 SEK per activity** limit. |
+| **Estimated materials used** | | **4–15** | Under the **100 SEK per activity** limit. |
 
 **Household items supplied separately:** the same two stable book supports, sturdy table, lightweight cup, about 30 similar coins, ruler and pencil used on Day 5. If the Day 5 setup is unavailable, use matching supports and the same 15 cm gap.
 
 ## What's inside the 7 × 7 × 7 cm box?
 
 - [ ] **Two A4 sheets of the same printer paper**, folded for packing.
+- [ ] **One small paper cup** for holding the test coins.
 - [ ] **One folded Day 6 mission card** (below).
 
-**Packing:** Fold the two sheets into compact rectangles no larger than the box and pack them with the mission card. Unfold and flatten both before starting. The folded bridge shape is made during the activity. Keep the books, cup, coins, ruler and pencil outside the box.
+**Packing:** Fold the two sheets into compact rectangles and place them with the folded card inside the paper cup. Unfold and flatten both before starting. The folded bridge shape is made during the activity. Keep the books, coins, ruler and pencil outside the box.
 
 ## Child's mission card
 
@@ -46,7 +48,7 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 !!! example "🌉 DAY 6 — BUILD A BRIDGE: PART 2"
     **Your mission:** Improve a paper bridge by changing its shape!
 
-    **You need:** Two matching sheets of paper, two book supports, a light cup and coins.
+    **You need:** Two matching sheets of paper and the cup in your box, two book supports and coins.
 
     **1. Predict!** Which bridge will hold more coins: a flat sheet or one with folded-up sides?
 
@@ -65,7 +67,7 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 !!! example "🌉 DAG 6 — BYGG EN BRO: DEL 2"
     **Ditt uppdrag:** Förbättra en pappersbro genom att ändra formen!
 
-    **Du behöver:** Två likadana pappersark, två bokstöd, en lätt mugg och mynt.
+    **Du behöver:** Två likadana pappersark och muggen i lådan, två bokstöd och mynt.
 
     **1. Gissa!** Vilken bro bär flest mynt: ett platt ark eller ett med uppvikta kanter?
 
@@ -85,9 +87,9 @@ Prices are indicative estimates for the small amounts used, not live shop quotat
 ### Preparation (3–5 minutes before opening)
 
 1. Prepare the same stable setup as Day 5: two supports of equal height on a sturdy table, with a **15 cm gap** between their inside edges and clear space beneath the bridge. If possible, use the same books and table.
-2. Check that the two A4 sheets are the same size and type. Unfold and flatten them. Keep one flat as the control; fold the second only when the child is ready to build.
+2. Check that the two A4 sheets are the same size and type. Unfold and flatten them. Keep one flat as the control; fold the second only when the child is ready to build. Set out the paper cup from the box.
 3. Set out the same lightweight cup and approximately **30 similar coins** used on Day 5. Keep the ruler and pencil nearby to record each result.
-4. Pack the two paper sheets and folded card. The cup, coins, supports and ruler stay outside the box.
+4. Pack the two paper sheets, paper cup and folded card. The coins, supports and ruler stay outside the box.
 
 ### How to help (20–30 minutes total)
 

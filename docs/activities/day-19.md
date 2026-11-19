@@ -21,20 +21,22 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-The Arduino Uno is already available and excluded from the activity budget. No additional electronics are needed for this first program.
+The Arduino Uno is already available and excluded from the activity budget. Reuse its compatible USB data cable.
 
 | Item | Amount needed | Estimated cost (SEK) | Notes |
 | --- | --- | ---: | --- |
+| USB data cable | 1 | 0 | Reuse a data-capable cable compatible with the supplied Arduino Uno. |
 | Printed Day 19 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
-| **Estimated purchased total** | | **0–2** | Under the **100 SEK per activity** limit. |
+| **Estimated materials used** | | **0–2** | Under the **100 SEK per activity** limit. |
 
-**Household items supplied separately:** Arduino Uno, USB data cable, computer with the Arduino IDE installed, and a clear, dry table. Use the built-in LED; no external wiring or battery pack is needed.
+**Household items supplied separately:** Arduino Uno, computer with the Arduino IDE installed, and a clear, dry table. Use the built-in LED; no external wiring or battery pack is needed.
 
 ## What's inside the 7 × 7 × 7 cm box?
 
+- [ ] **One USB data cable** compatible with the supplied Arduino Uno.
 - [ ] **One folded Day 19 mission card** (below).
 
-**Household items supplied separately:** Arduino Uno, USB data cable and computer. The saved Day 17–18 circuit parts are not needed today; keep them together for later activities.
+**Packing:** Coil the cable loosely and place it with the folded mission card. The Arduino Uno and computer stay outside the box. The saved Day 17–18 circuit parts are not needed today; keep them together for later activities.
 
 ## Child's mission card
 
@@ -44,7 +46,7 @@ The Arduino Uno is already available and excluded from the activity budget. No a
 !!! example "🤖 DAY 19 — HELLO, ARDUINO!"
     **Your mission:** Teach an Arduino to blink its little light!
 
-    **You need:** An Arduino Uno, a USB cable, a computer and a grown-up.
+    **You need:** An Arduino Uno, the USB cable in your box, a computer and a grown-up.
 
     **1. Predict!** What do you think the board will do when it receives a program?
 
@@ -63,7 +65,7 @@ The Arduino Uno is already available and excluded from the activity budget. No a
 !!! example "🤖 DAG 19 — HEJ, ARDUINO!"
     **Ditt uppdrag:** Lär en Arduino att blinka med sin lilla lampa!
 
-    **Du behöver:** En Arduino Uno, en USB-sladd, en dator och en vuxen.
+    **Du behöver:** En Arduino Uno, USB-sladden i lådan, en dator och en vuxen.
 
     **1. Gissa!** Vad tror du att kortet gör när det får ett program?
 
@@ -83,8 +85,8 @@ The Arduino Uno is already available and excluded from the activity budget. No a
 ### Preparation (before the activity)
 
 1. Install the Arduino IDE and check that the USB cable supports data, not just charging. Open the IDE before the session if setup time is limited.
-2. Set out the Arduino Uno and cable on a dry, uncluttered table. Do not connect any external circuit or battery pack today.
-3. Pack the folded mission card. The existing Arduino Uno is a household item and is excluded from the per-activity budget.
+2. Set out the Arduino Uno and the USB cable from the box on a dry, uncluttered table. Do not connect any external circuit or battery pack today.
+3. Pack the USB data cable and folded mission card. The existing Arduino Uno is a household item and is excluded from the per-activity budget.
 
 ### How to help (20–30 minutes total)
 

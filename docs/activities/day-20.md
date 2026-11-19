@@ -31,7 +31,7 @@ The Arduino Uno is already available and excluded from the budget. The pushbutto
 | Printed Day 20 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
 | **Estimated purchased total** | | **21–57** | Under the **100 SEK per activity** limit. Save the button, breadboard and wires for Day 24. |
 
-**Household items supplied separately:** Arduino Uno, USB data cable and a computer with the Arduino IDE. No external power supply, battery or LED is needed; use the Uno's built-in LED.
+**Household items supplied separately:** Arduino Uno, the USB data cable from Day 19, and a computer with the Arduino IDE. No external power supply, battery or LED is needed; use the Uno's built-in LED.
 
 ## What's inside the 7 × 7 × 7 cm box?
 

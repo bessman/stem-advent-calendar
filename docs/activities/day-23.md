@@ -27,6 +27,7 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 | --- | --- | ---: | --- |
 | Recycled thin cardboard | 1 small panel, about 10 × 15 cm | 0–5 | Cereal-box card or other clean, uncoated packaging. |
 | Plain paper | 1 small piece | 0–1 | For a sketch or paper prototype. |
+| Reused LED/resistor assembly and pushbutton | 1 each | 0 | Use the disconnected parts from Days 17 and 20 as size and placement templates; save them for Day 24. |
 | Printed Day 23 mission card | 1 folded card | 0–2 | Ordinary paper is fine. |
 | **Estimated materials used** | | **0–8** | Under the **100 SEK per activity** limit. Household craft supplies may be reused. |
 
@@ -35,9 +36,10 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 ## What's inside the 7 × 7 × 7 cm box?
 
 - [ ] **One small piece of plain paper** for the design sketch or mock-up.
+- [ ] **One disconnected LED/resistor assembly and one pushbutton**, reused from earlier days as layout templates.
 - [ ] **One folded Day 23 mission card** (below).
 
-**Household items supplied separately:** recycled cardboard, drawing tools, tape and adult-handled scissors. Keep the Arduino and circuit parts stored safely until Day 24.
+**Household items supplied separately:** recycled cardboard, drawing tools, tape and adult-handled scissors. The Arduino, breadboard and wires stay stored until Day 24.
 
 ## Child's mission card
 
@@ -47,13 +49,13 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 !!! example "🎄 DAY 23 — DESIGN YOUR CHRISTMAS INVENTION"
     **Your mission:** Plan a Christmas Signal Station that can send a secret light message!
 
-    **You need:** Paper, pencil, recycled cardboard, tape and a grown-up.
+    **You need:** The paper, LED and button in your box, pencil, recycled cardboard, tape and a grown-up.
 
     **1. Imagine!** What will your signal station look like? Who will receive the message?
 
     **2. Plan!** Draw where the two lights, button and message target will go. Leave room behind the front for the breadboard and wires.
 
-    **3. Prototype!** Make a quick paper or cardboard front. Ask your grown-up to help mark two light holes and a button spot.
+    **3. Prototype!** Make a quick paper or cardboard front. Ask your grown-up to help mark two light holes and a button spot. Hold the LED and button from your box against the front to check their positions.
 
     **4. Improve!** Can you see the light holes and reach the button easily? Make one change to your design.
 
@@ -66,13 +68,13 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 !!! example "🎄 DAG 23 — PLANERA DIN JULUPPFINNING"
     **Ditt uppdrag:** Planera en julig signalstation som kan skicka ett hemligt ljusmeddelande!
 
-    **Du behöver:** Papper, penna, återvunnen kartong, tejp och en vuxen.
+    **Du behöver:** Pappret, LED-lampan och knappen i lådan, penna, återvunnen kartong, tejp och en vuxen.
 
     **1. Föreställ dig!** Hur ska signalstationen se ut? Vem ska ta emot meddelandet?
 
     **2. Planera!** Rita var de två lamporna, knappen och meddelandemålet ska vara. Lämna plats bakom framsidan för kopplingsplattan och sladdarna.
 
-    **3. Gör en modell!** Gör en snabb framsida av papper eller kartong. Be en vuxen hjälpa till att markera två hål för lamporna och en plats för knappen.
+    **3. Gör en modell!** Gör en snabb framsida av papper eller kartong. Be en vuxen hjälpa till att markera två hål för lamporna och en plats för knappen. Håll LED-lampan och knappen i lådan mot framsidan för att kontrollera placeringen.
 
     **4. Förbättra!** Syns lamphålen och når du knappen lätt? Ändra en sak i din design.
 
@@ -86,8 +88,8 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 ### Preparation (2–3 minutes before opening)
 
 1. Set out a small piece of clean cardboard, scrap paper, pencil and tape. Keep scissors with the adult.
-2. Remind the child that the Arduino, breadboard, button and LED parts stay disconnected and safely stored today.
-3. Pack the paper and folded card. Choose a cardboard panel large enough for two light openings and an accessible button position tomorrow.
+2. Take out the disconnected Day 17 LED/resistor assembly and Day 20 pushbutton to use as size templates. Keep them unpowered and supervise handling.
+3. Pack the paper, LED/resistor assembly, pushbutton and folded card. Choose a cardboard panel large enough for two light openings and an accessible button position tomorrow.
 
 ### How to help (10–15 minutes total)
 
@@ -97,7 +99,7 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 | 3–6 min | Have the child sketch a front view and label two LEDs, the button and where the viewer will stand. |
 | 6–10 min | Make a quick paper or cardboard mock-up. Test the button position with a finger and check the light positions from the viewer's side. |
 | 10–13 min | Ask whether the breadboard and wires can sit behind the panel without being crushed or covered. Adjust the plan if needed. |
-| 13–15 min | Save the sketch and prototype for tomorrow. The adult can cut any openings during the final build. |
+| 13–15 min | Save the sketch and prototype for tomorrow. Return the LED/resistor assembly and pushbutton to the Day 24 parts kit. The adult can cut any openings during the final build. |
 
 **Design check:** Keep the front panel separate from the electronics. The Arduino and breadboard should rest on a stable surface with ventilation and accessible USB connection; do not enclose or cover them.
 
@@ -105,7 +107,7 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 
 - An adult should cut cardboard openings and supervise scissors. Avoid sharp craft knives for this project.
 - Use clean, dry cardboard and keep drinks away from electronics.
-- Do not connect or power the Arduino during today's planning. Keep small circuit parts away from younger children and pets.
+- Do not connect or power the Arduino during today's planning. An adult should supervise the small LED and button, then store them with the Day 24 parts away from younger children and pets.
 - Do not cover the Arduino, breadboard or USB cable with cardboard or fabric.
 
 ### Why it works
