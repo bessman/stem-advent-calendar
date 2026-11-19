@@ -36,8 +36,6 @@ The Arduino is already available. Reuse its compatible USB data cable.
 - [ ] **One USB data cable** compatible with the supplied Arduino.
 - [ ] **One folded Day 19 mission card** (below).
 
-**Packing:** Coil the cable loosely and place it with the folded mission card. The Arduino and computer stay outside the box. The saved Day 17–18 circuit parts are not needed today; keep them together for later activities.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

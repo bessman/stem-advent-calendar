@@ -41,8 +41,6 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 - [ ] **Two insulated alligator-clip leads.**
 - [ ] **One folded Day 17 mission card** (below).
 
-**Packing:** Coil the leads loosely and place them beside the battery holder, loose batteries, LED/resistor and folded card. The adult prepares and checks the resistor-to-LED connection before packing. Keep all components dry; do not install the batteries until the circuit has been checked.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

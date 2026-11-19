@@ -37,8 +37,6 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 - [ ] **One small white ball**, about 4–5 cm across.
 - [ ] **One folded Day 15 mission card** (below).
 
-**Household items supplied separately:** an LED desk lamp and a clear area for the child to stand and turn slowly. Do not use candles, hot bulbs or direct sunlight.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

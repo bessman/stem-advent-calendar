@@ -38,8 +38,6 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 - [ ] **One large steel paperclip**, packed separately from the magnet.
 - [ ] **One folded Day 16 mission card** (below).
 
-**Packing:** Keep the magnet and paperclip in separate small packets. The folded card provides a starting maze; the table and optional extra paper stay outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

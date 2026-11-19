@@ -40,8 +40,6 @@ Use ordinary granulated sugar and household water.
 - [ ] **Two small packets of granulated sugar**, each containing one level teaspoon.
 - [ ] **One folded Day 12 mission card** (below).
 
-**Packing:** Seal the sugar portions separately and place them with the folded card. Cups, water, measuring tools and spoons stay outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

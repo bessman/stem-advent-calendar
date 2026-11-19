@@ -39,8 +39,6 @@ By the end of this mission, the child can:
 - [ ] **One 20–25 g portion of tested modelling clay**, wrapped in a small reusable bag or wrapper.
 - [ ] **One folded Day 2 mission card** (below).
 
-**Packing:** Form the clay into a compact lump (around 3 cm across), wrap it to keep it clean, and place it beside the folded card. Both easily fit inside the **7 × 7 × 7 cm** box. The bowl, water, plate and towel stay outside.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

@@ -40,8 +40,6 @@ Reuse clean printer paper if available.
 - [ ] **One small paper cup** for holding the test coins.
 - [ ] **One folded Day 5 mission card** (below).
 
-**Packing:** Fold the sheet into a compact rectangle no larger than the box. Place the paper and folded card inside the cup. Unfold and flatten the sheet before testing. Keep the books, coins, ruler and pencil outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

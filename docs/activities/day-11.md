@@ -40,8 +40,6 @@ Test the chosen marker on the filter paper before the activity.
 - [ ] **One washable water-based dark marker**, checked by an adult.
 - [ ] **One folded Day 11 mission card** (below).
 
-**Packing:** Place the strips inside the marker cap and pack both with the card. The cup, water, pencil and tray stay outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

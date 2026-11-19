@@ -40,8 +40,6 @@ Household dish soap and water are supplied separately.
 - [ ] **One or two cotton swabs.**
 - [ ] **One folded Day 9 mission card** (below).
 
-**Packing:** Put the pepper in a small sealed packet so it cannot spill. The dish, water, soap and towel stay outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

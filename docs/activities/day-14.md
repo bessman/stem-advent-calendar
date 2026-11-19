@@ -40,8 +40,6 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 - [ ] **One small piece of cotton pad.**
 - [ ] **One folded Day 14 mission card** (below).
 
-**Packing:** Put the seeds in a sealed paper packet or small bag. Fold the cotton loosely and pack it with the card. The cup, water and observation notebook stay outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

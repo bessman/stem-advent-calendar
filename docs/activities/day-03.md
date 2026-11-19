@@ -39,8 +39,6 @@ By the end of the mission, the child can:
 - [ ] **One straw piece about 5 cm long**, cut by an adult.
 - [ ] **One folded Day 3 mission card** (below).
 
-**Packing:** All three items easily fit in the **7 × 7 × 7 cm** box. Keep the **2–3 m string**, tape, scissors and anchor points outside the box as household supplies. The balloon is only inflated **after** opening the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

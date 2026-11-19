@@ -38,8 +38,6 @@ Household food colouring and paper towels can be reused.
 - [ ] **Four paper towel strips**, each about 3 × 20 cm, folded loosely.
 - [ ] **One folded Day 10 mission card** (below).
 
-**Household items supplied separately:** five cups, water, red/yellow/blue food colouring, a tray and a towel. Keep liquids outside the box to prevent leaks.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

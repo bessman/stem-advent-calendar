@@ -38,8 +38,6 @@ The small flashlight is reusable and included in the box.
 - [ ] **One folded Day 22 mission card.**
 - [ ] **One separately printed, folded A–Z Morse key.**
 
-The Arduino, breadboard and LED parts are not needed today.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

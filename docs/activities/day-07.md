@@ -37,8 +37,6 @@ Household cups and string can be reused.
 - [ ] **Two metres of string**, loosely coiled.
 - [ ] **One folded Day 7 mission card** (below).
 
-**Packing:** Nest the cups, place the string coil inside them and add the folded card. The adult makes the tiny cup holes before play; keep the pencil outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

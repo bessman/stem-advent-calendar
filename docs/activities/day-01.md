@@ -49,8 +49,6 @@ Only a **small sample** of each material goes in the box.
 - [ ] **D:** Smooth plastic square, approx. 4 × 4 cm
 - [ ] Folded **Day 1 mission card** (below)
 
-**Packing:** Label the samples **A–D** on small slips of paper or on the folded packets; don't write the material names on the samples. Stack the flat squares and sponge beneath the folded card. Everything fits easily in a 7 cm cube. The water, plate, spoon and towel stay outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

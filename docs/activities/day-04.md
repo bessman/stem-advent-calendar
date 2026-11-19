@@ -39,8 +39,6 @@ Reuse clean printer paper and paperclips if available.
 - [ ] **Two small paperclips**, one for each helicopter.
 - [ ] **One folded Day 4 mission card** (below).
 
-**Packing:** Stack the paper strips and fold the mission card; they fit easily in the **7 × 7 × 7 cm** box. Keep the ruler, pencil and scissors outside. The adult cuts the slits before packing, so the child only needs to fold and test.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

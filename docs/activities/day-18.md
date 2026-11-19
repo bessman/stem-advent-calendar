@@ -43,8 +43,6 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 - [ ] **One additional insulated alligator-clip lead.**
 - [ ] **One folded Day 18 mission card** (below).
 
-**Packing:** Fold the foil around a small card to keep it flat. Pack the paperclip separately and coil the lead loosely. The Day 17 circuit parts stay safely stored outside the box until the activity.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

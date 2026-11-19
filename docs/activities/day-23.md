@@ -42,8 +42,6 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 - [ ] **One disconnected LED/resistor assembly and one pushbutton**, reused from earlier days as layout templates.
 - [ ] **One folded Day 23 mission card** (below).
 
-**Household items supplied separately:** recycled cardboard, drawing tools, tape and adult-handled scissors. The Arduino, breadboard and wires stay stored until Day 24.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

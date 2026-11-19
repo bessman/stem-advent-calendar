@@ -46,8 +46,6 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 - [ ] **One 220-ohm resistor** for the second LED.
 - [ ] **One folded Day 24 mission card** (below).
 
-**Packing:** Place the LED and resistor in a small parts packet with the folded card. Bring the Arduino, button, breadboard, saved LED parts, USB cable and cardboard separately; the Arduino does not fit in the advent box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

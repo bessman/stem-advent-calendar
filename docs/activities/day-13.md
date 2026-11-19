@@ -44,8 +44,6 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 - [ ] **One small pipette** (optional if using a household teaspoon).
 - [ ] **One folded Day 13 mission card** (below).
 
-**Packing:** The adult prepares and cools the indicator before packing. Double-bag the closed bottle to prevent leaks. Lemon juice, baking soda, cups and water stay outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

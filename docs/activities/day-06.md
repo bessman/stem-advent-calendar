@@ -40,8 +40,6 @@ Use the same type of paper for both bridges.
 - [ ] **One small paper cup** for holding the test coins.
 - [ ] **One folded Day 6 mission card** (below).
 
-**Packing:** Fold the two sheets into compact rectangles and place them with the folded card inside the paper cup. Unfold and flatten both before starting. The folded bridge shape is made during the activity. Keep the books, coins, ruler and pencil outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

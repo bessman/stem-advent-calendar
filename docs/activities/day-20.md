@@ -40,8 +40,6 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 - [ ] **Five insulated jumper wires**, coiled loosely.
 - [ ] **One folded Day 20 mission card** (below).
 
-**Packing:** A mini breadboard, button, five wires and folded card fit inside the box. Keep the Arduino, USB cable and computer outside.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

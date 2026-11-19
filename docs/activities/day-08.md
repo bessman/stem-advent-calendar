@@ -38,8 +38,6 @@ No special materials need to be purchased if suitable household glasses are avai
 - [ ] **One small plastic dropper** for adjusting the water levels.
 - [ ] **One folded Day 8 mission card** (below).
 
-**Household items to supply separately:** three matching glasses, water, a wooden spoon and a towel. Keep all glass and water outside the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">

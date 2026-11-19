@@ -37,8 +37,6 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 - [ ] **One small hand lens** for looking closely at the seedlings.
 - [ ] **One folded Day 21 mission card** (below).
 
-**Household items to supply separately:** the living or discarded Day 14 seed setup and the child's observation record. Nothing else is needed in the box.
-
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
