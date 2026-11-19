@@ -16,7 +16,7 @@ nav = [
   ] },
   { "Week 2 — Chemistry & sound" = [
     { "7 · The Secret String Telephone" = "activities/day-07.md" },
-    { "8 · The Musical Water Glasses" = "activities/day-08.md" },
+    { "8 · The Liquid Stack Lab" = "activities/day-08.md" },
     { "9 · The Pepper Escape" = "activities/day-09.md" },
     { "10 · Walking Rainbow" = "activities/day-10.md" },
     { "11 · The Colour Detective" = "activities/day-11.md" },

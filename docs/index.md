@@ -46,7 +46,7 @@ As individual activity pages are completed, they will include an **introduction*
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
 | 7 | Mon 7 Dec | **[The Secret String Telephone](activities/day-07.md)** | Vibrations carry sound | 10–15 min |
-| 8 | Tue 8 Dec | **[The Musical Water Glasses](activities/day-08.md)** | Pitch and acoustics | 10–15 min |
+| 8 | Tue 8 Dec | **[The Liquid Stack Lab](activities/day-08.md)** | Relative density and miscibility | 10–15 min |
 | 9 | Wed 9 Dec | **[The Pepper Escape](activities/day-09.md)** | Surface tension | 10–15 min |
 | 10 | Thu 10 Dec | **[Walking Rainbow](activities/day-10.md)** | Capillary action and colour mixing | 10–15 min* |
 | 11 | Fri 11 Dec | **[The Colour Detective](activities/day-11.md)** | Chromatography | 10–15 min |

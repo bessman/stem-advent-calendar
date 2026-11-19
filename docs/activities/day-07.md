@@ -5,7 +5,7 @@
 **Field:** Physics · Sound · Vibrations  
 **Time:** 10–15 minutes (Monday 7 December 2026)  
 **Age group:** 6–9  
-**Progression:** Week 2 begins with sound. On Days 1–6, we explored materials, forces and structures. Today we investigate how vibrations travel through a tight string. Tomorrow, we will compare the pitch of musical water glasses.
+**Progression:** Week 2 begins with sound. On Days 1–6, we explored materials, forces and structures. Today we investigate how vibrations travel through a tight string. Tomorrow, we will explore how syrup, water and oil form layers.
 
 ## Introduction
 
@@ -120,6 +120,6 @@ A taut string carries the vibrations more effectively than a slack string. If th
 - **The cups crumple:** Hold them gently by the sides and speak softly.
 - **Extra challenge for older children:** Try a longer string or compare two different string materials. Change one thing at a time and keep the string taut for each test.
 
-**Next experiment:** On [Day 8](day-08.md), we will use water glasses to compare high and low sounds.
+**Next experiment:** On [Day 8](day-08.md), we will investigate the layers made by syrup, water and oil.
 
 [← Back to the calendar](../index.md) · [← Day 6: Build a Bridge, Part 2](day-06.md)
