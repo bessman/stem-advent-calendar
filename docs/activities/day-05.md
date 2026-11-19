@@ -47,7 +47,7 @@ Reuse clean printer paper if available.
 
     **1. Predict!** Will flat paper hold a cup? How many coins?
 
-    **2. Build!** Set supports 15 cm apart with an adult. Lay paper across.
+    **2. Build!** Set supports 15 cm apart. Lay paper across.
 
     **3. Test!** Center a cup. Add coins one by one. Stop if it tips or sags.
 
@@ -66,7 +66,7 @@ Reuse clean printer paper if available.
 
     **1. Gissa!** Bär platt papper en mugg? Hur många mynt?
 
-    **2. Bygg!** Be en vuxen ställa bokstöden 15 cm isär. Lägg pappret över dem.
+    **2. Bygg!** Ställ bokstöden 15 cm isär. Lägg pappret över dem.
 
     **3. Testa!** Ställ en tom mugg i mitten. Lägg i mynt ett i taget. Sluta om muggen välter eller bron når bordet.
 
@@ -77,7 +77,7 @@ Reuse clean printer paper if available.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (3–5 minutes before opening)
 
@@ -100,10 +100,9 @@ Reuse clean printer paper if available.
 
 ### Safety
 
-- An adult should set up and check that the books cannot wobble or slide. Keep the bridge away from table edges.
+- Use stable books on a sturdy table, away from the edge.
 - Use a lightweight, unbreakable cup. Add coins gently and stop before the bridge or cup can fall.
-- Coins are small objects. Supervise their use, keep them away from mouths and younger children, and count them back into the bowl afterwards.
-- Keep hands and faces out from under the bridge while it is loaded. Do not use glass, heavy objects or people as loads.
+- Keep hands and faces out from under the loaded bridge. Do not use glass, heavy objects or people as loads.
 
 ### Why it works
 
@@ -114,7 +113,7 @@ This first test gives us a **baseline**: an observation to compare with a change
 ### Troubleshooting and optional extension
 
 - **The paper slides off the books:** Make sure it overlaps each support by about 3 cm, and move the books so the gap is exactly 15 cm.
-- **The books wobble:** Use wider, stable books on a level table and have an adult reset the setup. Do not stack unstable supports.
+- **The books wobble:** Use wider, stable books on a level table. Do not stack unstable supports.
 - **The paper touches the table before the cup is loaded:** Use supports that provide more clearance beneath the bridge, while keeping their height the same.
 - **The cup tips:** Use a lighter, wider cup and place it carefully at the centre before adding coins.
 - **Extra challenge for older children:** Measure the gap and draw the flat bridge from the side. Mark where it first bends down; tomorrow, compare that spot with a folded design.

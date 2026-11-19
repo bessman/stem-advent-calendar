@@ -42,9 +42,9 @@ Household cups and string can be reused.
 !!! example "📞 DAY 7 — THE SECRET STRING TELEPHONE"
     **Your mission:** Send a secret message through string!
 
-    **You need:** Two cups, string and an adult.
+    **You need:** Two cups and string.
 
-    **1. Build!** Ask an adult to hole each cup. Thread string through and knot it inside.
+    **1. Build!** Thread the string through each hole and knot it inside.
 
     **2. Stretch!** Hold one cup each. Step apart until the string is taut and clear.
 
@@ -61,9 +61,9 @@ Household cups and string can be reused.
 !!! example "📞 DAG 7 — DEN HEMLIGA SNÖRTELEFONEN"
     **Ditt uppdrag:** Skicka hemliga meddelanden med snöre!
 
-    **Du behöver:** Två muggar, snöre och en vuxen.
+    **Du behöver:** Två muggar och snöre.
 
-    **1. Bygg!** Be en vuxen göra hål i muggarna. Trä igenom snöret och knyt.
+    **1. Bygg!** Trä snöret genom hålen och knyt.
 
     **2. Spänn!** Håll varsin mugg. Gå isär tills snöret är spänt och fritt.
 
@@ -76,7 +76,7 @@ Household cups and string can be reused.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
@@ -99,10 +99,8 @@ Household cups and string can be reused.
 
 ### Safety
 
-- An adult should make the holes and check that the string knots are secure.
-- Keep string away from necks, fingers and faces. Do not wrap it around anyone or run while holding it.
+- Keep string away from necks and do not wrap it around anyone or run while holding it.
 - Speak at a comfortable volume; do not shout into a cup or press it forcefully against an ear.
-- Supervise the cups and string around younger children and pets.
 
 ### Why it works
 
@@ -113,7 +111,7 @@ A taut string carries the vibrations more effectively than a slack string. If th
 ### Troubleshooting and optional extension
 
 - **The sound is very quiet:** Check that the string is taut, the knots are secure and the string is not touching anything between the cups.
-- **The string pulls through a cup:** Make a larger knot inside or have an adult retie it. Do not use a sharp object as a stopper.
+- **The string pulls through a cup:** Make a larger knot inside. Do not use a sharp object as a stopper.
 - **The cups crumple:** Hold them gently by the sides and speak softly.
 - **Extra challenge for older children:** Try a longer string or compare two different string materials. Change one thing at a time and keep the string taut for each test.
 

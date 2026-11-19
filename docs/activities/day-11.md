@@ -32,7 +32,7 @@ Test the chosen marker on the filter paper before the activity.
 ## What's inside the box?
 
 - [ ] **Two white coffee-filter strips**, about 2 × 8 cm each.
-- [ ] **One washable water-based dark marker**, checked by an adult.
+- [ ] **One washable water-based dark marker**, tested on filter paper.
 - [ ] **One folded Day 11 mission card** (below).
 
 ## Child's mission card
@@ -43,11 +43,11 @@ Test the chosen marker on the filter paper before the activity.
 !!! example "🖍️ DAY 11 — THE COLOUR DETECTIVE"
     **Your mission:** Reveal colours hidden in a marker!
 
-    **You need:** Paper strips, marker, cup, water, pencil and adult.
+    **You need:** Paper strips, marker, cup, water and pencil.
 
     **1. Predict!** Is the marker one colour or a mixture?
 
-    **2. Draw!** Dot a strip near its bottom. Ask an adult to hang it over the cup.
+    **2. Draw!** Dot a strip near its bottom and hang it over the cup.
 
     **3. Test!** Dip the paper's bottom in water, keeping the dot dry. Watch it climb.
 
@@ -62,11 +62,11 @@ Test the chosen marker on the filter paper before the activity.
 !!! example "🖍️ DAG 11 — FÄRGDETEKTIVEN"
     **Ditt uppdrag:** Hitta de dolda färgerna i en mörk penna!
 
-    **Du behöver:** Pappersremsor, penna, mugg, vatten och vuxen.
+    **Du behöver:** Pappersremsor, penna, mugg och vatten.
 
     **1. Gissa!** Är pennfärgen en färg eller en blandning?
 
-    **2. Rita!** Gör en prick nära remsans nederkant. Be en vuxen hänga den på en penna över muggen.
+    **2. Rita!** Gör en prick nära remsans nederkant. Häng remsan på en penna över muggen.
 
     **3. Testa!** Häll i vatten så att pappret nuddar det, men pricken hålls torr. Se vattnet stiga.
 
@@ -77,7 +77,7 @@ Test the chosen marker on the filter paper before the activity.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
@@ -99,8 +99,8 @@ Test the chosen marker on the filter paper before the activity.
 
 ### Safety
 
-- Use washable, non-toxic, water-based markers and check the age guidance. Do not use permanent markers or solvents.
-- The marker is for paper, not skin. Do not taste the ink or experiment water; wash hands after use.
+- Use washable, water-based markers. Do not use permanent markers or solvents.
+- Keep the marker on the paper.
 - Wipe up drips and keep the water away from electronics.
 
 ### Why it works

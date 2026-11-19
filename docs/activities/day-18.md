@@ -51,13 +51,13 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 !!! example "🔘 DAY 18 — INVENT A SWITCH"
     **Your mission:** Make a foil switch!
 
-    **You need:** Day 17 circuit, foil, clip and adult.
+    **You need:** Day 17 circuit, foil and paperclip.
 
     **1. Predict!** What connects?
 
-    **2. Build!** With an adult, disconnect battery. Tape foil squares to card with a gap; connect one to red wire, one to the LED circuit.
+    **2. Build!** Disconnect the battery. Tape foil squares to card with a gap; connect one to red wire, one to the LED circuit.
 
-    **3. Switch!** Bridge foils with clip. Ask an adult to reconnect battery. LED on? Lift clip to switch it off.
+    **3. Switch!** Bridge the foils with the paperclip and reconnect the battery. LED on? Lift the clip to switch it off.
 
     **4. Improve!** Keep foils apart. Move the clip easily.
 
@@ -70,13 +70,13 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 !!! example "🔘 DAG 18 — UPPFINN EN STRÖMBRYTARE"
     **Ditt uppdrag:** Bygg en folieströmbrytare!
 
-    **Du behöver:** Kretsen från dag 17, folie, gem och vuxen.
+    **Du behöver:** Kretsen från dag 17, folie och gem.
 
     **1. Gissa!** Vad kopplar gemet?
 
-    **2. Bygg!** Be en vuxen koppla bort batteriet. Lägg foliebitar på kartong med mellanrum. Koppla ena till röd sladd, andra till LED-kretsen.
+    **2. Bygg!** Koppla bort batteriet. Lägg foliebitar på kartong med mellanrum. Koppla ena till röd sladd, andra till LED-kretsen.
 
-    **3. Byt läge!** Lägg gemet över båda bitarna. Be en vuxen koppla in batteriet. Lyser LED? Lyft bort gemet för att släcka.
+    **3. Byt läge!** Lägg gemet över båda bitarna och koppla in batteriet. Lyser LED? Lyft bort gemet för att släcka.
 
     **4. Förbättra!** Håll foliebitar isär. Gör gemet lätt att flytta.
 
@@ -85,7 +85,7 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (3–5 minutes before opening)
 
@@ -100,7 +100,7 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 | --- | --- |
 | 0–2 min | Recall that a circuit needs a complete loop. Ask what might happen when the two foil pads are connected by metal. |
 | 2–6 min | With the battery disconnected, set up the foil pads and clip leads as a gap in the positive side of the Day 17 circuit. Check that the resistor remains in series. |
-| 6–9 min | Have the child lay the paperclip across both foil pads. The adult checks for shorts, then inserts the two AA cells. Observe the LED. |
+| 6–9 min | Lay the paperclip across both foil pads. Check that the pads and loose clips are not touching elsewhere, then insert the two AA cells. Observe the LED. |
 | 9–12 min | Lift the paperclip to open the switch and turn the LED off; bridge the pads again to turn it on. Repeat a few times. |
 | 12–15 min | Disconnect the battery and collect the foil and paperclip. Store the clean circuit parts for later missions. |
 
@@ -109,9 +109,9 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 ### Safety
 
 - Use only the same **two-AA, approximately 3 V holder** and 220-ohm resistor from Day 17. Never connect the switch to mains electricity, a wall adapter or a USB port.
-- An adult should reconnect the battery only after checking the clips and confirming the foil pads are separate. Disconnect immediately if wires or batteries warm.
+- Reconnect the battery only when the foil pads are separate. Disconnect immediately if wires or batteries warm.
 - Do not let the battery's red and black wires or loose clips touch each other. Keep the circuit dry and disconnect batteries whenever it is not being tested.
-- Foil edges can be sharp and the paperclip has a pointed end. An adult should fold and tape the foil and supervise the clip; keep small parts away from mouths and younger children.
+- Fold foil edges over before taping them down.
 
 ### Why it works
 
@@ -123,8 +123,8 @@ This is the same basic idea used by many everyday switches. A switch does not cr
 
 - **The LED stays off:** Disconnect the battery. Check that the paperclip touches both foil pads, the pads connect to the correct circuit points, the LED is oriented correctly and the resistor remains in series.
 - **The LED stays on when the clip is lifted:** Check whether the foil pads or alligator clips are touching across the gap. Disconnect the battery and widen the gap.
-- **The foil tears or moves:** Fold it around the card and tape one edge, leaving the contact area exposed. An adult can replace damaged foil.
-- **A clip or battery feels warm:** Disconnect immediately. Do not reconnect until an adult has found and fixed the short circuit.
+- **The foil tears or moves:** Fold it around the card and tape one edge, leaving the contact area exposed.
+- **A clip or battery feels warm:** Disconnect immediately and check for a short circuit before reconnecting.
 - **Extra challenge for older children:** Design a switch that uses a folded card flap to press the paperclip down. Keep the two contacts separate when the flap is raised.
 
 **Next experiment:** On [Day 19](day-19.md), we will use an Arduino to make a light blink with code.

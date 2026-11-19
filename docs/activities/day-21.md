@@ -27,7 +27,7 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 | --- | --- | --- |
 | Cress growing setup | 1 | Reuse the seed setup from Day 14: cress seeds on damp cotton in a clear cup or jar. This is the intact experiment, not fresh supplies. |
 | Small hand lens | 1 | A simple magnifier helps inspect roots and shoots through the cup. |
-| Cress observation record | 1 | Reuse the observation record from Day 14: the child's first drawing or notes. If the seed setup has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead. |
+| Cress observation record | 1 | Reuse the observation record from Day 14: the child's first drawing or notes. If the seed setup has mould or smells unpleasant, leave it closed and use the original records instead. |
 
 ## What's inside the box?
 
@@ -42,7 +42,7 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 !!! example "🌱 DAY 21 — THE SEED SCIENTIST RETURNS"
     **Your mission:** Revisit your seeds. What changed?
 
-    **You need:** Day 14 seed cup, hand lens, first drawing or notes, pencil and adult.
+    **You need:** Day 14 seed cup, hand lens, first drawing or notes and pencil.
 
     **1. Predict!** What did you expect to happen?
 
@@ -61,7 +61,7 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 !!! example "🌱 DAG 21 — FRÖFORSKAREN ÅTERVÄNDER"
     **Ditt uppdrag:** Titta till fröna. Vad har ändrats?
 
-    **Du behöver:** Frömugg från dag 14, förstoringsglas, första teckning eller anteckningar, penna och vuxen.
+    **Du behöver:** Frömugg från dag 14, förstoringsglas, första teckning eller anteckningar och penna.
 
     **1. Gissa!** Vad trodde du skulle hända?
 
@@ -76,7 +76,7 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (1–2 minutes before opening)
 
@@ -98,10 +98,9 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 
 ### Safety
 
-- Do not eat the experimental seeds or seedlings. Wash hands after handling the cup.
 - Use the hand lens indoors and never point it at the sun.
-- If there is mould or an unpleasant smell, an adult should discard the setup without opening or shaking it. Clean the cup and surface.
-- Keep the cup away from younger children and pets. Wipe up any water spills.
+- If there is mould or an unpleasant smell, keep the setup closed; don't open or shake it. Clean the cup and surface after disposal.
+- Wipe up any water spills.
 
 ### Why it works
 
@@ -112,7 +111,7 @@ Comparing a prediction with an observation is an important part of science. The 
 ### Troubleshooting and optional extension
 
 - **The seeds did not sprout:** Check the first notes and setup. The seeds may have been too dry, too wet, old or kept too cool. Record the result honestly.
-- **The cup has mould:** Do not open it. An adult should bag and discard the setup, then wash hands and clean the surface.
+- **The cup has mould:** Do not open it. Seal and discard the setup, then wash hands and clean the surface.
 - **There is no first drawing:** Ask the child to describe what they remember and make a comparison with that memory; note that a dated drawing would help next time.
 - **Extra challenge for older children:** Measure the longest shoot with a ruler and compare it with the child's prediction. Avoid pulling up the roots.
 

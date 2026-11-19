@@ -42,13 +42,13 @@ The Arduino is already available. Reuse its compatible USB data cable.
 !!! example "🤖 DAY 19 — HELLO, ARDUINO!"
     **Your mission:** Teach Arduino to blink its little light!
 
-    **You need:** Arduino, USB cable, computer and adult.
+    **You need:** Arduino, USB cable and computer.
 
     **1. Predict!** What will the board do with a program?
 
-    **2. Connect!** Ask an adult to connect Arduino and open the blink program.
+    **2. Connect!** Connect Arduino and open the blink program.
 
-    **3. Upload!** An adult selects the board and uploads. Watch the light blink!
+    **3. Upload!** Select the board and upload. Watch the light blink!
 
     **4. Change!** Find the wait-time number. Make it bigger or smaller, then upload again.
 
@@ -61,13 +61,13 @@ The Arduino is already available. Reuse its compatible USB data cable.
 !!! example "🤖 DAG 19 — HEJ, ARDUINO!"
     **Ditt uppdrag:** Lär Arduino att blinka med sin lampa!
 
-    **Du behöver:** Arduino, USB-sladd, dator och vuxen.
+    **Du behöver:** Arduino, USB-sladd och dator.
 
     **1. Gissa!** Vad gör kortet med ett program?
 
-    **2. Anslut!** Be en vuxen ansluta Arduino och öppna blinkprogrammet.
+    **2. Anslut!** Anslut Arduino och öppna blinkprogrammet.
 
-    **3. Ladda upp!** En vuxen väljer kortet och laddar upp. Titta när lampan blinkar!
+    **3. Ladda upp!** Välj kortet och ladda upp. Titta när lampan blinkar!
 
     **4. Ändra!** Hitta väntetiden. Ändra talet och ladda upp igen.
 
@@ -76,7 +76,7 @@ The Arduino is already available. Reuse its compatible USB data cable.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (before the activity)
 
@@ -113,10 +113,8 @@ void loop() {
 
 ### Safety
 
-- An adult should connect the USB cable, select the board and port, and supervise computer use.
 - Use only the computer's USB connection to power the Arduino. Do not connect the project to mains electricity, a wall adapter or the AA battery holder.
 - Keep drinks and wet materials away from the board. Disconnect USB before moving or packing it.
-- The board and USB cable are not toys; keep them away from younger children and pets.
 
 ### Why it works
 

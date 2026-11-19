@@ -48,7 +48,7 @@ Use **Overall inventory** in the navigation to view one table collected from the
 
 ## Translate a mission card
 
-Only the child's mission card is localized; the page heading, adult instructions and site navigation remain in English.
+Only the child's mission card is localized; the page heading, setup notes and site navigation remain in English.
 
 1. Keep the English card inside the `mission-card` wrapper from the activity template.
 2. Copy its entire `mission-card__translation` wrapper inside the same outer wrapper, after the English version.

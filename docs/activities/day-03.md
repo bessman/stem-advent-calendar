@@ -31,7 +31,7 @@ By the end of the mission, the child can:
 ## What's inside the box?
 
 - [ ] **One uninflated balloon**, plus an optional spare, folded loosely.
-- [ ] **One straw piece about 5 cm long**, cut by an adult.
+- [ ] **One straw piece about 5 cm long.**
 - [ ] **One folded Day 3 mission card** (below).
 
 ## Child's mission card
@@ -42,11 +42,11 @@ By the end of the mission, the child can:
 !!! example "🚀 DAY 3 — BALLOON ROCKET RACE"
     **Your mission:** Race a balloon rocket!
 
-    **You need:** Balloon, straw, string, tape.
+    **You need:** Balloon, straw, string and tape.
 
     **1. Predict!** Air blasts backward. Which way will the rocket go?
 
-    **2. Build!** Ask an adult to thread the straw onto taut string. Inflate the balloon; don't tie it.
+    **2. Build!** Thread the straw onto taut string. Inflate the balloon; don't tie it.
 
     **3. Attach!** Tape it to the straw, opening toward the start.
 
@@ -67,7 +67,7 @@ By the end of the mission, the child can:
 
     **1. Gissa!** Luften far bakåt. Åt vilket håll åker raketen?
 
-    **2. Bygg!** Be en vuxen trä sugröret på spänt snöre. Blås upp ballongen, knyt inte; nyp ihop.
+    **2. Bygg!** Trä sugröret på spänt snöre. Blås upp ballongen, knyt inte; nyp ihop.
 
     **3. Fäst!** Tejpa den på sugröret med öppningen mot starten.
 
@@ -80,13 +80,13 @@ By the end of the mission, the child can:
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (3–5 minutes, before opening)
 
 1. Cut the straw to approximately **5 cm** and check that the chosen string can pass through it without catching.
 2. Choose a clear track of **2–3 m** between stable anchor points. Thread the string through the straw, tie one end, and leave the other end ready to secure. Keep the track at a comfortable height and **away from faces, doorways, walking routes and pets**.
-3. Check that the balloon can be inflated and taped to the straw without blocking the string. If the child cannot inflate it easily, prepare a **hand pump** or plan for the adult to inflate it.
+3. Check that the balloon can be inflated and taped to the straw without blocking the string. Set out a **hand pump** if needed.
 4. Pack the uninflated balloon, straw and folded card in the box. Leave string, tape and scissors outside.
 
 ### How to help (10–15 minutes total)
@@ -103,10 +103,9 @@ By the end of the mission, the child can:
 
 ### Safety
 
-- **A grown-up must supervise balloons.** Uninflated or burst balloons can cause choking. Keep balloons and fragments away from children under 8 who are unsupervised, younger siblings, and pets; collect and discard broken pieces immediately.
+- Uninflated or burst balloons can cause choking. Collect and discard broken pieces immediately.
 - **Check for latex allergies** before using a latex balloon. If latex is unsuitable, select a compatible latex-free balloon and test it in advance.
-- An adult should handle **scissors, tying the line, and any difficult inflation**. A hand pump is preferable to repeated mouth inflation.
-- Keep the string under adult control: do not wrap it around a child or stretch it across a passageway. Do not launch toward people's faces.
+- Do not wrap the string around anyone or stretch it across a passageway. Do not launch toward people's faces.
 - Use only air—**never gas cylinders, flames, or compressed-air equipment**.
 
 ### Why it works
@@ -122,7 +121,7 @@ A balloon with more air may travel farther or faster, but the result is not guar
 - **The rocket barely moves:** Make the string taut, remove tape rubbing against the string, use a straight straw segment and ensure the balloon opening points along the string toward the start.
 - **The balloon falls off:** Dry the balloon, use two pieces of tape across its body, and leave the nozzle completely open.
 - **The straw jams:** Use thinner or smoother string; check that there are no knots or tape on the moving part of the track.
-- **Air escapes before launch:** One adult can pinch the balloon's neck while the child attaches the tape; use a pump if helpful.
+- **Air escapes before launch:** Pinch the balloon's neck while attaching the tape, or use a pump.
 - **Extra challenge for older children:** Mark the landing point for each trial using removable paper markers. Repeat each amount of air twice and compare the results. Ask what makes a comparison fair.
 
 **Next experiment:** Day 4's **Flying Helicopter** will investigate how air changes the motion of something falling toward the ground.

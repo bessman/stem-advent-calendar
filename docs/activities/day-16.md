@@ -42,13 +42,13 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 !!! example "🧲 DAY 16 — THE INVISIBLE MAGNET MAZE"
     **Your mission:** Guide a paperclip through a maze, hands-free!
 
-    **You need:** Magnet, paperclip, card and adult.
+    **You need:** Magnet, paperclip and card.
 
     **1. Predict!** Can a magnet pull through paper?
 
     **2. Set up!** Draw a winding path on the card's back. Put the clip at the start.
 
-    **3. Explore!** Ask an adult to hold the magnet underneath. Move it slowly to guide the clip.
+    **3. Explore!** Hold the magnet underneath and move it slowly to guide the clip.
 
     **4. Test!** Lift it farther away. Try a coin or plastic.
 
@@ -61,13 +61,13 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 !!! example "🧲 DAG 16 — DEN OSYNLIGA MAGNETLABYRINTEN"
     **Ditt uppdrag:** Led ett gem genom en labyrint utan att röra det!
 
-    **Du behöver:** Magnet, gem, kort och vuxen.
+    **Du behöver:** Magnet, gem och kort.
 
     **1. Gissa!** Kan magneten dra genom papper?
 
     **2. Gör i ordning!** Rita en slingrande väg på kortets baksida. Lägg gemet vid starten.
 
-    **3. Undersök!** Be en vuxen hålla magneten under pappret. Flytta den långsamt och led gemet.
+    **3. Undersök!** Håll magneten under pappret. Flytta den långsamt och led gemet.
 
     **4. Testa!** Lyft magneten längre bort. Prova nära ett mynt och ett plastföremål.
 
@@ -76,12 +76,12 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
 1. Choose a **large, low-strength ceramic magnet**, about 3–5 cm. Do not use small, strong neodymium magnets or magnets that can be swallowed.
-2. Check that the paperclip is steel and large enough for an adult to supervise easily. Draw a simple route on the back of the mission card, or let the child design one.
+2. Check that the paperclip is steel. Draw a simple route on the back of the mission card, or let the child design one.
 3. Place the paper on a smooth table. Pack the magnet and paperclip separately with the folded card.
 
 ### How to help (10–15 minutes total)
@@ -98,10 +98,8 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 
 ### Safety
 
-- An adult should select and supervise the magnet. Do not use small, powerful magnets; swallowed magnets can cause severe internal injury.
-- Keep the magnet and paperclip away from mouths, younger children and pets. Count both items after the activity.
-- Keep magnets away from phones, tablets, magnetic cards, storage devices and medical implants. Follow any medical-device guidance.
-- Do not use the magnet near electrical outlets or appliances. No electricity is needed for this activity.
+- Use the large ceramic magnet specified; do not substitute a small, powerful magnet. Keep magnets away from magnetic cards, storage devices and medical implants.
+- Count the magnet and paperclip after the activity.
 
 ### Why it works
 

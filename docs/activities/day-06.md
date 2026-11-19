@@ -47,7 +47,7 @@ Use the same type of paper for both bridges.
 
     **1. Predict!** Flat or folded: which holds more?
 
-    **2. Test flat!** Ask an adult for a 15 cm gap. Add coins until paper sags or slips.
+    **2. Test flat!** Set supports 15 cm apart. Add coins until paper sags or slips.
 
     **3. Fold and test!** Fold 2 cm edges up on sheet two. Repeat.
 
@@ -66,7 +66,7 @@ Use the same type of paper for both bridges.
 
     **1. Gissa!** Platt eller vikt: vad bär mest?
 
-    **2. Testa platt!** Be en vuxen ordna 15 cm mellanrum. Lägg mynt tills pappret hänger eller glider.
+    **2. Testa platt!** Ställ stöden 15 cm isär. Lägg mynt tills pappret hänger eller glider.
 
     **3. Vik och testa!** Vik upp 2 cm på ark två. Upprepa testet.
 
@@ -77,7 +77,7 @@ Use the same type of paper for both bridges.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (3–5 minutes before opening)
 
@@ -100,9 +100,8 @@ Use the same type of paper for both bridges.
 
 ### Safety
 
-- An adult should set up and check that the book supports cannot wobble or slide. Keep the bridge away from table edges.
+- Use stable books on a sturdy table, away from the edge.
 - Use a lightweight, unbreakable cup. Add coins gently and stop before the bridge or cup can fall.
-- Supervise coins; keep them away from mouths and younger children, and count them back into the bowl after testing.
 - Keep hands and faces out from under the loaded bridge. Do not use glass, heavy objects or people as loads.
 
 ### Why it works

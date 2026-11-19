@@ -44,11 +44,11 @@ Household dish soap and water are supplied separately.
 !!! example "🌶️ DAY 9 — THE PEPPER ESCAPE"
     **Your mission:** Send pepper racing with one touch!
 
-    **You need:** Pepper, cotton swab, dish of water, soap and an adult.
+    **You need:** Pepper, cotton swab, dish of water and soap.
 
     **1. Predict!** What will soap do to pepper?
 
-    **2. Sprinkle!** Ask an adult to add water. Dust it with pepper.
+    **2. Sprinkle!** Add water and dust it with pepper.
 
     **3. Test!** Dip the swab in a drop of soap. Touch the water's center. Watch!
 
@@ -63,11 +63,11 @@ Household dish soap and water are supplied separately.
 !!! example "🌶️ DAG 9 — PEPPARN SOM FLYR"
     **Ditt uppdrag:** Få peppar att fly med en liten beröring!
 
-    **Du behöver:** Peppar, bomullspinne, vattenfat, diskmedel och vuxen.
+    **Du behöver:** Peppar, bomullspinne, vattenfat och diskmedel.
 
     **1. Gissa!** Vad gör en tvålig pinne med pepparn?
 
-    **2. Strö!** Be en vuxen hälla vatten i ett fat. Strö peppar över ytan.
+    **2. Strö!** Häll vatten i ett fat. Strö peppar över ytan.
 
     **3. Testa!** Doppa pinnen i en droppe diskmedel. Rör mitten av vattnet. Titta!
 
@@ -78,7 +78,7 @@ Household dish soap and water are supplied separately.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
@@ -100,9 +100,9 @@ Household dish soap and water are supplied separately.
 
 ### Safety
 
-- Use only a tiny amount of pepper and dish soap. Do not taste the materials or blow pepper into the air.
-- Keep soap and pepper away from eyes and mouths. An adult should rinse eyes with clean water if they are accidentally splashed.
-- Wash hands after the experiment and wipe spills promptly. Keep the dish away from younger children and pets.
+- Use only a tiny amount of pepper and dish soap. Avoid blowing pepper into the air.
+- Keep soap and pepper away from eyes and mouths. Rinse splashes from eyes with clean water.
+- Wash hands after the experiment and wipe spills promptly.
 - Do not mix dish soap with cleaning products or other chemicals.
 
 ### Why it works

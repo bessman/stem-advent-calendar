@@ -43,7 +43,7 @@ The small flashlight is reusable and included in the box.
 !!! example "🔦 DAY 22 — THE SECRET LIGHT MESSAGE"
     **Your mission:** Send a secret message with light!
 
-    **You need:** Flashlight, Morse key, adult and dim room.
+    **You need:** Flashlight, Morse key and dim room.
 
     **SOS key:** **S = 3 short** · **O = 3 long**
 
@@ -51,9 +51,9 @@ The small flashlight is reusable and included in the box.
 
     **2. Send!** Flash SOS: three short, three long, three short. Pause between letters.
 
-    **3. Decode!** Ask an adult to send SOS. Can you spot each letter?
+    **3. Decode!** Ask a partner to send SOS. Can you spot each letter?
 
-    **4. Spell!** Send your name with the key. Pause between letters; ask an adult to decode.
+    **4. Spell!** Send your name with the key. Pause between letters; ask your partner to decode.
 
     ⭐ **Scientist's question:** Why pause?
 
@@ -64,7 +64,7 @@ The small flashlight is reusable and included in the box.
 !!! example "🔦 DAG 22 — DET HEMLIGA LJUSMEDDELANDET"
     **Ditt uppdrag:** Skicka och avkoda hemliga ljusmeddelanden!
 
-    **Du behöver:** Ficklampa, morsealfabet A–Z, vuxen och mörkt rum.
+    **Du behöver:** Ficklampa, morsealfabet A–Z och ett dunkelt rum.
 
     **SOS-nyckel:** **S = 3 korta** · **O = 3 långa**
 
@@ -72,9 +72,9 @@ The small flashlight is reusable and included in the box.
 
     **2. Skicka!** Blinka SOS: tre korta, tre långa, tre korta. Pausa mellan bokstäverna.
 
-    **3. Avkoda!** Be en vuxen skicka SOS. Ser du varje bokstav?
+    **3. Avkoda!** Be en kompis skicka SOS. Ser du varje bokstav?
 
-    **4. Stava!** Skicka ditt namn med nyckeln. Pausa mellan bokstäverna; be en vuxen avkoda.
+    **4. Stava!** Skicka ditt namn med nyckeln. Pausa mellan bokstäverna; be kompisen avkoda.
 
     ⭐ **Forskarens fråga:** Varför behövs pauser?
 
@@ -137,7 +137,7 @@ The small flashlight is reusable and included in the box.
 
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (1–2 minutes before opening)
 
@@ -161,7 +161,6 @@ The small flashlight is reusable and included in the box.
 
 - Do not shine the flashlight into eyes or across a road, window or public space. Use a wall or a nearby surface as the signal target.
 - Do not use rapidly flashing patterns; keep the signals slow and comfortable to watch.
-- An adult should supervise the flashlight and keep it away from water.
 
 ### Why it works
 

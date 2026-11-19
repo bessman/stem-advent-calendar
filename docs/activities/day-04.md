@@ -46,7 +46,7 @@ Reuse clean printer paper and paperclips if available.
 
     **1. Predict!** Do long or short blades fall more slowly?
 
-    **2. Fold!** Fold top blades opposite ways. Fold body sides inward and bottom up twice. Ask an adult to clip each.
+    **2. Fold!** Fold top blades opposite ways. Fold body sides inward and bottom up twice. Clip each at the bottom.
 
     **3. Test!** Drop each from the same height. Don't throw them!
 
@@ -65,7 +65,7 @@ Reuse clean printer paper and paperclips if available.
 
     **1. Gissa!** Faller långa eller korta blad långsammare?
 
-    **2. Vik!** Vik rotorbladen åt olika håll. Vik sidorna inåt och botten upp två gånger. Be en vuxen sätta ett gem på varje.
+    **2. Vik!** Vik rotorbladen åt olika håll. Vik sidorna inåt och botten upp två gånger. Sätt ett gem längst ner på varje.
 
     **3. Testa!** Släpp båda från samma höjd. Kasta inte!
 
@@ -76,14 +76,14 @@ Reuse clean printer paper and paperclips if available.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (3–5 minutes before opening)
 
 1. Cut two strips from the same sheet or type of paper. Each should be **15 cm long and 4 cm wide**. From the top short edge, cut a straight slit down the centre: **5 cm** on one strip and **3 cm** on the other. These form two blades, each 2 cm wide. Leave the lower body uncut.
 2. Set out a ruler and pencil so the child can fold the body neatly. Put one small paperclip with each strip.
 3. Choose a clear indoor space with a hard floor and enough headroom to hold the helicopters at about **1.5 m**. Keep the drop zone away from stairs, furniture edges, fans and people walking through.
-4. Pack the two prepared strips, paperclips and folded card. The adult should handle the scissors before the activity.
+4. Pack the two prepared strips, paperclips and folded card.
 
 ### How to help (10–15 minutes total)
 
@@ -92,16 +92,15 @@ Reuse clean printer paper and paperclips if available.
 | 0–2 min | Ask which helicopter the child thinks will take longer to fall. Invite a reason, but do not reveal an answer. |
 | 2–6 min | Help fold each pair of blades in opposite directions. Fold the uncut body edges toward the middle and fold the bottom up twice. Attach one paperclip to each folded bottom. |
 | 6–10 min | Hold each helicopter at the same height, with its blades level. Release without pushing or throwing. Observe whether it spins and where it lands. |
-| 10–13 min | Take turns dropping each design three times from the same place. Notice which usually takes longer; an adult can count aloud rather than using a stopwatch. |
+| 10–13 min | Take turns dropping each design three times from the same place. Count aloud or use a stopwatch to compare the times. |
 | 13–15 min | Ask what stayed the same and what changed. Collect both paperclips and helicopters. |
 
 **Keep it a fair comparison:** Use the same paper, body folds, paperclip, release height and gentle release for both helicopters. Only the blade length should differ. Air currents and uneven folds can affect individual drops, so compare several trials and look for a pattern rather than expecting identical results.
 
 ### Safety
 
-- An adult should prepare the paper strips with scissors. Keep scissors out of reach when not in use.
-- Drop the helicopters in a clear indoor area; do not climb on furniture or drop them over stairs, balconies or near people's faces.
-- Paperclips are small and have pointed ends. An adult should supervise their use, keep them away from mouths and younger children, and collect both after testing.
+- Drop the helicopters in a clear indoor area, away from stairs, balconies and people's faces.
+- Collect both paperclips after testing.
 - Use only ordinary paper and small paperclips. Do not add weights or throw the helicopters.
 
 ### Why it works
@@ -115,7 +114,7 @@ Longer blades have more area for the air to push against, so they may slow the f
 - **The helicopter falls without spinning:** Check that the blades are folded in opposite directions and extend out flat, like a small T. Release it gently with the blades level.
 - **It tumbles or moves sideways:** Straighten the body folds, check that the paperclip is centred at the bottom, and avoid fans or open windows.
 - **Both helicopters seem to fall alike:** Repeat the drops from the same height and compare the longer-blade design with a flat piece of the same paper. The difference may be small in a short drop.
-- **The paperclip slips off:** Fold the bottom more neatly and clip through all the folded layers. An adult can help.
+- **The paperclip slips off:** Fold the bottom more neatly and clip through all the folded layers.
 - **Extra challenge for older children:** Try another rotor length, keeping the body and paperclip the same. Ask the child to draw or mark a simple table of which design landed first in each pair of drops.
 
 **Next experiment:** On Days 5–6, we will use what we observe about shapes and forces to **build and test a bridge**.

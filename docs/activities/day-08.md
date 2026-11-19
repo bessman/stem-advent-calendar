@@ -29,7 +29,7 @@ The liquids and container are ordinary household items; no special materials nee
 | Golden syrup | About 2 tablespoons | Honey also works; use a familiar food if allergies are a concern. |
 | Cool water | About 2 tablespoons | Food colouring is optional. |
 | Vegetable oil | About 2 tablespoons | Use a clear cooking oil if available. |
-| Solid objects | 6–8 different objects | Choose from the suggestions below; their positions are for the child to discover. An adult supervises small objects. |
+| Solid objects | 6–8 different objects | Choose from the suggestions below; their positions are for the child to discover. |
 
 ## What's inside the box?
 
@@ -55,11 +55,11 @@ Choose 6–8 different solids from the list and check the ones packed. These are
 !!! example "🧪 DAY 8 — THE LIQUID STACK LAB"
     **Your mission:** Build a stack of three liquids!
 
-    **You need:** A clear jar, syrup, water, oil, 6–8 different solid objects and an adult.
+    **You need:** A clear jar, syrup, water, oil and 6–8 different solid objects.
 
     **1. Guess!** Choose one object. Do you think it will float, sink or stop between liquids?
 
-    **2. Pour!** Ask an adult to add syrup, coloured water, then oil slowly.
+    **2. Pour!** Slowly add syrup, coloured water, then oil.
 
     **3. Test!** Gently add each object, one at a time. Where does it end up?
 
@@ -74,11 +74,11 @@ Choose 6–8 different solids from the list and check the ones packed. These are
 !!! example "🧪 DAG 8 — VÄTSKOR PÅ HÖJD"
     **Ditt uppdrag:** Bygg ett torn av tre vätskor!
 
-    **Du behöver:** En genomskinlig burk, sirap, vatten, olja, 6–8 olika fasta föremål och en vuxen.
+    **Du behöver:** En genomskinlig burk, sirap, vatten, olja och 6–8 olika fasta föremål.
 
     **1. Gissa!** Välj ett föremål. Tror du att det flyter, sjunker eller stannar mellan vätskorna?
 
-    **2. Häll!** Be en vuxen hälla i sirap, färgat vatten och sedan olja långsamt.
+    **2. Häll!** Häll långsamt i sirap, färgat vatten och sedan olja.
 
     **3. Testa!** Lägg försiktigt i föremålen, ett i taget. Var hamnar de?
 
@@ -89,7 +89,7 @@ Choose 6–8 different solids from the list and check the ones packed. These are
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
@@ -103,19 +103,18 @@ Choose 6–8 different solids from the list and check the ones packed. These are
 | Time | What to do |
 | --- | --- |
 | 0–2 min | Show the three liquids and the solids. Invite the child to choose one solid and make a broad guess: float, sink or stop between liquids. |
-| 2–5 min | An adult slowly pours syrup, water and then oil into the clear container, guiding each stream down the side. |
+| 2–5 min | Slowly pour syrup, water and then oil into the clear container, guiding each stream down the side. |
 | 5–9 min | Observe the layers, then gently add the selected solids one at a time. Notice where each one ends up. |
 | 9–12 min | Compare which solids ended up in similar places. Look again after a few minutes to see whether any have moved as the syrup mixes with water. |
-| 12–15 min | Discuss what changed. An adult removes the solids, empties and washes the container, and wipes the tray. |
+| 12–15 min | Discuss what changed. Remove the solids, empty and wash the container, and wipe the tray. |
 
 **Keep it a fair comparison:** Use the same container and similar amounts of each liquid. Pour slowly and do not shake or stir; mixing makes the layers harder to observe.
 
 ### Safety
 
-- An adult should measure and pour the liquids, and stay with the child throughout.
 - Use a stable, unbreakable clear container on a tray. Keep liquids away from eyes and wipe spills promptly; oil can make floors slippery.
-- Small objects are a choking hazard. An adult should supervise their use, count and collect all 6–8 afterward, and keep them away from children under 3. Choose intact, smooth objects with no sharp edges.
-- Do not taste or drink the experiment liquids or eat the solids afterward. Check food allergies before using syrup, oil or fruit, and wash hands after the activity.
+- Choose intact, smooth objects with no sharp edges and collect them all after testing.
+- Check food allergies before using syrup, oil or fruit.
 
 ### Why it works
 

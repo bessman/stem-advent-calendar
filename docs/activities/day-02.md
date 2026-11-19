@@ -79,7 +79,7 @@ By the end of this mission, the child can:
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–4 minutes before opening)
 
@@ -102,10 +102,7 @@ By the end of this mission, the child can:
 
 ### Safety
 
-- **Adult supervision:** Keep water on a stable surface and wipe spills promptly.
-- **Do not eat the clay.** Check the manufacturer's age guidance and wash hands after handling. Keep clay away from toddlers and pets.
-- Use **cool tap water only**. No hot water, chemicals, electrical devices or mains power are needed.
-- Avoid using clay that crumbles or dissolves in water; discard water responsibly and do not wash clay lumps into the drain.
+- Keep the bowl on a stable surface and wipe up spills. Don't wash clay lumps down the drain.
 
 ### Why it works
 
@@ -120,7 +117,7 @@ It's not simply that “flat things float.” The useful design feature is the *
 - **The clay ball floats:** The material is too light for this comparison. Try denser, non-hardening plasticine; do not add metal weights to make the demonstration work.
 - **The clay boat sinks immediately:** Make a broader, shallower bottom with thinner, even walls and raised edges. Check for holes and let the child lower it gently onto the surface.
 - **The boat fills with water:** Pinch cracks closed, make the rim taller and try again in still water.
-- **The child struggles to form a boat:** An adult can press the first flat disk; let the child shape the sides and choose the next improvement.
+- **Shaping the boat is tricky:** Press the clay into a flat disk first, then shape the sides and choose an improvement.
 - **Extra challenge for older children:** Try a narrow boat and a wide boat from the same amount of clay. Which is easier to keep afloat? What might explain the difference?
 
 **Next experiment:** On [Day 3](day-03.md), our **Balloon Rocket Race** investigates a different force: how escaping air can make something move.

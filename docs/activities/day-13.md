@@ -27,8 +27,8 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 | --- | --- | --- |
 | Red cabbage | A few leaves for about 100 ml indicator | Use a small amount from a fresh cabbage. |
 | Leakproof small bottle | 1, about 10–15 ml | A clean screw-top sample bottle; double-bag for packing. |
-| Lemon juice | A small amount | For one test sample; use tiny quantities and do not taste any samples. |
-| Baking soda | A small amount | For preparing another test sample; use tiny quantities and do not taste any samples. |
+| Lemon juice | A small amount | For one test sample. |
+| Baking soda | A small amount | For preparing another test sample. |
 | Small clear cup | 3 | For the test samples. Reuse washed cups from Day 10 if suitable. |
 
 ## What's inside the box?
@@ -45,11 +45,11 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 !!! example "🧪 DAY 13 — THE COLOUR-CHANGING POTION LAB"
     **Your mission:** Test mystery liquids with purple cabbage!
 
-    **You need:** Cabbage indicator, three cups, lemon, baking soda, water and adult.
+    **You need:** Cabbage indicator, three cups, lemon, baking soda and water.
 
     **1. Predict!** Which liquid will change the indicator's colour?
 
-    **2. Set up!** Ask an adult to put lemon, plain and baking-soda water in separate cups.
+    **2. Set up!** Put lemon water, plain water and baking-soda water in separate cups.
 
     **3. Test!** Add the same number of indicator drops to each. Watch closely.
 
@@ -64,11 +64,11 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 !!! example "🧪 DAG 13 — LABBET MED FÄRGÄNDRANDE TROLLDRYCK"
     **Ditt uppdrag:** Testa tre mystiska vätskor med lila kål!
 
-    **Du behöver:** Kålindikator, tre muggar, citron, bikarbonat, vatten och vuxen.
+    **Du behöver:** Kålindikator, tre muggar, citron, bikarbonat och vatten.
 
     **1. Gissa!** Vilken vätska ändrar indikatorns färg?
 
-    **2. Gör i ordning!** Be en vuxen förbereda citronvatten, vanligt vatten och bikarbonatvatten i varsin mugg.
+    **2. Gör i ordning!** Häll citronvatten, vanligt vatten och bikarbonatvatten i varsin mugg.
 
     **3. Testa!** Droppa lika mycket indikator i varje. Titta noga.
 
@@ -79,11 +79,11 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
-### Preparation (adult, before the activity)
+### Preparation (before the activity)
 
-1. Roughly chop a few red-cabbage leaves. Place them in a heat-safe bowl and cover with about **150 ml hot water**. An adult handles the hot water; steep for 10–15 minutes until the liquid is dark purple.
+1. Roughly chop a few red-cabbage leaves. Place them in a heat-safe bowl and cover with about **150 ml hot water**; steep for 10–15 minutes until the liquid is dark purple.
 2. Strain the liquid and let it cool completely. Pour 10–15 ml into a clean, leakproof screw-top bottle. Keep the remaining indicator covered in the refrigerator if it will be used later; discard after a few days.
 3. Pack the sealed bottle in a second bag. Set out three small clear cups, lemon juice, a small amount of baking soda, water, a teaspoon and a washable tray.
 4. Make two sample solutions: a teaspoon of lemon juice diluted with about 30 ml water; and a small pinch of baking soda stirred into about 30 ml water. Place plain water in the third cup. Keep each sample separate.
@@ -102,10 +102,10 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 
 ### Safety
 
-- **An adult prepares the indicator.** Hot water, chopping and straining are adult jobs; cool the liquid fully before it goes in the box.
-- Use only small amounts of food-grade cabbage, lemon juice and baking soda. Do not taste or drink any experiment samples.
+- Prepare the cabbage indicator with hot water before packing it, then cool it completely.
+- Use small amounts of food-grade cabbage, lemon juice and baking soda.
 - Red-cabbage indicator can stain skin, clothing and surfaces. Use a tray, avoid splashes and wash hands afterwards.
-- Do not mix these samples with cleaning products or other chemicals. Keep the bottle and samples away from younger children and pets.
+- Do not mix these samples with cleaning products or other chemicals.
 
 ### Why it works
 

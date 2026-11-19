@@ -26,7 +26,7 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Small white ball | 1, about 4–5 cm diameter | A lightweight ping-pong or craft ball; it should fit in the box. |
-| Desk lamp with a cool LED bulb | 1 | Adult positions and operates it. Do not use candles, hot bulbs or direct sunlight. |
+| Desk lamp with a cool LED bulb | 1 | Do not use candles, hot bulbs or direct sunlight. |
 
 ## What's inside the box?
 
@@ -41,11 +41,11 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 !!! example "🌙 DAY 15 — THE MOON'S SECRET SHAPES"
     **Your mission:** Explore Moon shapes with a ball!
 
-    **You need:** White ball, adult, cool LED lamp.
+    **You need:** White ball and cool LED lamp.
 
     **1. Predict!** Will it light all or part of the ball?
 
-    **2. Set up!** Ask an adult to steady the lamp. Dim the room; hold the ball out.
+    **2. Set up!** Place the lamp on a steady surface. Dim the room; hold the ball out.
 
     **3. Explore!** Stand still. Circle the ball around you, watching it, not the lamp. What shapes appear?
 
@@ -60,11 +60,11 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 !!! example "🌙 DAG 15 — MÅNENS HEMLIGA FORMER"
     **Ditt uppdrag:** Undersök månens former med en boll!
 
-    **Du behöver:** Vit boll, vuxen, sval LED-lampa.
+    **Du behöver:** Vit boll och sval LED-lampa.
 
     **1. Gissa!** Lyser lampan på hela, halva eller ingen del av bollen?
 
-    **2. Gör i ordning!** Be en vuxen ställa lampan stadigt. Dämpa rummet; håll bollen framför dig.
+    **2. Gör i ordning!** Ställ lampan stadigt. Dämpa rummet; håll bollen framför dig.
 
     **3. Undersök!** Stå stilla. För bollen långsamt runt dig. Titta på bollen, inte lampan. Vilka former syns?
 
@@ -75,7 +75,7 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
@@ -97,9 +97,9 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 
 ### Safety
 
-- Use a cool LED lamp on a stable surface. An adult should place and operate it; do not use candles, hot incandescent bulbs or sunlight.
+- Use a cool LED lamp on a stable surface; do not use candles, hot bulbs or sunlight.
 - Do not look directly into the lamp. Keep the room dim only enough to see the ball, and clear the floor before turning.
-- Keep the ball away from younger children and pets; do not throw it.
+- Do not throw the ball.
 
 ### Why it works
 

@@ -47,11 +47,11 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 !!! example "🔘 DAY 20 — THE MAGIC BUTTON"
     **Your mission:** Make a button control an Arduino light!
 
-    **You need:** Arduino, breadboard, button, wires and adult.
+    **You need:** Arduino, breadboard, button and wires.
 
     **1. Predict!** Press: what happens?
 
-    **2. Connect!** Ask an adult to place the button across the breadboard gap. Connect one side to pin 2, the other to GND.
+    **2. Connect!** With USB unplugged, place the button across the breadboard gap. Connect one side to pin 2, the other to GND.
 
     **3. Program!** Upload the button program. Press and release. What does the light do?
 
@@ -66,11 +66,11 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 !!! example "🔘 DAG 20 — DEN MAGISKA KNAPPEN"
     **Ditt uppdrag:** Låt en knapp styra Arduino-lampan!
 
-    **Du behöver:** Arduino, kopplingsplatta, knapp, sladdar, dator och vuxen.
+    **Du behöver:** Arduino, kopplingsplatta, knapp, sladdar och dator.
 
     **1. Gissa!** Vad händer när du trycker och släpper?
 
-    **2. Koppla!** Be en vuxen sätta knappen över springan. Anslut ena sidan till pinne 2, den andra till GND.
+    **2. Koppla!** Koppla ur USB. Sätt knappen över springan. Anslut ena sidan till pinne 2, den andra till GND.
 
     **3. Programmera!** Ladda upp knapp-programmet. Tryck och släpp. Vad gör lampan?
 
@@ -81,7 +81,7 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (before the activity)
 
@@ -121,10 +121,9 @@ void loop() {
 
 ### Safety
 
-- An adult should check every connection while the Arduino is unplugged. Use only the Arduino's USB connection; no wall adapters, AA packs or mains electricity.
+- Check the connections before plugging in USB. Use only the Arduino's USB connection; no wall adapters, AA packs or mains electricity.
 - Keep drinks and wet materials away from the board and computer. Disconnect USB before changing wires.
 - Do not connect the 5V pin directly to GND. The button goes between pin 2 and GND as described.
-- Keep small buttons and wires away from mouths, younger children and pets.
 
 ### Why it works
 

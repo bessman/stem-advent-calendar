@@ -35,7 +35,7 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 ## What's inside the box?
 
 - [ ] **One two-AA battery holder and two AA batteries**, packed separately so the cells are not installed yet.
-- [ ] **One red LED with a 220-ohm resistor pre-connected in series** by an adult; insulate the joined legs with tape or heat-shrink.
+- [ ] **One red LED with a 220-ohm resistor pre-connected in series**; insulate the joined legs with tape or heat-shrink.
 - [ ] **Two insulated alligator-clip leads.**
 - [ ] **One folded Day 17 mission card** (below).
 
@@ -47,13 +47,13 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 !!! example "💡 DAY 17 — LIGHT UP AN LED!"
     **Your mission:** Light an LED!
 
-    **You need:** Battery pack, wired LED/resistor, leads and adult.
+    **You need:** Battery pack, wired LED/resistor and leads.
 
     **1. Predict!** What happens if the circuit has a gap?
 
-    **2. Connect!** With an adult, connect red wire to the free resistor leg; the other joins the LED's long leg. Connect short leg to black.
+    **2. Connect!** With the batteries out, connect red wire to the free resistor leg and the short LED leg to black.
 
-    **3. Observe!** Does it shine? Ask an adult to check if not.
+    **3. Observe!** Does it shine? If not, disconnect the batteries and check the connections.
 
     **4. Discover!** Carefully disconnect, then reconnect a clip. What changes?
 
@@ -66,13 +66,13 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 !!! example "💡 DAG 17 — TÄND EN LED!"
     **Ditt uppdrag:** Tänd en LED med en krets!
 
-    **Du behöver:** Batterihållare, LED med motstånd, krokodilsladdar och vuxen.
+    **Du behöver:** Batterihållare, LED med motstånd och krokodilsladdar.
 
     **1. Gissa!** Vad händer om kretsen har ett avbrott?
 
-    **2. Koppla!** Med en vuxen: koppla röd sladd till motståndets fria ben. Motståndet sitter på LED-lampans långa ben. Koppla det korta benet till svart sladd.
+    **2. Koppla!** Ta ut batterierna. Koppla röd sladd till motståndets fria ben och LED-lampans korta ben till svart sladd.
 
-    **3. Titta!** Lyser den? Be en vuxen kontrollera kopplingarna om inte.
+    **3. Titta!** Lyser den? Om inte, ta ut batterierna och kontrollera kopplingarna.
 
     **4. Upptäck!** Lossa försiktigt en sladd och sätt tillbaka den. Vad ändras?
 
@@ -81,13 +81,13 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (5 minutes before opening)
 
 1. Use a holder for **two AA cells in series** (about 3 V). Pack the cells outside the holder so the circuit cannot be powered before it is checked. Do not use coin cells or a higher-voltage source.
-2. Connect a **220-ohm resistor in series with the LED's long leg (anode)**. An adult should twist the resistor leg securely to the LED leg and insulate the exposed joint with electrical tape or heat-shrink. Leave the resistor's other leg and the LED's short leg accessible for clips.
-3. Check the holder's red and black wires and the alligator clips; do not let the clips touch each other. Keep both cells out of the holder until the child's wiring is complete and an adult has checked it.
+2. Connect a **220-ohm resistor in series with the LED's long leg (anode)**. Twist the resistor leg securely to the LED leg and insulate the exposed joint with electrical tape or heat-shrink. Leave the resistor's other leg and the LED's short leg accessible for clips.
+3. Check the holder's red and black wires and the alligator clips; do not let the clips touch each other. Keep both cells out of the holder until wiring is complete.
 4. Pack the holder, pre-wired LED/resistor, two clip leads and card. Keep water away from the table.
 
 ### How to help (10–15 minutes total)
@@ -96,7 +96,7 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 | --- | --- |
 | 0–2 min | Identify the battery pack, LED and resistor. Ask what the resistor might do and predict what a gap will cause. |
 | 2–6 min | With the battery disconnected, clip the pack's red wire to the free resistor leg and the LED's short leg to the black wire. Make sure the long LED leg is joined to the resistor. |
-| 6–9 min | The adult checks for loose or touching clips, then inserts the two AA cells into the holder. Observe the LED. |
+| 6–9 min | Check that no clips are loose or touching, then insert the two AA cells into the holder. Observe the LED. |
 | 9–12 min | Disconnect one clip to open the circuit, then reconnect it to close the loop. Notice when the light turns off and on. |
 | 12–15 min | Disconnect the battery pack. Put the LED, resistor, clip leads and holder aside for Day 18 and later missions. |
 
@@ -105,10 +105,8 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 ### Safety
 
 - Use only a **two-AA, approximately 3 V battery holder** and one LED with a **220-ohm series resistor**. Never connect this circuit to mains electricity, a wall adapter or a USB port.
-- An adult should assemble and insulate the resistor-to-LED joint and check every connection before the battery is connected.
-- Do not allow the battery wires or alligator clips to touch each other directly; this can short the batteries and heat the wires.
+- Keep the resistor in series with the LED and insulate its joined legs. Do not let the battery wires or alligator clips touch each other; this can short the batteries and heat the wires.
 - Keep the circuit dry. Disconnect the batteries when not testing, and remove them for storage. Do not use damaged batteries or holders.
-- Keep small components away from mouths, younger children and pets. The batteries are not toys.
 
 ### Why it works
 
@@ -121,7 +119,7 @@ An LED is a **diode**, so current can pass through it mainly in one direction. I
 - **The LED does not light:** Disconnect the battery first. Check that the resistor is in series, the long LED leg connects toward red (+), and both clips grip bare metal securely. Reconnect only after checking.
 - **The LED lights only when a clip is pressed:** The clip may not be gripping bare metal. Disconnect the battery and adjust the connection.
 - **The LED is reversed:** With the battery disconnected, reverse the LED orientation while keeping the resistor in series. Reconnect and observe.
-- **A wire or battery feels warm:** Disconnect immediately and ask an adult to check for a short circuit. Do not use the setup until corrected.
+- **A wire or battery feels warm:** Disconnect immediately and check for a short circuit. Do not use the setup until corrected.
 - **Extra challenge for older children:** Draw the circuit as a loop and mark the gap that turns the LED off.
 
 **Next experiment:** On [Day 18](day-18.md), we will add a simple switch to open and close this same circuit. Save every component.

@@ -41,11 +41,11 @@ Use ordinary granulated sugar and household water.
 !!! example "🏁 DAY 12 — THE GREAT DISSOLVING RACE"
     **Your mission:** Race sugar in warm or cool water!
 
-    **You need:** Two sugar packets, two cups, 200 ml water and adult.
+    **You need:** Two sugar packets, two cups and 200 ml water.
 
     **1. Predict!** Which cup needs fewer stirs: warm or cool?
 
-    **2. Set up!** Ask an adult to measure 100 ml cool and 100 ml warm, not hot, water into separate cups.
+    **2. Set up!** Measure 100 ml cool and 100 ml warm (not hot) water into separate cups.
 
     **3. Race!** Add one packet to each. Stir one turn per second. Count until crystals disappear.
 
@@ -60,11 +60,11 @@ Use ordinary granulated sugar and household water.
 !!! example "🏁 DAG 12 — DEN STORA UPPLÖSNINGSTÄVLINGEN"
     **Ditt uppdrag:** Tävla med socker i varmt eller kallt vatten!
 
-    **Du behöver:** Två sockerpåsar, två muggar, 200 ml vatten och vuxen.
+    **Du behöver:** Två sockerpåsar, två muggar och 200 ml vatten.
 
     **1. Gissa!** Vilken mugg behöver färre varv: varm eller kall?
 
-    **2. Gör i ordning!** Be en vuxen mäta 100 ml kallt och 100 ml varmt, inte hett, vatten i varsin mugg.
+    **2. Gör i ordning!** Mät upp 100 ml kallt och 100 ml varmt (inte hett) vatten i varsin mugg.
 
     **3. Tävla!** Häll en påse i varje. Rör ett varv per sekund. Räkna tills kristallerna försvinner.
 
@@ -75,12 +75,12 @@ Use ordinary granulated sugar and household water.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (3–5 minutes before opening)
 
 1. Set out two matching clear cups, a measuring cup, a teaspoon and a stirring spoon. Place the cups on a tray or washable surface.
-2. Measure **100 ml** of cool tap water for one cup. Prepare **100 ml of warm water at about 35–40°C** for the other. The adult pours and checks the temperature; do not use hot or boiling water.
+2. Measure **100 ml** of cool tap water for one cup and **100 ml of warm water at about 35–40°C** for the other. Do not use hot or boiling water.
 3. Portion one level teaspoon of the same granulated sugar into each packet. Pack both portions with the folded card.
 4. Keep the cups clearly labelled **cool** and **warm** so the child can compare the results.
 
@@ -89,18 +89,17 @@ Use ordinary granulated sugar and household water.
 | Time | What to do |
 | --- | --- |
 | 0–3 min | Ask for a prediction and decide together how to count the stirring. |
-| 3–6 min | Measure 100 ml of each water temperature into the matching cups. The adult handles the warm cup. |
+| 3–6 min | Measure 100 ml of each water temperature into the matching cups. |
 | 6–12 min | Add the sugar to each cup. Stir at a steady pace, about one full turn each second, and count turns until crystals are no longer visible. Test one cup at a time using the same spoon, rinsed and dried between tests. |
 | 12–18 min | Compare turn counts. If time allows, repeat with fresh equal amounts and switch which cup is tested first. |
 | 18–30 min | Discuss the result, let both cups cool, then dispose of the sugar water and wash the cups. |
 
-**Keep it a fair test:** Use the same type and amount of sugar, equal water volumes, matching cups and the same stirring rate and spoon. The water temperature is the one intended change. A thermometer helps; otherwise, the adult should use comfortably warm water that is not hot.
+**Keep it a fair test:** Use the same type and amount of sugar, equal water volumes, matching cups and the same stirring rate and spoon. The water temperature is the one intended change. A thermometer helps; otherwise, use comfortably warm water that is not hot.
 
 ### Safety
 
-- An adult must prepare, measure and pour the warm water. Use only comfortably warm water, about **35–40°C**, never hot or boiling water.
-- Keep cups on a stable surface and wipe spills promptly. Do not taste the experiment materials.
-- Do not use a kettle or hot plate during the child's test. Keep warm water away from younger children and pets.
+- Use comfortably warm water, about **35–40°C**, never hot or boiling water. No kettle or hot plate is needed.
+- Keep cups on a stable surface and wipe spills promptly.
 - Wash hands and rinse the cups after the experiment.
 
 ### Why it works

@@ -87,7 +87,7 @@ Only a **small sample** of each material goes in the box.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
@@ -110,10 +110,8 @@ Only a **small sample** of each material goes in the box.
 
 ### Safety
 
-- **Adult preparation:** Scissors are for the adult; check packaging and foil for sharp edges.
-- The samples are for touching and testing, **not eating**. Keep small pieces away from younger siblings and pets.
-- Use only clean materials and a little tap water. Dry the surface afterwards to prevent slips or damage.
-- Do not use chemicals or electrical equipment.
+- Check the packaging and foil for sharp edges before packing.
+- Use clean materials and a little tap water; dry the surface afterwards.
 
 ### Why it works
 

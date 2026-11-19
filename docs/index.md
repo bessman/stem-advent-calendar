@@ -4,7 +4,7 @@
 
 Welcome to a December adventure in **science, technology, engineering and mathematics**! Each day from **1 to 24 December**, open a small box, make a prediction, try something surprising, and discover how the world works.
 
-This calendar is designed for **children aged 6–9**, with an adult nearby to help with setup and safety. No previous science or programming experience is needed.
+This calendar is designed for **children aged 6–9** to explore, build and test ideas for themselves. A few activities need materials prepared ahead of time; each page makes those steps clear. No previous science or programming experience is needed.
 
 !!! tip "The discovery journey"
     **Guess → Test → Observe → Ask why!** It is fine when an experiment does something unexpected—that is how discoveries begin.
@@ -14,9 +14,9 @@ This calendar is designed for **children aged 6–9**, with an adult nearby to h
 Each day's activity has two parts:
 
 - **The child's mission card** is short, hands-on, and fits inside the day's **7 × 7 × 7 cm** advent box along with its special materials.
-- **The adult's instructions** live on the activity's web page, with preparation, safety notes, troubleshooting, and the science behind the result.
+- **Preparation and activity notes** live on each web page, with setup details, specific safety notes, troubleshooting, and the science behind the result.
 
-As individual activity pages are completed, they will include an **introduction** (scientific field, learning goals, and links to earlier or later experiments), a **complete shopping list**, an **exact box inventory**, the **child's mission card**, and **additional adult instructions**.
+Each activity page includes an **introduction** (scientific field, learning goals, and links to earlier or later experiments), a **complete shopping list**, an **exact box inventory**, the **mission card**, and **setup notes**.
 
 **Time and materials:** Weekday challenges take **10–15 minutes**. Weekend challenges on **5–6, 12–13, and 19–20 December** take **20–30 minutes**. The final mission on **24 December** takes **40–60 minutes**. Most activities use about **0–20 SEK worth of materials**; reusable household items may cost more to buy upfront but are often already available. Three experiments require an Arduino, which costs around 100-300 SEK depending on model.
 
@@ -97,7 +97,7 @@ As individual activity pages are completed, they will include an **introduction*
 These are **small experiments, not tests**. Invite children to make their own guesses and describe what they notice. If the result is surprising, try changing one thing and testing again.
 
 !!! warning "Safety comes first"
-    An adult should review the instructions and materials **before opening each box**. Use age-appropriate parts, supervise small objects and electronics, avoid loose coin-cell batteries and strong magnets, and never connect homemade circuits to mains electricity. Use low-voltage batteries or a correctly connected Arduino only. Prepare messy experiments on a washable surface.
+    Check the setup notes and materials **before each activity**. Use the specified low-voltage batteries and magnets; avoid loose coin-cell batteries and strong magnets. Keep circuits disconnected while wiring, never connect them to mains electricity, and keep liquids away from electronics. Use a washable surface for messy experiments.
 
 ### What is coming next?
 

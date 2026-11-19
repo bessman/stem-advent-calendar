@@ -65,13 +65,13 @@ Use the exact existing item name for equivalent materials, preferably singular. 
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation
 
 ...
 
-### How to help
+### Activity guide
 
 ...
 

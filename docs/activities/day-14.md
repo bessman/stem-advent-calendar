@@ -25,7 +25,7 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Cress seeds | 8–10 seeds | Fast-sprouting, untreated seeds from a food or garden supplier. Do not eat the experiment seeds. |
+| Cress seeds | 8–10 seeds | Fast-sprouting, untreated seeds from a food or garden supplier. |
 | Cotton pad | 1 small piece | Plain, unscented cotton wool or a cotton pad. |
 | Small clear cup or jar | 1 | Choose a stable container that is easy to inspect from the side. Keep the seed setup intact for Day 21; this container remains in use until then. |
 
@@ -43,11 +43,11 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 !!! example "🌱 DAY 14 — WAKE UP, LITTLE SEED!"
     **Your mission:** Wake a seed and track its changes!
 
-    **You need:** Cress seeds, cotton, cup, water and adult.
+    **You need:** Cress seeds, cotton, cup and water.
 
     **1. Predict!** When will a tiny root or shoot appear?
 
-    **2. Set up!** Ask an adult to dampen cotton in the cup. Place seeds on top where you can see them.
+    **2. Set up!** Dampen the cotton in the cup. Place seeds on top where you can see them.
 
     **3. Observe!** Draw today's seeds. Keep the cup bright, out of direct sun.
 
@@ -62,11 +62,11 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 !!! example "🌱 DAG 14 — VAKNA, LILLA FRÖ!"
     **Ditt uppdrag:** Väck ett frö och följ de första förändringarna!
 
-    **Du behöver:** Krassefrön, bomull, genomskinlig mugg, vatten och vuxen.
+    **Du behöver:** Krassefrön, bomull, genomskinlig mugg och vatten.
 
     **1. Gissa!** När syns en liten rot eller ett skott?
 
-    **2. Gör i ordning!** Be en vuxen fukta bomull i muggen. Lägg fröna ovanpå så att du ser dem.
+    **2. Gör i ordning!** Fukta bomullen i muggen. Lägg fröna ovanpå så att du ser dem.
 
     **3. Titta!** Rita dagens frön. Ställ muggen ljust, utan direkt sol.
 
@@ -77,7 +77,7 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (2–3 minutes before opening)
 
@@ -99,9 +99,7 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 
 ### Safety
 
-- An adult should check that seeds are untreated and supervise small seeds, which can be a choking hazard for younger children and pets.
-- Do not eat the seeds, cotton or plant from this experiment. Wash hands after handling.
-- Use only a little water and keep the cup on a tray away from electronics. Empty and discard the setup if it develops mould or an unpleasant smell.
+- Use only a little water and keep the cup on a tray away from electronics. Discard the setup if it develops mould or an unpleasant smell.
 - Keep the cup out of direct hot sunlight and away from heaters.
 
 ### Why it works

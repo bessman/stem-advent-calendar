@@ -52,11 +52,11 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 !!! example "🎄 DAY 24 — THE GRAND CHRISTMAS INVENTION!"
     **Your mission:** Build a station to blink your name!
 
-    **You need:** Arduino, button, breadboard, two LEDs, resistors, wires, cardboard and adult.
+    **You need:** Arduino, button, breadboard, two LEDs, resistors, wires and cardboard.
 
     **1. Plan!** Use Day 23 design. Button reachable?
 
-    **2. Build!** Adult connects button to pin 2/GND; LEDs to pins 8/9 through resistors. Keep Arduino and breadboard outside.
+    **2. Build!** With USB unplugged, connect the button to pin 2/GND and the LEDs to pins 8/9 through resistors. Keep Arduino and breadboard outside.
 
     **3. Program!** Upload name code. Press the button; read the letters.
 
@@ -71,11 +71,11 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 !!! example "🎄 DAG 24 — DEN STORA JULUPPFINNINGEN!"
     **Ditt uppdrag:** Bygg en station som blinkar ditt namn!
 
-    **Du behöver:** Arduino, knapp, kopplingsplatta, två LED med motstånd, sladdar, kartong och vuxen.
+    **Du behöver:** Arduino, knapp, kopplingsplatta, två LED med motstånd, sladdar och kartong.
 
     **1. Planera!** Använd dag 23:s design. Når någon knappen?
 
-    **2. Bygg!** Be en vuxen koppla knapp till 2/GND och LED till 8/9 med motstånd. Ha Arduino och kopplingsplatta utanför.
+    **2. Bygg!** Koppla ur USB. Anslut knappen till 2/GND och LED-lamporna till 8/9 genom varsitt motstånd. Ha Arduino och kopplingsplatta utanför.
 
     **3. Programmera!** Ladda upp namnprogrammet. Tryck; läs bokstäverna.
 
@@ -86,19 +86,19 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (5–10 minutes before the activity)
 
 1. Bring out the Arduino, USB data cable, computer, breadboard and pushbutton from Day 20, and the red LED/resistor assembly from Day 17. Keep the AA battery holder disconnected and out of the Arduino circuit.
-2. Connect the second LED in series with its **own 220-ohm resistor**. An adult should check each resistor-to-LED connection before power is applied.
+2. Connect the second LED in series with its **own 220-ohm resistor**. Check both resistor-to-LED connections before power is applied.
 3. Build the circuit with the Arduino unplugged:
    - Connect **GND** from the Arduino to the breadboard's ground rail.
    - Connect the pushbutton across the breadboard's centre gap, with one side to **digital pin 2** and the other to **GND**.
    - Connect the first LED's resistor side to **digital pin 8** and its short leg to **GND**.
    - Connect the second LED's resistor side to **digital pin 9** and its short leg to **GND**.
 4. Set `NAME` in the program to your child's name using ASCII letters A–Z. Uppercase and lowercase both work; other characters are ignored.
-5. Test the program before mounting the LEDs in the cardboard. An adult cuts any LED holes. Leave the Arduino, breadboard and connections uncovered and accessible on a stable surface.
+5. Test the program before mounting the LEDs in the cardboard. Cut any LED holes with scissors. Leave the Arduino, breadboard and connections uncovered and accessible on a stable surface.
 
 ### How to help (40–60 minutes total)
 
@@ -106,7 +106,7 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 | --- | --- |
 | 0–5 min | Revisit the Day 23 plan and Day 22 Morse pattern. Agree on where the display and button will go. |
 | 5–15 min | With USB disconnected, build and check the button and two LED circuits. Confirm that each LED has its own 220-ohm resistor and both share GND. |
-| 15–25 min | Connect the Arduino to the computer by USB, open the sketch below and upload it. The adult checks the board, port and wiring. |
+| 15–25 min | Connect the Arduino to the computer by USB, open the sketch below and upload it. Check the board, port and wiring. |
 | 25–40 min | Press the button to send your child's name. Let the child observe and decode the pattern. Mount the LEDs in the cardboard and position the button so it can be reached. |
 | 40–55 min | Test the finished display from the receiver's position. Adjust the light openings or flash timing if needed. |
 | 55–60 min | Disconnect USB, collect loose parts and celebrate the working signal station. |
@@ -207,10 +207,10 @@ void sendName() {
 
 ### Safety
 
-- An adult should check all wiring with USB disconnected. Use only the Arduino's USB connection; do not connect the AA holder, mains electricity or an external power supply.
+- With USB disconnected, check all wiring before connecting. Use only the Arduino's USB connection; do not connect the AA holder, mains electricity or an external power supply.
 - Every external LED must have its own **220-ohm resistor in series**. Never connect an LED directly between an Arduino pin and GND.
 - Keep drinks and wet materials away from the computer, board and breadboard. Disconnect USB before moving wires or changing the circuit.
-- Do not cover or enclose the Arduino, breadboard or USB connection in cardboard. Keep small parts, scissors and tape away from younger children and pets.
+- Do not cover or enclose the Arduino, breadboard or USB connection in cardboard.
 - Point the signal toward a nearby wall or receiver, never into eyes or toward roads. This is a learning project, not an emergency signal device.
 
 ### Why it works

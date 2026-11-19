@@ -42,11 +42,11 @@ Household food colouring and paper towels can be reused.
 !!! example "🌈 DAY 10 — WALKING RAINBOW"
     **Your mission:** Make a walking rainbow!
 
-    **You need:** Paper strips, five cups, water, food colouring and an adult.
+    **You need:** Paper strips, five cups, water and food colouring.
 
     **1. Predict!** What happens when paper links coloured and empty cups?
 
-    **2. Set up!** Ask an adult to colour cups 1, 3 and 5 red, yellow and blue. Leave 2 and 4 empty.
+    **2. Set up!** Colour cups 1, 3 and 5 red, yellow and blue. Leave 2 and 4 empty.
 
     **3. Connect!** Fold paper strips into bridges between neighbouring cups.
 
@@ -61,11 +61,11 @@ Household food colouring and paper towels can be reused.
 !!! example "🌈 DAG 10 — DEN VANDRANDE REGNBÅGEN"
     **Ditt uppdrag:** Skapa en vandrande regnbåge!
 
-    **Du behöver:** Pappersremsor, fem muggar, vatten, karamellfärg och vuxen.
+    **Du behöver:** Pappersremsor, fem muggar, vatten och karamellfärg.
 
     **1. Gissa!** Vad händer när papper kopplar färgat vatten till tomma muggar?
 
-    **2. Gör i ordning!** Be en vuxen färga mugg 1 röd, 3 gul och 5 blå. Lämna 2 och 4 tomma.
+    **2. Gör i ordning!** Färga mugg 1 röd, 3 gul och 5 blå. Lämna 2 och 4 tomma.
 
     **3. Koppla ihop!** Vik remsorna till broar mellan muggarna.
 
@@ -76,14 +76,14 @@ Household food colouring and paper towels can be reused.
 </div>
 </div>
 
-## Adult instructions
+## Setup notes
 
 ### Preparation (3–5 minutes before opening)
 
 1. Place five small clear cups in a row on a tray. Add about **60 ml** of water to cups 1, 3 and 5, leaving cups 2 and 4 empty.
 2. Add a few drops of food colouring to make cup 1 red, cup 3 yellow and cup 5 blue. Keep the colours distinct; dark colours make mixing harder to see.
 3. Fold four paper towel strips lengthwise once to make narrow bridges. Set out a towel for spills. Pack the strips and card only.
-4. Keep food colouring away from clothing and surfaces that may stain. An adult can dispense the drops if needed.
+4. Food colouring can stain clothing and surfaces; protect the table.
 
 ### How to help (10–15 minutes to set up and observe)
 
@@ -100,8 +100,7 @@ Household food colouring and paper towels can be reused.
 
 - Use food colouring only in small amounts; it can stain skin, clothes and surfaces. Protect the table and wash hands afterwards.
 - Do not drink the coloured water or use the cups for food afterwards until thoroughly washed.
-- Wipe up spills promptly and keep the setup away from electronics and younger children or pets.
-- An adult should dispense food colouring if the bottle is difficult to control.
+- Wipe up spills promptly and keep the setup away from electronics.
 
 ### Why it works
 
