@@ -5,10 +5,9 @@ docs_dir = "docs"
 site_dir = "site"
 nav = [
   { "Welcome & calendar" = "index.md" },
-  # Add activity pages here as they are written, for example:
-  # { "Week 1 — Physics & engineering" = [
-  #   { "1 · Mystery Materials" = "activities/day-01.md" },
-  # ] },
+  { "Week 1 — Physics & engineering" = [
+    { "1 · Mystery Materials" = "activities/day-01.md" },
+  ] },
 ]
 extra_css = ["stylesheets/extra.css"]
 
