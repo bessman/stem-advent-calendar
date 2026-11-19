@@ -6,7 +6,7 @@ Welcome to a December adventure in **science, technology, engineering and mathem
 
 This calendar is designed for **children aged 6–9**, with an adult nearby to help with setup and safety. No previous science or programming experience is needed.
 
-!!! tip "Our scientist's motto"
+!!! tip "The discovery journey"
     **Guess → Test → Observe → Ask why!** It is fine when an experiment does something unexpected—that is how discoveries begin.
 
 ## How the calendar works
@@ -61,11 +61,11 @@ As individual activity pages are completed, they will include an **introduction*
 
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
-| 14 | Mon 14 Dec | **Wake Up, Little Seed!** | Germination and observation | 10–15 min |
-| 15 | Tue 15 Dec | **The Moon's Secret Shapes** | Moon phases, light and shadows | 10–15 min |
-| 16 | Wed 16 Dec | **The Invisible Magnet Maze** | Magnetic forces | 10–15 min |
-| 17 | Thu 17 Dec | **Light Up an LED!** | Simple electrical circuits | 10–15 min |
-| 18 | Fri 18 Dec | **Invent a Switch** | Opening and closing a circuit | 10–15 min |
+| 14 | Mon 14 Dec | **[Wake Up, Little Seed!](activities/day-14.md)** | Germination and observation | 10–15 min |
+| 15 | Tue 15 Dec | **[The Moon's Secret Shapes](activities/day-15.md)** | Moon phases, light and shadows | 10–15 min |
+| 16 | Wed 16 Dec | **[The Invisible Magnet Maze](activities/day-16.md)** | Magnetic forces | 10–15 min |
+| 17 | Thu 17 Dec | **[Light Up an LED!](activities/day-17.md)** | Simple electrical circuits | 10–15 min |
+| 18 | Fri 18 Dec | **[Invent a Switch](activities/day-18.md)** | Opening and closing a circuit | 10–15 min |
 
 **The connection:** Start a week-long plant investigation. Keep the circuit parts from Days 17–18 for the inventor missions.
 

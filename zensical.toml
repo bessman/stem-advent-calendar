@@ -22,6 +22,13 @@ nav = [
     { "12 · The Great Dissolving Race" = "activities/day-12.md" },
     { "13 · The Colour-Changing Potion Lab" = "activities/day-13.md" },
   ] },
+  { "Week 3 — Nature's hidden powers" = [
+    { "14 · Wake Up, Little Seed!" = "activities/day-14.md" },
+    { "15 · The Moon's Secret Shapes" = "activities/day-15.md" },
+    { "16 · The Invisible Magnet Maze" = "activities/day-16.md" },
+    { "17 · Light Up an LED!" = "activities/day-17.md" },
+    { "18 · Invent a Switch" = "activities/day-18.md" },
+  ] },
 ]
 extra_css = ["stylesheets/extra.css"]
 extra_javascript = ["javascripts/mission-card.js"]
