@@ -1,5 +1,7 @@
 # Day 2 · Sink or Float?
 
+![A foil boat floating beside a sinking object](../images/experiments/day-02.svg){ .activity-illustration }
+
 **Field:** Physics · Buoyancy · Engineering design  
 **Time:** 10–15 minutes (Wednesday 2 December 2026)  
 **Age group:** 6–9  

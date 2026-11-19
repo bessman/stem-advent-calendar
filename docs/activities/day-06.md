@@ -1,5 +1,7 @@
 # Day 6 · Build a Bridge: Part 2
 
+![A folded paper bridge supporting a test weight](../images/experiments/day-06.svg){ .activity-illustration }
+
 **Field:** Engineering · Structures · Fair testing  
 **Time:** 20–30 minutes (Sunday 6 December 2026)  
 **Age group:** 6–9  

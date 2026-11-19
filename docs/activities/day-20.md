@@ -1,5 +1,7 @@
 # Day 20 · The Magic Button
 
+![A push button controlling a light on a small circuit board](../images/experiments/day-20.svg){ .activity-illustration }
+
 **Field:** Technology · Programming · Inputs and outputs  
 **Time:** 20–30 minutes (Sunday 20 December 2026)  
 **Age group:** 6–9  

@@ -1,5 +1,7 @@
 # Day 23 · Design Your Christmas Invention
 
+![A child sketching a prototype for a Christmas light invention](../images/experiments/day-23.svg){ .activity-illustration }
+
 **Field:** Engineering · Design · Prototyping  
 **Time:** 10–15 minutes (Wednesday 23 December 2026)  
 **Age group:** 6–9  

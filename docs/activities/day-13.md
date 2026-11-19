@@ -1,5 +1,7 @@
 # Day 13 · The Colour-Changing Potion Lab
 
+![An indicator changing colour in two test cups](../images/experiments/day-13.svg){ .activity-illustration }
+
 **Field:** Chemistry · Acids and bases · Indicators  
 **Time:** 20–30 minutes (Sunday 13 December 2026)  
 **Age group:** 6–9  

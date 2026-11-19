@@ -1,5 +1,7 @@
 # Day 22 · The Secret Light Message
 
+![A flashlight sending a pattern of light pulses](../images/experiments/day-22.svg){ .activity-illustration }
+
 **Field:** Technology · Communication · Patterns  
 **Time:** 10–15 minutes (Tuesday 22 December 2026)  
 **Age group:** 6–9  

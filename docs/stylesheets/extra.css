@@ -8,6 +8,16 @@
   letter-spacing: -0.035em;
 }
 
+.md-typeset .activity-illustration {
+  display: block;
+  width: 100%;
+  max-width: 42rem;
+  max-height: 20rem;
+  margin: 0.5rem 0 1.5rem;
+  object-fit: cover;
+  border-radius: 0.4rem;
+}
+
 .md-typeset h2 {
   margin-top: 2.2em;
 }

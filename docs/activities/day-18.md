@@ -1,5 +1,7 @@
 # Day 18 · Invent a Switch
 
+![A paperclip switch opening and closing an LED circuit](../images/experiments/day-18.svg){ .activity-illustration }
+
 **Field:** Technology · Electricity · Circuits  
 **Time:** 10–15 minutes (Friday 18 December 2026)  
 **Age group:** 6–9  

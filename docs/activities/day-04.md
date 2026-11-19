@@ -1,5 +1,7 @@
 # Day 4 · The Flying Helicopter
 
+![A paper helicopter spinning as it falls](../images/experiments/day-04.svg){ .activity-illustration }
+
 **Field:** Physics · Gravity · Aerodynamics  
 **Time:** 10–15 minutes (Friday 4 December 2026)  
 **Age group:** 6–9  

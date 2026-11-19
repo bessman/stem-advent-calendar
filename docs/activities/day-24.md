@@ -1,5 +1,7 @@
 # Day 24 · The Grand Christmas Invention!
 
+![A finished cardboard invention with a button and glowing lights](../images/experiments/day-24.svg){ .activity-illustration }
+
 **Field:** Engineering · Programming · Electronics  
 **Time:** 40–60 minutes (Thursday 24 December 2026)  
 **Age group:** 6–9  

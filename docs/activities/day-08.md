@@ -1,5 +1,7 @@
 # Day 8 · The Musical Water Glasses
 
+![Water glasses filled to different levels for a music experiment](../images/experiments/day-08.svg){ .activity-illustration }
+
 **Field:** Physics · Sound · Acoustics  
 **Time:** 10–15 minutes (Tuesday 8 December 2026)  
 **Age group:** 6–9  

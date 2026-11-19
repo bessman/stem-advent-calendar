@@ -1,5 +1,7 @@
 # Day 15 · The Moon's Secret Shapes
 
+![Moon phases lit by the Sun](../images/experiments/day-15.svg){ .activity-illustration }
+
 **Field:** Astronomy · Light · Shadows  
 **Time:** 10–15 minutes (Tuesday 15 December 2026)  
 **Age group:** 6–9  

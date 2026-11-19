@@ -1,5 +1,7 @@
 # Day 11 · The Colour Detective
 
+![A marker's hidden colours separating on chromatography paper](../images/experiments/day-11.svg){ .activity-illustration }
+
 **Field:** Chemistry · Chromatography · Mixtures  
 **Time:** 10–15 minutes (Friday 11 December 2026)  
 **Age group:** 6–9  

@@ -1,6 +1,8 @@
 <!-- AUTHORING TEMPLATE: copy to docs/activities/day-NN.md when ready. -->
 # Day NN · Activity title
 
+![Illustration of today's experiment](../images/experiments/day-NN.svg){ .activity-illustration }
+
 **Field:** ...  
 **Time:** ...  
 **Age group:** 6–9  

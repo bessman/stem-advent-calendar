@@ -1,5 +1,7 @@
 # Day 7 · The Secret String Telephone
 
+![Two cups connected by a taut string telephone](../images/experiments/day-07.svg){ .activity-illustration }
+
 **Field:** Physics · Sound · Vibrations  
 **Time:** 10–15 minutes (Monday 7 December 2026)  
 **Age group:** 6–9  

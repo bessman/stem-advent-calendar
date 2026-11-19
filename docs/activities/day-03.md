@@ -1,5 +1,7 @@
 # Day 3 · Balloon Rocket Race
 
+![A balloon rocket racing along a string](../images/experiments/day-03.svg){ .activity-illustration }
+
 **Field:** Physics · Forces and motion · Propulsion  
 **Time:** 10–15 minutes (Thursday 3 December 2026)  
 **Age group:** 6–9  

@@ -1,5 +1,7 @@
 # Day 16 · The Invisible Magnet Maze
 
+![A magnet guiding a small ball through a maze](../images/experiments/day-16.svg){ .activity-illustration }
+
 **Field:** Physics · Magnetism · Forces  
 **Time:** 10–15 minutes (Wednesday 16 December 2026)  
 **Age group:** 6–9  

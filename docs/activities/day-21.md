@@ -1,5 +1,7 @@
 # Day 21 · The Seed Scientist Returns
 
+![Two seedlings being compared after a week of growth](../images/experiments/day-21.svg){ .activity-illustration }
+
 **Field:** Biology · Plant science · Observation  
 **Time:** 10–15 minutes (Monday 21 December 2026)  
 **Age group:** 6–9  

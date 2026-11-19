@@ -1,5 +1,7 @@
 # Day 19 · Hello, Arduino!
 
+![An Arduino-style board blinking an LED](../images/experiments/day-19.svg){ .activity-illustration }
+
 **Field:** Technology · Programming · Electronics  
 **Time:** 20–30 minutes (Saturday 19 December 2026)  
 **Age group:** 6–9  

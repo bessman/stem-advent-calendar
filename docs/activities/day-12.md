@@ -1,5 +1,7 @@
 # Day 12 · The Great Dissolving Race
 
+![Two cups comparing how quickly sugar dissolves in water](../images/experiments/day-12.svg){ .activity-illustration }
+
 **Field:** Chemistry · Solutions · Fair tests  
 **Time:** 20–30 minutes (Saturday 12 December 2026)  
 **Age group:** 6–9  

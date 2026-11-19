@@ -1,5 +1,7 @@
 # Day 1 · The Mystery Materials Lab
 
+![Four mystery materials being tested with drops of water](../images/experiments/day-01.svg){ .activity-illustration }
+
 **Field:** Materials science · Scientific method  
 **Time:** 10–15 minutes (Tuesday 1 December 2026)  
 **Age group:** 6–9  

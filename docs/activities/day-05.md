@@ -1,5 +1,7 @@
 # Day 5 · Build a Bridge: Part 1
 
+![A flat paper bridge holding a small test weight](../images/experiments/day-05.svg){ .activity-illustration }
+
 **Field:** Engineering · Structures · Forces  
 **Time:** 20–30 minutes (Saturday 5 December 2026)  
 **Age group:** 6–9  

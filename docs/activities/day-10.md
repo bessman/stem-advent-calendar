@@ -1,5 +1,7 @@
 # Day 10 · Walking Rainbow
 
+![Coloured water traveling between cups along paper towels](../images/experiments/day-10.svg){ .activity-illustration }
+
 **Field:** Physics · Capillary action · Colour mixing  
 **Time:** 10–15 minutes to set up; colour may keep moving afterwards (Thursday 10 December 2026)  
 **Age group:** 6–9  

@@ -1,5 +1,7 @@
 # Day 9 · The Pepper Escape
 
+![Pepper scattering across water as a soapy finger touches it](../images/experiments/day-09.svg){ .activity-illustration }
+
 **Field:** Chemistry · Surface tension  
 **Time:** 10–15 minutes (Wednesday 9 December 2026)  
 **Age group:** 6–9  

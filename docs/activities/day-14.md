@@ -1,5 +1,7 @@
 # Day 14 · Wake Up, Little Seed!
 
+![A seed beginning to sprout inside a clear growing jar](../images/experiments/day-14.svg){ .activity-illustration }
+
 **Field:** Biology · Plant science · Observation  
 **Time:** 10–15 minutes to set up; check for a few minutes each day (Monday 14 December 2026)  
 **Age group:** 6–9  

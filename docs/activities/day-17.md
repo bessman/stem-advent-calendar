@@ -1,5 +1,7 @@
 # Day 17 · Light Up an LED!
 
+![A battery and wires completing a circuit to light an LED](../images/experiments/day-17.svg){ .activity-illustration }
+
 **Field:** Technology · Electricity · Circuits  
 **Time:** 10–15 minutes (Thursday 17 December 2026)  
 **Age group:** 6–9  
