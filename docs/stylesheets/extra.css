@@ -149,10 +149,25 @@
 }
 
 .mission-print__cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, 90mm);
-  gap: 4mm;
+  display: flex;
+  flex-direction: column;
+  gap: 6mm;
   overflow-x: auto;
+}
+
+.mission-print__sheet {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(2, 85.6mm);
+  grid-auto-rows: 54mm;
+  justify-content: center;
+  align-content: start;
+  flex: none;
+  width: 210mm;
+  height: 295mm;
+  padding: 12.5mm 0;
+  background: #fff;
+  outline: 1px solid #ccc;
 }
 
 .morse-key-print {
@@ -175,13 +190,14 @@
 
 .md-typeset .mission-print__card {
   box-sizing: border-box;
-  width: 90mm;
-  height: 120mm;
-  padding: 4mm;
-  border: 1px dashed #666;
+  width: 85.6mm;
+  height: 54mm;
+  padding: 3mm;
+  overflow: hidden;
+  border: 0.2mm dashed #666;
   color: #111;
   background: #fff;
-  line-height: 1.25;
+  line-height: 1.2;
   letter-spacing: 0;
 }
 
@@ -197,13 +213,15 @@
   break-inside: auto;
 }
 
-.md-typeset .mission-print__card p {
-  margin: 0 0 0.5em;
+.md-typeset .mission-print__card p,
+.md-typeset .mission-print__card ul,
+.md-typeset .mission-print__card ol {
+  margin: 0 0 0.4em;
 }
 
 .md-typeset .mission-print__card .admonition-title {
-  margin: 0 0 0.7em;
-  padding: 0 0 0.5em;
+  margin: 0 0 0.5em;
+  padding: 0 0 0.3em;
   border-bottom: 1px solid #aaa;
   background: transparent;
   font-size: 1.1em;
@@ -218,8 +236,8 @@
 @media print {
 
   @page {
-    size: portrait;
-    margin: 10mm;
+    size: A4 portrait;
+    margin: 0;
   }
 
   body:has(.mission-print) .md-header,
@@ -246,8 +264,24 @@
   }
 
   .mission-print__cards {
-    grid-template-columns: repeat(2, 90mm);
+    display: block;
     overflow: visible;
+  }
+
+  body:has(.mission-print) .md-content__inner::before,
+  body:has(.mission-print) .md-content__inner::after {
+    display: none;
+  }
+
+  .mission-print__sheet {
+    outline: 0;
+    break-after: page;
+    page-break-after: always;
+  }
+
+  .mission-print__sheet:last-child {
+    break-after: auto;
+    page-break-after: auto;
   }
 
   .mission-print__card {
