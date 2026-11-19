@@ -8,6 +8,7 @@ nav = [
   { "Week 1 — Physics & engineering" = [
     { "1 · Mystery Materials" = "activities/day-01.md" },
     { "2 · Sink or Float?" = "activities/day-02.md" },
+    { "3 · Balloon Rocket Race" = "activities/day-03.md" },
   ] },
 ]
 extra_css = ["stylesheets/extra.css"]

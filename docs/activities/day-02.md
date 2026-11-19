@@ -129,6 +129,6 @@ It's not simply that “flat things float.” The useful design feature is the *
 - **The child struggles to form a boat:** An adult can press the first flat disk; let the child shape the sides and choose the next improvement.
 - **Extra challenge for older children:** Try a narrow boat and a wide boat from the same amount of clay. Which is easier to keep afloat? What might explain the difference?
 
-**Next experiment:** On [Day 3](../index.md#week-1-the-physics-playground), our **Balloon Rocket Race** investigates a different force: how escaping air can make something move.
+**Next experiment:** On [Day 3](day-03.md), our **Balloon Rocket Race** investigates a different force: how escaping air can make something move.
 
 [← Back to the calendar](../index.md) · [← Day 1: Mystery Materials](day-01.md)
