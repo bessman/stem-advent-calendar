@@ -61,3 +61,4 @@ attr_list = {}
 md_in_html = {}
 pymdownx.details = {}
 pymdownx.superfences = {}
+pymdownx.tasklist = { clickable_checkbox = true }
