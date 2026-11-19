@@ -48,38 +48,38 @@ Household dish soap and water are supplied separately.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🌶️ DAY 9 — THE PEPPER ESCAPE"
-    **Your mission:** Make pepper scatter across water with one tiny touch!
+    **Your mission:** Send pepper racing with one touch!
 
-    **You need:** The pepper and cotton swab in your box, a dish of water, a grown-up and a little dish soap.
+    **You need:** Pepper, cotton swab, dish of water, soap and an adult.
 
-    **1. Predict!** What will the pepper do if a soapy swab touches the middle of the water?
+    **1. Predict!** What will soap do to pepper?
 
-    **2. Sprinkle!** Ask your grown-up to add a little water to the dish. Sprinkle a tiny pinch of pepper across the surface.
+    **2. Sprinkle!** Ask an adult to add water. Dust it with pepper.
 
-    **3. Test!** Dip the cotton swab in one drop of dish soap. Gently touch the water in the middle. Watch the pepper move!
+    **3. Test!** Dip the swab in a drop of soap. Touch the water's center. Watch!
 
-    **4. Try again!** Rinse the dish and repeat. What do you notice?
+    **4. Try again!** Rinse and repeat. What changed?
 
-    ⭐ **Scientist's question:** What changed on the water's surface when the soap touched it?
+    ⭐ **Scientist's question:** What changed on the water's surface?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🌶️ DAG 9 — PEPPARN SOM FLYR"
-    **Ditt uppdrag:** Få peppar att spridas över vatten med en enda liten beröring!
+    **Ditt uppdrag:** Få peppar att fly med en liten beröring!
 
-    **Du behöver:** Pepparn och bomullspinnen i lådan, ett fat med vatten, en vuxen och lite diskmedel.
+    **Du behöver:** Peppar, bomullspinne, vattenfat, diskmedel och vuxen.
 
-    **1. Gissa!** Vad händer med pepparn om en diskmedelsdoppad bomullspinne rör vid mitten av vattnet?
+    **1. Gissa!** Vad gör en tvålig pinne med pepparn?
 
-    **2. Strö!** Be en vuxen hälla lite vatten i fatet. Strö en liten nypa peppar över ytan.
+    **2. Strö!** Be en vuxen hälla vatten i ett fat. Strö peppar över ytan.
 
-    **3. Testa!** Doppa bomullspinnen i en droppe diskmedel. Rör försiktigt vid vattnet i mitten. Titta när pepparn flyttar sig!
+    **3. Testa!** Doppa pinnen i en droppe diskmedel. Rör mitten av vattnet. Titta!
 
-    **4. Prova igen!** Skölj fatet och upprepa. Vad märker du?
+    **4. Prova igen!** Skölj och upprepa. Vad ändrades?
 
-    ⭐ **Forskarens fråga:** Vad förändrades på vattenytan när diskmedlet rörde vid den?
+    ⭐ **Forskarens fråga:** Vad ändrades på vattenytan?
 
 </div>
 </div>

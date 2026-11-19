@@ -45,38 +45,38 @@ No special materials need to be purchased if a small ball and LED lamp are avail
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🌙 DAY 15 — THE MOON'S SECRET SHAPES"
-    **Your mission:** Use a ball and a lamp to discover why the Moon seems to change shape!
+    **Your mission:** Explore Moon shapes with a ball!
 
-    **You need:** The white ball in your box, a grown-up and a lamp with a cool LED bulb.
+    **You need:** White ball, adult, cool LED lamp.
 
-    **1. Predict!** Will the lamp light all of the ball, half of it or none?
+    **1. Predict!** Will it light all or part of the ball?
 
-    **2. Set up!** Ask your grown-up to place the lamp on a stable table. Dim the room a little. Hold the ball at arm's length.
+    **2. Set up!** Ask an adult to steady the lamp. Dim the room; hold the ball out.
 
-    **3. Explore!** Keep your feet still and slowly move the ball in a circle around you at arm's length. Turn your head to watch the ball, not the lamp. What lit shapes can you see?
+    **3. Explore!** Stand still. Circle the ball around you, watching it, not the lamp. What shapes appear?
 
-    **4. Discover!** Stop at different places in your turn. Which position looks like a full Moon? Which looks like a crescent?
+    **4. Discover!** Pause. Which spot looks full or crescent?
 
-    ⭐ **Scientist's question:** Is the Moon changing shape, or are we seeing different parts of its lit half?
+    ⭐ **Scientist's question:** Does the Moon change, or do we?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🌙 DAG 15 — MÅNENS HEMLIGA FORMER"
-    **Ditt uppdrag:** Använd en boll och en lampa för att upptäcka varför månen verkar ändra form!
+    **Ditt uppdrag:** Undersök månens former med en boll!
 
-    **Du behöver:** Den vita bollen i lådan, en vuxen och en lampa med en sval LED-lampa.
+    **Du behöver:** Vit boll, vuxen, sval LED-lampa.
 
-    **1. Gissa!** Lyser lampan på hela bollen, halva bollen eller ingen del alls?
+    **1. Gissa!** Lyser lampan på hela, halva eller ingen del av bollen?
 
-    **2. Gör i ordning!** Be en vuxen ställa lampan stadigt på ett bord. Dämpa rummet lite. Håll bollen på en armlängds avstånd.
+    **2. Gör i ordning!** Be en vuxen ställa lampan stadigt. Dämpa rummet; håll bollen framför dig.
 
-    **3. Undersök!** Snurra långsamt på stället med bollen framför dig. Titta på bollen, inte in i lampan. Vilka belysta former ser du?
+    **3. Undersök!** Stå stilla. För bollen långsamt runt dig. Titta på bollen, inte lampan. Vilka former syns?
 
-    **4. Upptäck!** Stanna på olika ställen under varvet. Vilket läge liknar fullmåne? Vilket liknar en skära?
+    **4. Upptäck!** Pausa. Vilket läge liknar fullmåne eller månskära?
 
-    ⭐ **Forskarens fråga:** Ändrar månen form, eller ser vi olika delar av dess belysta halva?
+    ⭐ **Forskarens fråga:** Ändras månen, eller vår blick?
 
 </div>
 </div>

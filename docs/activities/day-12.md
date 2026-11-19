@@ -48,38 +48,38 @@ Use ordinary granulated sugar and household water.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🏁 DAY 12 — THE GREAT DISSOLVING RACE"
-    **Your mission:** Find out whether sugar dissolves faster in warm or cool water!
+    **Your mission:** Race sugar in warm or cool water!
 
-    **You need:** The two sugar packets in your box, two matching cups, 200 ml water, a spoon and a grown-up.
+    **You need:** Two sugar packets, two cups, 200 ml water and adult.
 
-    **1. Predict!** Which cup will dissolve its sugar in fewer spoon turns: warm water or cool?
+    **1. Predict!** Which cup needs fewer stirs: warm or cool?
 
-    **2. Set up!** Ask your grown-up to measure 100 ml of cool water and 100 ml of warm, not hot, water into separate cups.
+    **2. Set up!** Ask an adult to measure 100 ml cool and 100 ml warm, not hot, water into separate cups.
 
-    **3. Race!** Add one sugar packet to each cup. Stir each cup gently at the same pace, one turn each second. Count the turns until you can no longer see sugar crystals.
+    **3. Race!** Add one packet to each. Stir one turn per second. Count until crystals disappear.
 
-    **4. Compare!** Which cup took fewer turns? Did both cups use the same amount of sugar and water?
+    **4. Compare!** Which was quicker?
 
-    ⭐ **Scientist's question:** Where did the sugar go when it dissolved?
+    ⭐ **Scientist's question:** Where did it go?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🏁 DAG 12 — DEN STORA UPPLÖSNINGSTÄVLINGEN"
-    **Ditt uppdrag:** Ta reda på om socker löser sig snabbare i varmt eller kallt vatten!
+    **Ditt uppdrag:** Tävla med socker i varmt eller kallt vatten!
 
-    **Du behöver:** De två sockerpåsarna i lådan, två likadana muggar, 200 ml vatten, en sked och en vuxen.
+    **Du behöver:** Två sockerpåsar, två muggar, 200 ml vatten och vuxen.
 
-    **1. Gissa!** I vilken mugg löser sig sockret med färre skedvarv: varmt eller kallt vatten?
+    **1. Gissa!** Vilken mugg behöver färre varv: varm eller kall?
 
-    **2. Gör i ordning!** Be en vuxen mäta upp 100 ml kallt vatten och 100 ml varmt, inte hett, vatten i varsin mugg.
+    **2. Gör i ordning!** Be en vuxen mäta 100 ml kallt och 100 ml varmt, inte hett, vatten i varsin mugg.
 
-    **3. Tävla!** Häll en sockerpåse i varje mugg. Rör försiktigt i samma takt, ett varv i sekunden. Räkna varven tills du inte längre ser sockerkristaller.
+    **3. Tävla!** Häll en påse i varje. Rör ett varv per sekund. Räkna tills kristallerna försvinner.
 
-    **4. Jämför!** Vilken mugg behövde färre varv? Använde båda lika mycket socker och vatten?
+    **4. Jämför!** Vilken behövde färre varv?
 
-    ⭐ **Forskarens fråga:** Vart tog sockret vägen när det löstes upp?
+    ⭐ **Forskarens fråga:** Vart tog sockret vägen?
 
 </div>
 </div>

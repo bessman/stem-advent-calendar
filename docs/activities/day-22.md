@@ -46,42 +46,42 @@ The Arduino, breadboard and LED parts are not needed today.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🔦 DAY 22 — THE SECRET LIGHT MESSAGE"
-    **Your mission:** Send and decode a secret message with light!
+    **Your mission:** Send a secret message with light!
 
-    **You need:** The flashlight and separate A–Z Morse key from your box, a grown-up and a dim room.
+    **You need:** Flashlight, Morse key, adult and dim room.
 
-    **SOS key:** **S = short, short, short** · **O = long, long, long**
+    **SOS key:** **S = 3 short** · **O = 3 long**
 
-    **1. Predict!** What might three short flashes mean? What about three long flashes?
+    **1. Predict!** What might flashes mean?
 
-    **2. Send!** Make **S O S**: three short flashes, a pause, three long flashes, a pause, three short flashes.
+    **2. Send!** Flash SOS: three short, three long, three short. Pause between letters.
 
-    **3. Decode!** Ask your grown-up to send SOS. Can you tell where each letter begins?
+    **3. Decode!** Ask an adult to send SOS. Can you spot each letter?
 
-    **4. Spell!** Use the key to spell your name. Leave a pause between letters and ask your grown-up to decode it.
+    **4. Spell!** Send your name with the key. Pause between letters; ask an adult to decode.
 
-    ⭐ **Scientist's question:** Why do pauses matter in a light message?
+    ⭐ **Scientist's question:** Why pause?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🔦 DAG 22 — DET HEMLIGA LJUSMEDDELANDET"
-    **Ditt uppdrag:** Skicka och avkoda ett hemligt meddelande med ljus!
+    **Ditt uppdrag:** Skicka och avkoda hemliga ljusmeddelanden!
 
-    **Du behöver:** Ficklampan och det separata morsealfabetet A–Z i lådan, en vuxen och ett lite mörkare rum.
+    **Du behöver:** Ficklampa, morsealfabet A–Z, vuxen och mörkt rum.
 
-    **SOS-nyckel:** **S = kort, kort, kort** · **O = långt, långt, långt**
+    **SOS-nyckel:** **S = 3 korta** · **O = 3 långa**
 
-    **1. Gissa!** Vad kan tre korta blinkningar betyda? Och tre långa?
+    **1. Gissa!** Vad betyder tre korta eller långa blinkningar?
 
-    **2. Skicka!** Gör **S O S**: tre korta blinkningar, en paus, tre långa blinkningar, en paus och tre korta blinkningar.
+    **2. Skicka!** Blinka SOS: tre korta, tre långa, tre korta. Pausa mellan bokstäverna.
 
-    **3. Avkoda!** Be en vuxen skicka SOS. Kan du se var varje bokstav börjar?
+    **3. Avkoda!** Be en vuxen skicka SOS. Ser du varje bokstav?
 
-    **4. Stava!** Använd nyckeln för att stava ditt namn. Pausa mellan bokstäverna och be en vuxen avkoda det.
+    **4. Stava!** Skicka ditt namn med nyckeln. Pausa mellan bokstäverna; be en vuxen avkoda.
 
-    ⭐ **Forskarens fråga:** Varför behövs pauser i ett ljusmeddelande?
+    ⭐ **Forskarens fråga:** Varför behövs pauser?
 
 </div>
 </div>

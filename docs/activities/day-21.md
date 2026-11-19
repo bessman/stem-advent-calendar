@@ -45,38 +45,38 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🌱 DAY 21 — THE SEED SCIENTIST RETURNS"
-    **Your mission:** Find out what happened to your seeds!
+    **Your mission:** Revisit your seeds. What changed?
 
-    **You need:** Your Day 14 seed cup, the hand lens in your box, your first drawing or notes, a pencil and a grown-up.
+    **You need:** Day 14 seed cup, hand lens, first drawing or notes, pencil and adult.
 
-    **1. Predict!** Look at your first prediction. What did you think would happen?
+    **1. Predict!** What did you expect to happen?
 
-    **2. Observe!** Look closely at the seeds, roots and shoots. Draw what you see today.
+    **2. Observe!** Look closely at seeds, roots and shoots. Draw today's growth.
 
-    **3. Compare!** What is different from your first drawing? Did anything surprise you?
+    **3. Compare!** What differs from your first drawing? Anything surprising?
 
-    **4. Wonder!** What might you change or investigate next time?
+    **4. Wonder!** What would you investigate next?
 
-    ⭐ **Scientist's question:** What evidence shows that a seed has started growing?
+    ⭐ **Scientist's question:** What shows the seed is growing?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🌱 DAG 21 — FRÖFORSKAREN ÅTERVÄNDER"
-    **Ditt uppdrag:** Ta reda på vad som hände med fröna!
+    **Ditt uppdrag:** Titta till fröna. Vad har ändrats?
 
-    **Du behöver:** Frömuggen från dag 14, förstoringsglaset i lådan, din första teckning eller dina anteckningar, en penna och en vuxen.
+    **Du behöver:** Frömugg från dag 14, förstoringsglas, första teckning eller anteckningar, penna och vuxen.
 
-    **1. Gissa!** Titta på din första gissning. Vad trodde du skulle hända?
+    **1. Gissa!** Vad trodde du skulle hända?
 
-    **2. Undersök!** Titta noga på fröna, rötterna och skotten. Rita vad du ser i dag.
+    **2. Undersök!** Titta noga på frön, rötter och skott. Rita dagens växt.
 
-    **3. Jämför!** Vad skiljer sig från din första teckning? Var det något som överraskade dig?
+    **3. Jämför!** Vad skiljer sig från din första teckning? Något oväntat?
 
-    **4. Fundera!** Vad skulle du vilja ändra eller undersöka nästa gång?
+    **4. Fundera!** Vad vill du undersöka nästa gång?
 
-    ⭐ **Forskarens fråga:** Vilka tecken visar att ett frö har börjat växa?
+    ⭐ **Forskarens fråga:** Vad visar att fröet växer?
 
 </div>
 </div>

@@ -57,42 +57,42 @@ Only a **small sample** of each material goes in the box.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🔍 DAY 1 — MYSTERY MATERIALS LAB"
-    **Your mission:** Meet four mysterious materials. Can you discover their superpowers?
+    **Your mission:** Discover four materials' superpowers!
 
-    **You need:** The four samples in your box, a plate, a teaspoon, a little water and a towel.
+    **You need:** Samples, plate, teaspoon, water and towel.
 
-    **1. Explore!** Touch each sample. Which is soft? Smooth? Rough? Bendy?
+    **1. Explore!** Feel each. Which are soft, smooth, rough or bendy?
 
-    **2. Predict!** Which two do you think will soak up a drop of water? Tell your grown-up.
+    **2. Predict!** Which will soak up water?
 
-    **3. Test!** Put the samples flat on a plate. Add **one small drop** of water to each one. Watch for a few seconds.
+    **3. Test!** Lay them flat. Add one drop to each.
 
-    **4. Sort!** Make two groups: **water soaks in** and **water stays on top**.
+    **4. Sort!** Which soak up water? Which keep it on top?
 
-    **5. Think!** Which material would you choose for a raincoat? Which for wiping up a spill? Why?
+    **5. Choose!** Which makes a better raincoat or spill-wiper?
 
-    ⭐ **Scientist's question:** Did any material surprise you?
+    ⭐ **Scientist's question:** What surprised you?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🔍 DAG 1 — MYSTISKA MATERIAL-LABB"
-    **Ditt uppdrag:** Undersök fyra mystiska material. Kan du upptäcka deras superkrafter?
+    **Ditt uppdrag:** Upptäck fyra materials superkrafter!
 
-    **Du behöver:** De fyra materialproverna i din låda, en tallrik, en tesked, lite vatten och en handduk.
+    **Du behöver:** Prover, tallrik, tesked, vatten och handduk.
 
-    **1. Utforska!** Känn på varje prov. Vilket är mjukt? Slätt? Strävt? Böjligt?
+    **1. Utforska!** Känn på dem. Vilka är mjuka, släta, sträva eller böjliga?
 
-    **2. Gissa!** Vilka två tror du kommer att suga upp en vattendroppe? Berätta för din vuxen.
+    **2. Gissa!** Vilka suger upp vatten?
 
-    **3. Testa!** Lägg proverna plant på en tallrik. Lägg **en liten droppe** vatten på varje prov. Titta i några sekunder.
+    **3. Testa!** Lägg dem plant. Droppa en droppe på varje.
 
-    **4. Sortera!** Gör två grupper: **vattnet sugs upp** och **vattnet stannar på ytan**.
+    **4. Sortera!** Vilka suger upp vatten? Vilka håller det ovanpå?
 
-    **5. Fundera!** Vilket material skulle du välja till en regnjacka? Vilket skulle du använda för att torka upp spill? Varför?
+    **5. Välj!** Vad passar bäst till regnjacka eller att torka spill?
 
-    ⭐ **Forskarens fråga:** Var det något material som överraskade dig?
+    ⭐ **Forskarens fråga:** Vad överraskade dig?
 
 </div>
 </div>

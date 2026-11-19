@@ -48,38 +48,38 @@ Test the chosen marker on the filter paper before the activity.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🖍️ DAY 11 — THE COLOUR DETECTIVE"
-    **Your mission:** Find the secret colours hiding in a dark marker!
+    **Your mission:** Reveal colours hidden in a marker!
 
-    **You need:** The paper strips and marker in your box, a cup, a little water, a pencil and a grown-up.
+    **You need:** Paper strips, marker, cup, water, pencil and adult.
 
-    **1. Predict!** Is the marker made of one colour or a mixture of colours?
+    **1. Predict!** Is the marker one colour or a mixture?
 
-    **2. Draw!** Make a small marker dot near the bottom of a paper strip. Ask your grown-up to hang the strip from a pencil across the cup.
+    **2. Draw!** Dot a strip near its bottom. Ask an adult to hang it over the cup.
 
-    **3. Test!** Add water until the bottom of the paper touches it, but the marker dot stays above the water. Watch the water climb.
+    **3. Test!** Dip the paper's bottom in water, keeping the dot dry. Watch it climb.
 
-    **4. Discover!** When the water has moved up the paper, take it out and look for colour bands.
+    **4. Discover!** Remove the strip. Which colours appear?
 
-    ⭐ **Scientist's question:** Why did some colours travel farther than others?
+    ⭐ **Scientist's question:** Why did colours travel differently?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🖍️ DAG 11 — FÄRGDETEKTIVEN"
-    **Ditt uppdrag:** Hitta de hemliga färgerna i en mörk penna!
+    **Ditt uppdrag:** Hitta de dolda färgerna i en mörk penna!
 
-    **Du behöver:** Pappersremsorna och pennan i lådan, en mugg, lite vatten, en penna att hänga pappret på och en vuxen.
+    **Du behöver:** Pappersremsor, penna, mugg, vatten och vuxen.
 
-    **1. Gissa!** Består pennfärgen av en färg eller en blandning?
+    **1. Gissa!** Är pennfärgen en färg eller en blandning?
 
-    **2. Rita!** Gör en liten färgprick nära nederkanten på en pappersremsa. Be en vuxen hänga remsan från en penna över muggen.
+    **2. Rita!** Gör en prick nära remsans nederkant. Be en vuxen hänga den på en penna över muggen.
 
-    **3. Testa!** Häll i vatten så att papprets nederkant nuddar vattnet, men färgpricken är ovanför vattenytan. Titta när vattnet stiger.
+    **3. Testa!** Häll i vatten så att pappret nuddar det, men pricken hålls torr. Se vattnet stiga.
 
-    **4. Upptäck!** När vattnet har rört sig uppför pappret tar du upp remsan och letar efter färgband.
+    **4. Upptäck!** Ta upp remsan. Vilka färgband syns?
 
-    ⭐ **Forskarens fråga:** Varför reste några färger längre än andra?
+    ⭐ **Forskarens fråga:** Varför färdades färgerna olika långt?
 
 </div>
 </div>

@@ -52,38 +52,38 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🧪 DAY 13 — THE COLOUR-CHANGING POTION LAB"
-    **Your mission:** Use purple cabbage water to test three mystery liquids!
+    **Your mission:** Test mystery liquids with purple cabbage!
 
-    **You need:** The cabbage indicator in your box, three cups, a grown-up, lemon juice, baking soda and water.
+    **You need:** Cabbage indicator, three cups, lemon, baking soda, water and adult.
 
-    **1. Predict!** Which sample might change the purple indicator: lemon water, plain water or baking-soda water?
+    **1. Predict!** Which liquid will change the indicator's colour?
 
-    **2. Set up!** Ask your grown-up to put a little lemon water in one cup, plain water in another and baking-soda water in the third.
+    **2. Set up!** Ask an adult to put lemon, plain and baking-soda water in separate cups.
 
-    **3. Test!** Add the same number of indicator drops to each cup. Watch for colour changes.
+    **3. Test!** Add the same number of indicator drops to each. Watch closely.
 
-    **4. Sort!** Which sample turned pink? Which stayed purple or turned blue-green?
+    **4. Sort!** Which turned pink, stayed purple or became blue-green?
 
-    ⭐ **Scientist's question:** What did the indicator's colour tell you?
+    ⭐ **Scientist's question:** What did the colours show?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🧪 DAG 13 — LABBET MED FÄRGÄNDRANDE TROLLDRYCK"
-    **Ditt uppdrag:** Använd lila kålvatten för att testa tre mystiska vätskor!
+    **Ditt uppdrag:** Testa tre mystiska vätskor med lila kål!
 
-    **Du behöver:** Kålindikatorn i lådan, tre muggar, en vuxen, citronjuice, bikarbonat och vatten.
+    **Du behöver:** Kålindikator, tre muggar, citron, bikarbonat, vatten och vuxen.
 
-    **1. Gissa!** Vilket prov kan ändra den lila indikatorn: citronvatten, vanligt vatten eller bikarbonatvatten?
+    **1. Gissa!** Vilken vätska ändrar indikatorns färg?
 
-    **2. Gör i ordning!** Be en vuxen hälla lite citronvatten i en mugg, vanligt vatten i en annan och bikarbonatvatten i den tredje.
+    **2. Gör i ordning!** Be en vuxen förbereda citronvatten, vanligt vatten och bikarbonatvatten i varsin mugg.
 
-    **3. Testa!** Häll lika många droppar indikator i varje mugg. Titta efter färgförändringar.
+    **3. Testa!** Droppa lika mycket indikator i varje. Titta noga.
 
-    **4. Sortera!** Vilket prov blev rosa? Vilket förblev lila eller blev blågrönt?
+    **4. Sortera!** Vilket blev rosa, förblev lila eller blev blågrönt?
 
-    ⭐ **Forskarens fråga:** Vad berättade indikatorns färg?
+    ⭐ **Forskarens fråga:** Vad avslöjade färgerna?
 
 </div>
 </div>

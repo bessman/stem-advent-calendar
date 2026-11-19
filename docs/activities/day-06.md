@@ -48,38 +48,38 @@ Use the same type of paper for both bridges.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🌉 DAY 6 — BUILD A BRIDGE: PART 2"
-    **Your mission:** Improve a paper bridge by changing its shape!
+    **Your mission:** Shape a bridge to carry more coins!
 
-    **You need:** Two matching sheets of paper and the cup in your box, two book supports and coins.
+    **You need:** Two sheets, cup, supports and coins.
 
-    **1. Predict!** Which bridge will hold more coins: a flat sheet or one with folded-up sides?
+    **1. Predict!** Flat or folded: which holds more?
 
-    **2. Test the flat bridge!** Ask your grown-up to set the same 15 cm gap as yesterday. Lay one sheet flat across it. Put the cup in the middle and add coins one at a time. Count until the paper touches the table below or starts to slide.
+    **2. Test flat!** Ask an adult for a 15 cm gap. Add coins until paper sags or slips.
 
-    **3. Fold and test!** Fold a 2 cm strip up along each short edge of the second sheet to make a shallow channel. Use the same gap, cup and coins. How many can it hold?
+    **3. Fold and test!** Fold 2 cm edges up on sheet two. Repeat.
 
-    **4. Compare!** Which bridge held more? What did you change, and what stayed the same?
+    **4. Compare!** Which held more?
 
-    ⭐ **Scientist's question:** Why might folded sides help the bridge?
+    ⭐ **Scientist's question:** How do sides help?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🌉 DAG 6 — BYGG EN BRO: DEL 2"
-    **Ditt uppdrag:** Förbättra en pappersbro genom att ändra formen!
+    **Ditt uppdrag:** Forma en bro som bär fler mynt!
 
-    **Du behöver:** Två likadana pappersark och muggen i lådan, två bokstöd och mynt.
+    **Du behöver:** Två papper, mugg, stöd och mynt.
 
-    **1. Gissa!** Vilken bro bär flest mynt: ett platt ark eller ett med uppvikta kanter?
+    **1. Gissa!** Platt eller vikt: vad bär mest?
 
-    **2. Testa den platta bron!** Be en vuxen ordna samma mellanrum på 15 cm som i går. Lägg ett ark platt över det. Ställ muggen i mitten och lägg i mynt ett i taget. Räkna tills pappret nuddar bordet under bron eller börjar glida.
+    **2. Testa platt!** Be en vuxen ordna 15 cm mellanrum. Lägg mynt tills pappret hänger eller glider.
 
-    **3. Vik och testa!** Vik upp en 2 cm bred remsa längs arkets båda kortsidor så att det blir en grund ränna. Använd samma mellanrum, mugg och mynt. Hur många mynt klarar den?
+    **3. Vik och testa!** Vik upp 2 cm på ark två. Upprepa testet.
 
-    **4. Jämför!** Vilken bro bar flest mynt? Vad ändrade du och vad var likadant?
+    **4. Jämför!** Vilken bro bar mest?
 
-    ⭐ **Forskarens fråga:** Varför kan uppvikta kanter hjälpa bron?
+    ⭐ **Forskarens fråga:** Hur hjälper kanterna?
 
 </div>
 </div>

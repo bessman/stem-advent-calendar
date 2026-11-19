@@ -119,7 +119,7 @@
         let overflow = false;
         missions.forEach((translations, index) => {
           const source = translations.find((translation) => translation.lang === language.value);
-          let size = 8;
+          let size = 10;
           let fits = false;
           while (!fits && size >= 5.5) {
             const content = source.cloneNode(true);

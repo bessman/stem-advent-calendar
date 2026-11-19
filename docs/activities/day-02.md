@@ -47,42 +47,42 @@ By the end of this mission, the child can:
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🚢 DAY 2 — SINK OR FLOAT?"
-    **Your mission:** Turn one lump of clay into a boat that floats!
+    **Your mission:** Turn a lump of clay into a floating boat!
 
-    **You need:** Your clay, a grown-up, a bowl of water and a towel.
+    **You need:** Clay, water bowl and towel.
 
-    **1. Predict!** Roll the clay into a ball. Will it sink or float?
+    **1. Predict!** Will a clay ball sink or float?
 
-    **2. Test!** Gently place the ball on the water. What happens?
+    **2. Test!** Gently place it in the water.
 
-    **3. Build!** Take out the **same clay**. Flatten it into a wide bowl shape. Pinch the edges upward to make a boat.
+    **3. Build!** Shape the same clay into a wide, hollow boat.
 
-    **4. Test again!** Put your boat on the water, open side up. Does it float? If it sinks, try a **wider bottom** and **higher sides**.
+    **4. Try again!** Float it open-side up. If it sinks, widen the bottom or raise the sides.
 
-    **5. Discover!** Did you add or remove any clay? What did you change?
+    **5. Compare!** What changed: the clay or its shape?
 
-    ⭐ **Scientist's question:** How can the same clay sink as a ball but float as a boat?
+    ⭐ **Scientist's question:** How did shape help?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🚢 DAG 2 — SJUNKER ELLER FLYTER?"
-    **Ditt uppdrag:** Gör om lerklumpen till en båt som kan flyta!
+    **Ditt uppdrag:** Gör en flytande båt av lera!
 
-    **You need:** Din lera, en vuxen, en skål med vatten, och en handduk.
+    **Du behöver:** Lera, vattenskål och handduk.
 
-    **1. Gissa!** Rulla leran till en boll. Kommer den att flyta eller sjunka?
+    **1. Gissa!** Sjunker eller flyter en lerboll?
 
-    **2. Testa!** Lägg bollen försiktigt i vattnet. Vad händer?
+    **2. Testa!** Lägg den försiktigt i vattnet.
 
-    **3. Bygg!** Ta ut **samma lera**. Platta till den och forma till en bred skål. Nyp till kanterna uppåt för att göra en båt.
+    **3. Bygg!** Forma samma lera till en bred, ihålig båt.
 
-    **4. Testa igen!** Lägg din båt på vattnet, med den öppna sidan uppåt. Flyter den? Om den sjunker, försök med en **bredare botten** och **högre kanter**.
+    **4. Prova igen!** Lägg båten med öppningen uppåt. Sjunker den? Gör botten bredare eller kanterna högre.
 
-    **5. Upptäck!** Lade du till eller tog bort någon lera? Vad ändrade du?
+    **5. Jämför!** Vad ändrades: leran eller formen?
 
-    ⭐ **Forskarens fråga:** Hur kan samma lera sjunka som en boll men flyta som en båt?
+    ⭐ **Forskarens fråga:** Hur hjälpte formen?
 
 </div>
 </div>

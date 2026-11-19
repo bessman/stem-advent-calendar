@@ -49,38 +49,38 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "💡 DAY 17 — LIGHT UP AN LED!"
-    **Your mission:** Build a safe little circuit and make an LED shine!
+    **Your mission:** Light an LED!
 
-    **You need:** The battery pack, LED with resistor and clip leads in your box, plus a grown-up.
+    **You need:** Battery pack, wired LED/resistor, leads and adult.
 
-    **1. Predict!** What do you think will happen if the circuit has a gap?
+    **1. Predict!** What happens if the circuit has a gap?
 
-    **2. Connect!** Ask your grown-up to show you the resistor attached to the LED's long leg. Use one clip lead to connect the battery pack's red wire to the free resistor leg. Use the other to connect the LED's short leg to the black wire.
+    **2. Connect!** With an adult, connect red wire to the free resistor leg; the other joins the LED's long leg. Connect short leg to black.
 
-    **3. Observe!** Does the LED light? If not, ask your grown-up to check the connections and LED direction.
+    **3. Observe!** Does it shine? Ask an adult to check if not.
 
-    **4. Discover!** Carefully disconnect one clip. What happens? Reconnect it to close the loop.
+    **4. Discover!** Carefully disconnect, then reconnect a clip. What changes?
 
-    ⭐ **Scientist's question:** Why does the LED need a complete loop?
+    ⭐ **Scientist's question:** Why a complete loop?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "💡 DAG 17 — TÄND EN LED!"
-    **Ditt uppdrag:** Bygg en säker liten krets och få en LED att lysa!
+    **Ditt uppdrag:** Tänd en LED med en krets!
 
-    **Du behöver:** Batterihållaren, LED-lampan med motstånd och krokodilsladdarna i lådan samt en vuxen.
+    **Du behöver:** Batterihållare, LED med motstånd, krokodilsladdar och vuxen.
 
-    **1. Gissa!** Vad tror du händer om det finns ett avbrott i kretsen?
+    **1. Gissa!** Vad händer om kretsen har ett avbrott?
 
-    **2. Koppla!** Be en vuxen visa motståndet som är anslutet till LED-lampans långa ben. Använd en krokodilsladd för att koppla batterihållarens röda sladd till motståndets fria ben. Använd den andra för att koppla LED-lampans korta ben till den svarta sladden.
+    **2. Koppla!** Med en vuxen: koppla röd sladd till motståndets fria ben. Motståndet sitter på LED-lampans långa ben. Koppla det korta benet till svart sladd.
 
-    **3. Titta!** Lyser LED-lampan? Om inte, be en vuxen kontrollera anslutningarna och LED-lampans riktning.
+    **3. Titta!** Lyser den? Be en vuxen kontrollera kopplingarna om inte.
 
-    **4. Upptäck!** Koppla försiktigt loss en sladd. Vad händer? Koppla tillbaka den för att sluta kretsen.
+    **4. Upptäck!** Lossa försiktigt en sladd och sätt tillbaka den. Vad ändras?
 
-    ⭐ **Forskarens fråga:** Varför behöver LED-lampan en sluten krets?
+    ⭐ **Forskarens fråga:** Varför behövs kretsen?
 
 </div>
 </div>

@@ -46,38 +46,38 @@ Household food colouring and paper towels can be reused.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🌈 DAY 10 — WALKING RAINBOW"
-    **Your mission:** Help water walk through paper and make new colours!
+    **Your mission:** Make a walking rainbow!
 
-    **You need:** The paper towel strips in your box, five cups, water, red, yellow and blue colouring, and a grown-up.
+    **You need:** Paper strips, five cups, water, food colouring and an adult.
 
-    **1. Predict!** What do you think will happen when paper towels connect coloured water to empty cups?
+    **1. Predict!** What happens when paper links coloured and empty cups?
 
-    **2. Set up!** Ask your grown-up to put red water in cup 1, yellow in cup 3 and blue in cup 5. Leave cups 2 and 4 empty.
+    **2. Set up!** Ask an adult to colour cups 1, 3 and 5 red, yellow and blue. Leave 2 and 4 empty.
 
-    **3. Connect!** Fold each paper towel strip into a bridge between two neighbouring cups. Put one end in each cup.
+    **3. Connect!** Fold paper strips into bridges between neighbouring cups.
 
-    **4. Observe!** What happens first? Check again later. Which new colours appear in the empty cups?
+    **4. Observe!** Check now and later. Which new colours appear?
 
-    ⭐ **Scientist's question:** How did the water travel through the paper?
+    ⭐ **Scientist's question:** How did water travel through paper?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🌈 DAG 10 — DEN VANDRANDE REGNBÅGEN"
-    **Ditt uppdrag:** Hjälp vattnet att gå genom papper och skapa nya färger!
+    **Ditt uppdrag:** Skapa en vandrande regnbåge!
 
-    **Du behöver:** Pappersremsorna i lådan, fem muggar, vatten, röd, gul och blå karamellfärg samt en vuxen.
+    **Du behöver:** Pappersremsor, fem muggar, vatten, karamellfärg och vuxen.
 
-    **1. Gissa!** Vad tror du händer när pappershanddukar kopplar färgat vatten till tomma muggar?
+    **1. Gissa!** Vad händer när papper kopplar färgat vatten till tomma muggar?
 
-    **2. Gör i ordning!** Be en vuxen hälla rött vatten i mugg 1, gult i mugg 3 och blått i mugg 5. Låt mugg 2 och 4 vara tomma.
+    **2. Gör i ordning!** Be en vuxen färga mugg 1 röd, 3 gul och 5 blå. Lämna 2 och 4 tomma.
 
-    **3. Koppla ihop!** Vik varje pappersremsa till en bro mellan två muggar bredvid varandra. Sätt en ände i varje mugg.
+    **3. Koppla ihop!** Vik remsorna till broar mellan muggarna.
 
-    **4. Titta!** Vad händer först? Titta igen senare. Vilka nya färger syns i de tomma muggarna?
+    **4. Titta!** Se efter nu och senare. Vilka nya färger syns?
 
-    ⭐ **Forskarens fråga:** Hur kunde vattnet ta sig genom pappret?
+    ⭐ **Forskarens fråga:** Hur färdades vattnet genom pappret?
 
 </div>
 </div>

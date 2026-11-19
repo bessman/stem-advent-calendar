@@ -50,34 +50,34 @@ The Arduino is already available. The pushbutton and breadboard will be reused o
 !!! example "🔘 DAY 20 — THE MAGIC BUTTON"
     **Your mission:** Make a button control an Arduino light!
 
-    **You need:** An Arduino, breadboard, button and jumper wires from your box, plus a computer and a grown-up.
+    **You need:** Arduino, breadboard, button, wires and adult.
 
-    **1. Predict!** What will the light do when you press the button? What about when you let go?
+    **1. Predict!** Press: what happens?
 
-    **2. Connect!** Ask your grown-up to put the button across the middle gap of the breadboard. Connect one side to pin 2 and the other to GND.
+    **2. Connect!** Ask an adult to place the button across the breadboard gap. Connect one side to pin 2, the other to GND.
 
-    **3. Program!** Upload the button program. Press and release the button. What does the built-in light do?
+    **3. Program!** Upload the button program. Press and release. What does the light do?
 
-    **4. Discover!** Is the button an input or an output? Is the light an input or an output?
+    **4. Discover!** Is the button an input or output? And the light?
 
-    ⭐ **Scientist's question:** What does the program check again and again?
+    ⭐ **Scientist's question:** What does the program keep checking?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🔘 DAG 20 — DEN MAGISKA KNAPPEN"
-    **Ditt uppdrag:** Låt en knapp styra en lampa på Arduino-kortet!
+    **Ditt uppdrag:** Låt en knapp styra Arduino-lampan!
 
-    **Du behöver:** En Arduino, kopplingsplatta, knapp och sladdar från lådan samt en dator och en vuxen.
+    **Du behöver:** Arduino, kopplingsplatta, knapp, sladdar, dator och vuxen.
 
-    **1. Gissa!** Vad gör lampan när du trycker på knappen? Vad händer när du släpper?
+    **1. Gissa!** Vad händer när du trycker och släpper?
 
-    **2. Koppla!** Be en vuxen sätta knappen över springan i mitten av kopplingsplattan. Anslut ena sidan till pinne 2 och den andra till GND.
+    **2. Koppla!** Be en vuxen sätta knappen över springan. Anslut ena sidan till pinne 2, den andra till GND.
 
-    **3. Programmera!** Ladda upp knapp-programmet. Tryck och släpp knappen. Vad gör den inbyggda lampan?
+    **3. Programmera!** Ladda upp knapp-programmet. Tryck och släpp. Vad gör lampan?
 
-    **4. Upptäck!** Är knappen en inmatning eller utmatning? Är lampan en inmatning eller utmatning?
+    **4. Upptäck!** Är knappen en inmatning eller utmatning? Och lampan?
 
     ⭐ **Forskarens fråga:** Vad kontrollerar programmet om och om igen?
 

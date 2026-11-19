@@ -44,38 +44,38 @@ The Arduino is already available. Reuse its compatible USB data cable.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🤖 DAY 19 — HELLO, ARDUINO!"
-    **Your mission:** Teach an Arduino to blink its little light!
+    **Your mission:** Teach Arduino to blink its little light!
 
-    **You need:** An Arduino, the USB cable in your box, a computer and a grown-up.
+    **You need:** Arduino, USB cable, computer and adult.
 
-    **1. Predict!** What do you think the board will do when it receives a program?
+    **1. Predict!** What will the board do with a program?
 
-    **2. Connect!** Ask your grown-up to connect the Arduino to the computer and open the blink program.
+    **2. Connect!** Ask an adult to connect Arduino and open the blink program.
 
-    **3. Upload!** Your grown-up will choose the Arduino board and upload the program. Watch the built-in light blink!
+    **3. Upload!** An adult selects the board and uploads. Watch the light blink!
 
-    **4. Change!** Find the number that controls the waiting time. Try a bigger or smaller number, then upload again.
+    **4. Change!** Find the wait-time number. Make it bigger or smaller, then upload again.
 
-    ⭐ **Scientist's question:** What instruction makes the light turn on? What makes it turn off?
+    ⭐ **Scientist's question:** What turns the light on and off?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🤖 DAG 19 — HEJ, ARDUINO!"
-    **Ditt uppdrag:** Lär en Arduino att blinka med sin lilla lampa!
+    **Ditt uppdrag:** Lär Arduino att blinka med sin lampa!
 
-    **Du behöver:** En Arduino, USB-sladden i lådan, en dator och en vuxen.
+    **Du behöver:** Arduino, USB-sladd, dator och vuxen.
 
-    **1. Gissa!** Vad tror du att kortet gör när det får ett program?
+    **1. Gissa!** Vad gör kortet med ett program?
 
-    **2. Anslut!** Be en vuxen ansluta Arduino-kortet till datorn och öppna blinkprogrammet.
+    **2. Anslut!** Be en vuxen ansluta Arduino och öppna blinkprogrammet.
 
-    **3. Ladda upp!** Den vuxna väljer Arduino-kortet och laddar upp programmet. Titta när den inbyggda lampan blinkar!
+    **3. Ladda upp!** En vuxen väljer kortet och laddar upp. Titta när lampan blinkar!
 
-    **4. Ändra!** Hitta talet som bestämmer väntetiden. Prova ett större eller mindre tal och ladda upp igen.
+    **4. Ändra!** Hitta väntetiden. Ändra talet och ladda upp igen.
 
-    ⭐ **Forskarens fråga:** Vilken instruktion tänder lampan? Vilken släcker den?
+    ⭐ **Forskarens fråga:** Vad tänder och släcker lampan?
 
 </div>
 </div>

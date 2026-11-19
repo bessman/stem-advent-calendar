@@ -48,38 +48,38 @@ Reuse clean printer paper if available.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🌉 DAY 5 — BUILD A BRIDGE: PART 1"
-    **Your mission:** Build a bridge from one flat sheet of paper. How much can it hold?
+    **Your mission:** Build a paper bridge. How many coins can it hold?
 
-    **You need:** The paper and cup in your box, two grown-up-approved book supports and some coins.
+    **You need:** Paper, cup, supports and coins.
 
-    **1. Predict!** Will the flat paper stay level when we put a cup in the middle? How many coins might it hold?
+    **1. Predict!** Will flat paper hold a cup? How many coins?
 
-    **2. Build!** Ask your grown-up to leave a 15 cm gap between two steady book supports. Lay your paper across the gap, with a little paper resting on each book.
+    **2. Build!** Set supports 15 cm apart with an adult. Lay paper across.
 
-    **3. Test!** Put the empty cup in the middle. Add coins one at a time. Count together. Stop if the bridge touches the table below, starts to slide, or the cup starts to tip.
+    **3. Test!** Center a cup. Add coins one by one. Stop if it tips or sags.
 
-    **4. Record!** How many coins did it hold? What did the paper look like?
+    **4. Record!** Count the coins. What happened to the paper?
 
-    ⭐ **Scientist's question:** Where does the paper bend most, and why?
+    ⭐ **Scientist's question:** Where did it bend most?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🌉 DAG 5 — BYGG EN BRO: DEL 1"
-    **Ditt uppdrag:** Bygg en bro av ett platt pappersark. Hur mycket kan den bära?
+    **Ditt uppdrag:** Bygg en pappersbro. Hur många mynt bär den?
 
-    **Du behöver:** Pappret och muggen i lådan, två stadiga bokstöd som en vuxen har godkänt och några mynt.
+    **Du behöver:** Papper, mugg, mynt och två stadiga bokstöd.
 
-    **1. Gissa!** Tror du att det platta pappret förblir rakt när vi ställer en mugg i mitten? Hur många mynt kan det bära?
+    **1. Gissa!** Bär platt papper en mugg? Hur många mynt?
 
-    **2. Bygg!** Be en vuxen lämna ett mellanrum på 15 cm mellan två stadiga bokstöd. Lägg pappret över mellanrummet så att det vilar lite på varje bok.
+    **2. Bygg!** Be en vuxen ställa bokstöden 15 cm isär. Lägg pappret över dem.
 
-    **3. Testa!** Ställ den tomma muggen i mitten. Lägg i mynt ett i taget. Räkna tillsammans. Sluta om bron nuddar bordet under den eller om muggen börjar välta.
+    **3. Testa!** Ställ en tom mugg i mitten. Lägg i mynt ett i taget. Sluta om muggen välter eller bron når bordet.
 
-    **4. Anteckna!** Hur många mynt bar bron? Hur såg pappret ut?
+    **4. Anteckna!** Räkna mynten. Vad hände med pappret?
 
-    ⭐ **Forskarens fråga:** Var böjs pappret mest, och varför?
+    ⭐ **Forskarens fråga:** Var böjdes det mest?
 
 </div>
 </div>

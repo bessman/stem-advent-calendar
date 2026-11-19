@@ -51,38 +51,38 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🔘 DAY 18 — INVENT A SWITCH"
-    **Your mission:** Add a switch that turns yesterday's LED on and off!
+    **Your mission:** Make a foil switch!
 
-    **You need:** Your Day 17 battery circuit, the foil, paperclip and extra clip lead in this box, plus a grown-up.
+    **You need:** Day 17 circuit, foil, clip and adult.
 
-    **1. Predict!** What will happen when the paperclip touches both foil contacts? What if it lifts away?
+    **1. Predict!** What connects?
 
-    **2. Build!** Ask your grown-up to disconnect the battery. Put the two foil squares on card with a small gap between them. Connect one foil square to the battery's red wire and the other to the resistor side of the LED circuit.
+    **2. Build!** With an adult, disconnect battery. Tape foil squares to card with a gap; connect one to red wire, one to the LED circuit.
 
-    **3. Switch!** Touch the paperclip across both foil squares. Ask your grown-up to reconnect the battery. Does the LED light? Lift the paperclip to turn it off.
+    **3. Switch!** Bridge foils with clip. Ask an adult to reconnect battery. LED on? Lift clip to switch it off.
 
-    **4. Improve!** Can you make the paperclip easier to move without letting the foil contacts touch?
+    **4. Improve!** Keep foils apart. Move the clip easily.
 
-    ⭐ **Scientist's question:** What does the switch change in the circuit?
+    ⭐ **Scientist's question:** What changes?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🔘 DAG 18 — UPPFINN EN STRÖMBRYTARE"
-    **Ditt uppdrag:** Lägg till en strömbrytare som tänder och släcker gårdagens LED!
+    **Ditt uppdrag:** Bygg en folieströmbrytare!
 
-    **Du behöver:** Batterikretsen från dag 17, folien, gemet och den extra krokodilsladden i lådan samt en vuxen.
+    **Du behöver:** Kretsen från dag 17, folie, gem och vuxen.
 
-    **1. Gissa!** Vad händer när gemet rör vid båda foliebitarna? Vad händer om det lyfts bort?
+    **1. Gissa!** Vad kopplar gemet?
 
-    **2. Bygg!** Be en vuxen koppla bort batteriet. Lägg två foliebitar på kartong med ett litet mellanrum. Koppla den ena foliebiten till batterihållarens röda sladd och den andra till LED-kretsens motståndssida.
+    **2. Bygg!** Be en vuxen koppla bort batteriet. Lägg foliebitar på kartong med mellanrum. Koppla ena till röd sladd, andra till LED-kretsen.
 
-    **3. Byt läge!** Lägg gemet över båda foliebitarna. Be en vuxen koppla in batteriet igen. Lyser LED-lampan? Lyft bort gemet för att släcka den.
+    **3. Byt läge!** Lägg gemet över båda bitarna. Be en vuxen koppla in batteriet. Lyser LED? Lyft bort gemet för att släcka.
 
-    **4. Förbättra!** Kan du göra gemet lättare att flytta utan att foliebitarna rör vid varandra?
+    **4. Förbättra!** Håll foliebitar isär. Gör gemet lätt att flytta.
 
-    ⭐ **Forskarens fråga:** Vad förändrar strömbrytaren i kretsen?
+    ⭐ **Forskarens fråga:** Vad ändrar strömbrytaren?
 
 </div>
 </div>

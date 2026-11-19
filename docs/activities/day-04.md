@@ -47,38 +47,38 @@ Reuse clean printer paper and paperclips if available.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🚁 DAY 4 — THE FLYING HELICOPTER"
-    **Your mission:** Fold two paper helicopters and find out how their blades change the way they fall!
+    **Your mission:** Fold two helicopters. Which falls slowest?
 
-    **You need:** The two paper strips in your box, two paperclips, a grown-up and a clear place to drop them.
+    **You need:** Two paper strips, two paperclips and clear space.
 
-    **1. Predict!** Which helicopter will take longer to reach the floor: the one with longer blades or shorter blades?
+    **1. Predict!** Do long or short blades fall more slowly?
 
-    **2. Fold!** Fold the two top blades in opposite directions. Fold the long sides of the body toward the middle, then fold the bottom up twice. Ask your grown-up to put one paperclip on each folded bottom.
+    **2. Fold!** Fold top blades opposite ways. Fold body sides inward and bottom up twice. Ask an adult to clip each.
 
-    **3. Test!** Hold one helicopter at the same height each time. Let go without throwing it. Watch it spin down. Try the other one from the same place.
+    **3. Test!** Drop each from the same height. Don't throw them!
 
-    **4. Compare!** Take turns dropping each helicopter three times. Which one usually takes longer to land? Do they both spin?
+    **4. Compare!** Drop each three times. Which usually lands last?
 
-    ⭐ **Scientist's question:** What does the air do to the helicopter's blades as it falls?
+    ⭐ **Scientist's question:** How does air make them spin?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🚁 DAG 4 — DEN FLYGANDE HELIKOPTERN"
-    **Ditt uppdrag:** Vik två pappershelikoptrar och ta reda på hur rotorbladen påverkar fallet!
+    **Ditt uppdrag:** Vik två helikoptrar. Vilken faller långsammast?
 
-    **Du behöver:** De två pappersremsorna i lådan, två gem, en vuxen och en fri plats att släppa dem på.
+    **Du behöver:** Två pappersremsor, två gem och fri yta.
 
-    **1. Gissa!** Vilken helikopter tar längst tid på sig att nå golvet: den med längre eller kortare rotorblad?
+    **1. Gissa!** Faller långa eller korta blad långsammare?
 
-    **2. Vik!** Vik de två rotorbladen upptill åt motsatta håll. Vik kroppens långsidor in mot mitten och vik sedan upp nederdelen två gånger. Be en vuxen sätta ett gem runt den vikta nederdelen på varje helikopter.
+    **2. Vik!** Vik rotorbladen åt olika håll. Vik sidorna inåt och botten upp två gånger. Be en vuxen sätta ett gem på varje.
 
-    **3. Testa!** Håll en helikopter på samma höjd varje gång. Släpp den utan att kasta. Titta när den snurrar ner. Prova den andra från samma plats.
+    **3. Testa!** Släpp båda från samma höjd. Kasta inte!
 
-    **4. Jämför!** Turas om att släppa varje helikopter tre gånger. Vilken tar oftast längre tid på sig att landa? Snurrar båda?
+    **4. Jämför!** Släpp varje tre gånger. Vilken landar oftast sist?
 
-    ⭐ **Forskarens fråga:** Vad gör luften med rotorbladen när helikoptern faller?
+    ⭐ **Forskarens fråga:** Hur får luften dem att snurra?
 
 </div>
 </div>

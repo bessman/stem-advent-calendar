@@ -48,38 +48,38 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🌱 DAY 14 — WAKE UP, LITTLE SEED!"
-    **Your mission:** Start a seed investigation and find out what changes as a seed wakes up!
+    **Your mission:** Wake a seed and track its changes!
 
-    **You need:** The cress seeds and cotton in your box, a clear cup, water and a grown-up.
+    **You need:** Cress seeds, cotton, cup, water and adult.
 
-    **1. Predict!** How many days do you think it will take before you see a tiny root or shoot?
+    **1. Predict!** When will a tiny root or shoot appear?
 
-    **2. Set up!** Ask your grown-up to dampen the cotton and put it in the cup. Place the seeds on top where you can see them.
+    **2. Set up!** Ask an adult to dampen cotton in the cup. Place seeds on top where you can see them.
 
-    **3. Observe!** Draw what the seeds look like today. Put the cup in a bright place away from direct sun.
+    **3. Observe!** Draw today's seeds. Keep the cup bright, out of direct sun.
 
-    **4. Check!** Look each day. If the cotton feels dry, add a few drops of water. Draw or tell your grown-up what changed.
+    **4. Check!** Look daily. If dry, add drops. Draw changes.
 
-    ⭐ **Scientist's question:** What appeared first: a root or a shoot?
+    ⭐ **Scientist's question:** What appeared first?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🌱 DAG 14 — VAKNA, LILLA FRÖ!"
-    **Ditt uppdrag:** Starta en fröundersökning och ta reda på vad som förändras när fröet vaknar!
+    **Ditt uppdrag:** Väck ett frö och följ de första förändringarna!
 
-    **Du behöver:** Krassefröna och bomullen i lådan, en genomskinlig mugg, vatten och en vuxen.
+    **Du behöver:** Krassefrön, bomull, genomskinlig mugg, vatten och vuxen.
 
-    **1. Gissa!** Hur många dagar tror du att det tar innan du ser en liten rot eller ett skott?
+    **1. Gissa!** När syns en liten rot eller ett skott?
 
-    **2. Gör i ordning!** Be en vuxen fukta bomullen och lägga den i muggen. Lägg fröna ovanpå så att du kan se dem.
+    **2. Gör i ordning!** Be en vuxen fukta bomull i muggen. Lägg fröna ovanpå så att du ser dem.
 
-    **3. Titta!** Rita hur fröna ser ut i dag. Ställ muggen ljust, men inte i direkt solljus.
+    **3. Titta!** Rita dagens frön. Ställ muggen ljust, utan direkt sol.
 
-    **4. Följ!** Titta varje dag. Om bomullen känns torr, droppa på lite vatten. Rita eller berätta för en vuxen vad som har förändrats.
+    **4. Följ!** Titta varje dag. Fukta bomullen om den torkar. Rita eller berätta vad som ändrats.
 
-    ⭐ **Forskarens fråga:** Vad kom först: en rot eller ett skott?
+    ⭐ **Forskarens fråga:** Vad kom först?
 
 </div>
 </div>

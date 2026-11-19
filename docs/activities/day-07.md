@@ -45,38 +45,38 @@ Household cups and string can be reused.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "📞 DAY 7 — THE SECRET STRING TELEPHONE"
-    **Your mission:** Send a message through a string telephone!
+    **Your mission:** Send a secret message through string!
 
-    **You need:** Two cups, the string in your box and a grown-up.
+    **You need:** Two cups, string and an adult.
 
-    **1. Build!** Ask your grown-up to make a tiny hole in the bottom of each cup. Thread the string through and tie a big knot inside each cup.
+    **1. Build!** Ask an adult to hole each cup. Thread string through and knot it inside.
 
-    **2. Stretch!** Each person holds a cup. Step apart until the string is straight and tight. Keep it away from other people and objects.
+    **2. Stretch!** Hold one cup each. Step apart until the string is taut and clear.
 
-    **3. Listen!** One person speaks softly into a cup while the other listens at the other cup. Take turns.
+    **3. Listen!** Speak softly; your partner listens. Swap turns.
 
-    **4. Test!** What happens when the string is slack? Make it tight again and listen.
+    **4. Test!** Loosen the string, then tighten it. What changes?
 
-    ⭐ **Scientist's question:** What is vibrating when you speak into the cup?
+    ⭐ **Scientist's question:** What vibrates?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "📞 DAG 7 — DEN HEMLIGA SNÖRTELEFONEN"
-    **Ditt uppdrag:** Skicka ett meddelande genom en snörtelefon!
+    **Ditt uppdrag:** Skicka hemliga meddelanden med snöre!
 
-    **Du behöver:** Två muggar, snöret i lådan och en vuxen.
+    **Du behöver:** Två muggar, snöre och en vuxen.
 
-    **1. Bygg!** Be en vuxen göra ett litet hål i botten på varje mugg. Trä snöret genom hålen och knyt en stor knut inuti varje mugg.
+    **1. Bygg!** Be en vuxen göra hål i muggarna. Trä igenom snöret och knyt.
 
-    **2. Spänn!** Håll varsin mugg. Gå isär tills snöret är rakt och spänt. Se till att det inte ligger mot människor eller saker.
+    **2. Spänn!** Håll varsin mugg. Gå isär tills snöret är spänt och fritt.
 
-    **3. Lyssna!** En person talar tyst i sin mugg medan den andra lyssnar i den andra muggen. Turas om.
+    **3. Lyssna!** Tala tyst; kompisen lyssnar. Byt tur.
 
-    **4. Testa!** Vad händer när snöret hänger löst? Spänn det igen och lyssna.
+    **4. Testa!** Slaka på snöret, spänn igen. Vad ändras?
 
-    ⭐ **Forskarens fråga:** Vad vibrerar när du talar i muggen?
+    ⭐ **Forskarens fråga:** Vad vibrerar?
 
 </div>
 </div>

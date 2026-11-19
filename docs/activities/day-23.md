@@ -50,38 +50,38 @@ Use clean household packaging and craft supplies. The Arduino and saved circuit 
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🎄 DAY 23 — DESIGN YOUR CHRISTMAS INVENTION"
-    **Your mission:** Plan a Christmas Signal Station that can send a secret light message!
+    **Your mission:** Design a Christmas Signal Station!
 
-    **You need:** The paper, LED and button in your box, pencil, recycled cardboard, tape and a grown-up.
+    **You need:** Paper, LED, button, pencil, cardboard and adult.
 
-    **1. Imagine!** What will your signal station look like? Who will receive the message?
+    **1. Imagine!** Who gets your message? Sketch your station.
 
-    **2. Plan!** Draw where the two lights, button and message target will go. Leave room behind the front for the breadboard and wires.
+    **2. Plan!** Draw two lights, button and target. Leave room for wires.
 
-    **3. Prototype!** Make a quick paper or cardboard front. Ask your grown-up to help mark two light holes and a button spot. Hold the LED and button from your box against the front to check their positions.
+    **3. Prototype!** Make a cardboard front. Ask an adult to mark light holes and button. Check with the parts.
 
-    **4. Improve!** Can you see the light holes and reach the button easily? Make one change to your design.
+    **4. Improve!** Can you see lights and reach the button? Change one thing.
 
-    ⭐ **Inventor's question:** How will your design help someone understand the light message?
+    ⭐ **Inventor's question:** How will your design clarify the message?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🎄 DAG 23 — PLANERA DIN JULUPPFINNING"
-    **Ditt uppdrag:** Planera en julig signalstation som kan skicka ett hemligt ljusmeddelande!
+    **Ditt uppdrag:** Planera en julig signalstation!
 
-    **Du behöver:** Pappret, LED-lampan och knappen i lådan, penna, återvunnen kartong, tejp och en vuxen.
+    **Du behöver:** Papper, LED, knapp, penna, kartong och vuxen.
 
-    **1. Föreställ dig!** Hur ska signalstationen se ut? Vem ska ta emot meddelandet?
+    **1. Föreställ dig!** Vem får meddelandet? Skissa stationen.
 
-    **2. Planera!** Rita var de två lamporna, knappen och meddelandemålet ska vara. Lämna plats bakom framsidan för kopplingsplattan och sladdarna.
+    **2. Planera!** Rita två lampor, knapp och mål. Lämna plats för sladdar.
 
-    **3. Gör en modell!** Gör en snabb framsida av papper eller kartong. Be en vuxen hjälpa till att markera två hål för lamporna och en plats för knappen. Håll LED-lampan och knappen i lådan mot framsidan för att kontrollera placeringen.
+    **3. Gör en modell!** Gör en framsida av kartong. Be en vuxen markera hål för lampor och knapp. Prova med delarna.
 
-    **4. Förbättra!** Syns lamphålen och når du knappen lätt? Ändra en sak i din design.
+    **4. Förbättra!** Ser du lamporna och når knappen? Ändra något.
 
-    ⭐ **Uppfinnarens fråga:** Hur hjälper din design någon att förstå ljusmeddelandet?
+    ⭐ **Uppfinnarens fråga:** Hur blir meddelandet tydligt?
 
 </div>
 </div>

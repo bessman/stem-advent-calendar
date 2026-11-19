@@ -46,38 +46,38 @@ No special materials need to be purchased if suitable household glasses are avai
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🎵 DAY 8 — THE MUSICAL WATER GLASSES"
-    **Your mission:** Make music by tapping glasses with different amounts of water!
+    **Your mission:** Make music with water!
 
-    **You need:** Three matching glasses, the dropper in your box, water, a wooden spoon and a grown-up.
+    **You need:** Three glasses, dropper, water, spoon and adult.
 
-    **1. Predict!** Which glass will make the highest sound: the one with a little water or a lot?
+    **1. Predict!** Which sounds higher: more or less water?
 
-    **2. Fill!** Ask your grown-up to put a little water in each glass. Use the dropper in your box to add more water to two glasses.
+    **2. Fill!** Ask an adult to add water to each glass. Add more to two with the dropper.
 
-    **3. Listen!** Gently tap the side of each glass with the wooden spoon. Which sounds higher? Which sounds lower?
+    **3. Listen!** Gently tap each glass. Which sounds higher?
 
-    **4. Make music!** Put the glasses in order from low to high. Can you tap a short tune?
+    **4. Play!** Arrange low to high. Make a tune!
 
-    ⭐ **Scientist's question:** What changed when we added more water?
+    ⭐ **Scientist's question:** What changed?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🎵 DAG 8 — DE MUSIKALISKA VATTENGLASEN"
-    **Ditt uppdrag:** Skapa musik genom att knacka på glas med olika mycket vatten!
+    **Ditt uppdrag:** Spela musik med vatten!
 
-    **Du behöver:** Tre likadana glas, pipetten i lådan, vatten, en träslev och en vuxen.
+    **Du behöver:** Tre glas, pipett, vatten, sked och vuxen.
 
-    **1. Gissa!** Vilket glas får den högsta tonen: det med lite vatten eller mycket?
+    **1. Gissa!** Vilket låter högst: mycket eller lite vatten?
 
-    **2. Fyll!** Be en vuxen hälla lite vatten i varje glas. Använd pipetten i lådan för att lägga till mer vatten i två av glasen.
+    **2. Fyll!** Be en vuxen hälla vatten i glasen. Droppa mer i två.
 
-    **3. Lyssna!** Knacka försiktigt på sidan av varje glas med träsleven. Vilket låter högre? Vilket låter lägre?
+    **3. Lyssna!** Knacka försiktigt. Vilket ljud är högst?
 
-    **4. Spela musik!** Ställ glasen i ordning från låg till hög ton. Kan du spela en kort melodi?
+    **4. Spela!** Ställ dem från låg till hög. Hitta på en melodi!
 
-    ⭐ **Forskarens fråga:** Vad ändrades när vi hällde i mer vatten?
+    ⭐ **Forskarens fråga:** Vad ändrades?
 
 </div>
 </div>

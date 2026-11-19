@@ -47,42 +47,42 @@ By the end of the mission, the child can:
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🚀 DAY 3 — BALLOON ROCKET RACE"
-    **Your mission:** Make a balloon rocket zoom along a string using only air!
+    **Your mission:** Race a balloon rocket!
 
-    **You need:** Your balloon and straw, a grown-up, string, tape, and two places to tie the string.
+    **You need:** Balloon, straw, string, tape.
 
-    **1. Predict!** If air rushes out of the balloon backward, which way will your rocket travel?
+    **1. Predict!** Air blasts backward. Which way will the rocket go?
 
-    **2. Build!** Ask your grown-up to thread the string through the straw and stretch the string tight. Blow up the balloon, but **don't tie it**. Pinch the opening closed.
+    **2. Build!** Ask an adult to thread the straw onto taut string. Inflate the balloon; don't tie it.
 
-    **3. Attach!** While the grown-up holds the balloon, tape it to the straw. Point the balloon's opening toward the **start** of the track.
+    **3. Attach!** Tape it to the straw, opening toward the start.
 
-    **4. Launch!** Count down: **3, 2, 1 ... GO!** Let go of the opening. Watch the rocket fly!
+    **4. Launch!** Count down, release and watch it zoom!
 
-    **5. Experiment!** Try again with **less air** in the balloon. Does it travel as far? Change only the amount of air.
+    **5. Experiment!** Use less air. Change nothing else. How far?
 
-    ⭐ **Scientist's question:** Why does the rocket move forward when the air shoots backward?
+    ⭐ **Scientist's question:** Why does it move forward?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🚀 DAG 3 — BALLONGRAKETEN"
-    **Ditt uppdrag:** Få en ballongraket att susa längs ett snöre med hjälp av bara luft!
+    **Ditt uppdrag:** Tävla med en ballongraket!
 
-    **Du behöver:** Din ballong och ditt sugrör, en vuxen, snöre, tejp och två ställen att fästa snöret.
+    **Du behöver:** Ballong, sugrör, snöre och tejp.
 
-    **1. Gissa!** Om luften strömmar bakåt ur ballongen, åt vilket håll åker raketen?
+    **1. Gissa!** Luften far bakåt. Åt vilket håll åker raketen?
 
-    **2. Bygg!** Be en vuxen trä snöret genom sugröret och spänna snöret. Blås upp ballongen, men **knyt inte**. Nyp ihop öppningen.
+    **2. Bygg!** Be en vuxen trä sugröret på spänt snöre. Blås upp ballongen, knyt inte; nyp ihop.
 
-    **3. Fäst!** Medan den vuxna håller i ballongen tejpar ni fast den på sugröret. Rikta ballongens öppning mot banans **start**.
+    **3. Fäst!** Tejpa den på sugröret med öppningen mot starten.
 
-    **4. Skjut iväg!** Räkna ner: **3, 2, 1 ... KÖR!** Släpp öppningen. Se raketen fara iväg!
+    **4. Skjut iväg!** Räkna ner, släpp och se den fara!
 
-    **5. Undersök!** Försök igen med **mindre luft** i ballongen. Åker den lika långt? Ändra bara mängden luft.
+    **5. Undersök!** Prova med mindre luft. Ändra inget annat. Hur långt?
 
-    ⭐ **Forskarens fråga:** Varför åker raketen framåt när luften sprutar bakåt?
+    ⭐ **Forskarens fråga:** Varför far den framåt?
 
 </div>
 </div>

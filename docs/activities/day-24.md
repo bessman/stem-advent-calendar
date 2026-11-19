@@ -54,38 +54,38 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🎄 DAY 24 — THE GRAND CHRISTMAS INVENTION!"
-    **Your mission:** Build a Christmas Signal Station that sends **your name** when you press its button!
+    **Your mission:** Build a station to blink your name!
 
-    **You need:** Your Arduino, button, breadboard, two LEDs, two resistors, jumper wires, cardboard and a grown-up.
+    **You need:** Arduino, button, breadboard, two LEDs, resistors, wires, cardboard and adult.
 
-    **1. Plan!** Use your Day 23 design. Where will the lights shine? Can someone reach the button?
+    **1. Plan!** Use Day 23 design. Button reachable?
 
-    **2. Build!** Ask your grown-up to connect the button to pin 2 and GND, and the LEDs to pins 8 and 9 through resistors. Keep the Arduino and breadboard outside the cardboard cover.
+    **2. Build!** Adult connects button to pin 2/GND; LEDs to pins 8/9 through resistors. Keep Arduino and breadboard outside.
 
-    **3. Program!** Upload the name program. Press the button. Watch the lights send each letter in turn.
+    **3. Program!** Upload name code. Press the button; read the letters.
 
-    **4. Improve!** Can your receiver read the message? Adjust the display or the flash timing with your grown-up.
+    **4. Improve!** Can someone read it? Adjust display or timing.
 
-    ⭐ **Inventor's question:** How do the button and program work together to spell your name?
+    ⭐ **Inventor's question:** How does code spell it?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🎄 DAG 24 — DEN STORA JULUPPFINNINGEN!"
-    **Ditt uppdrag:** Bygg en julig signalstation som skickar **ditt namn** när du trycker på knappen!
+    **Ditt uppdrag:** Bygg en station som blinkar ditt namn!
 
-    **Du behöver:** Arduino-kortet, knappen, kopplingsplattan, två LED-lampor, två motstånd, sladdar, kartong och en vuxen.
+    **Du behöver:** Arduino, knapp, kopplingsplatta, två LED med motstånd, sladdar, kartong och vuxen.
 
-    **1. Planera!** Använd din design från dag 23. Vart ska lamporna lysa? Kan någon nå knappen?
+    **1. Planera!** Använd dag 23:s design. Når någon knappen?
 
-    **2. Bygg!** Be en vuxen koppla knappen till pinne 2 och GND, och LED-lamporna till pinnarna 8 och 9 genom motstånd. Ha Arduino-kortet och kopplingsplattan utanför kartonghöljet.
+    **2. Bygg!** Be en vuxen koppla knapp till 2/GND och LED till 8/9 med motstånd. Ha Arduino och kopplingsplatta utanför.
 
-    **3. Programmera!** Ladda upp namn-programmet. Tryck på knappen. Se lamporna blinka varje bokstav i turordning.
+    **3. Programmera!** Ladda upp namnprogrammet. Tryck; läs bokstäverna.
 
-    **4. Förbättra!** Kan mottagaren läsa meddelandet? Ändra displayen eller blinktiden tillsammans med en vuxen.
+    **4. Förbättra!** Kan någon läsa? Ändra display eller blinktid.
 
-    ⭐ **Uppfinnarens fråga:** Hur samarbetar knappen och programmet för att stava ditt namn?
+    ⭐ **Uppfinnarens fråga:** Hur stavar knappen och programmet ditt namn?
 
 </div>
 </div>

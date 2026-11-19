@@ -46,38 +46,38 @@ Choose a large, ordinary ceramic magnet; do not use small, powerful neodymium ma
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🧲 DAY 16 — THE INVISIBLE MAGNET MAZE"
-    **Your mission:** Guide a paperclip through a maze without touching it!
+    **Your mission:** Guide a paperclip through a maze, hands-free!
 
-    **You need:** The magnet and paperclip in your box, your mission card and a grown-up.
+    **You need:** Magnet, paperclip, card and adult.
 
-    **1. Predict!** Will the magnet pull the paperclip through the paper?
+    **1. Predict!** Can a magnet pull through paper?
 
-    **2. Set up!** Draw a simple winding path on the back of your card. Put the paperclip at the start.
+    **2. Set up!** Draw a winding path on the card's back. Put the clip at the start.
 
-    **3. Explore!** Ask your grown-up to hold the magnet under the paper. Move it slowly and guide the paperclip along the path.
+    **3. Explore!** Ask an adult to hold the magnet underneath. Move it slowly to guide the clip.
 
-    **4. Test!** What happens if you lift the magnet farther from the paperclip? Try moving the magnet near a coin or a plastic object too.
+    **4. Test!** Lift it farther away. Try a coin or plastic.
 
-    ⭐ **Scientist's question:** Which objects did the magnet pull, and which did it leave alone?
+    ⭐ **Scientist's question:** What did the magnet attract?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🧲 DAG 16 — DEN OSYNLIGA MAGNETLABYRINTEN"
-    **Ditt uppdrag:** Led ett gem genom en labyrint utan att röra vid det!
+    **Ditt uppdrag:** Led ett gem genom en labyrint utan att röra det!
 
-    **Du behöver:** Magneten och gemet i lådan, uppdragskortet och en vuxen.
+    **Du behöver:** Magnet, gem, kort och vuxen.
 
-    **1. Gissa!** Drar magneten gemet genom pappret?
+    **1. Gissa!** Kan magneten dra genom papper?
 
-    **2. Gör i ordning!** Rita en enkel slingrande väg på baksidan av kortet. Lägg gemet vid starten.
+    **2. Gör i ordning!** Rita en slingrande väg på kortets baksida. Lägg gemet vid starten.
 
-    **3. Undersök!** Be en vuxen hålla magneten under pappret. Flytta den långsamt och led gemet längs vägen.
+    **3. Undersök!** Be en vuxen hålla magneten under pappret. Flytta den långsamt och led gemet.
 
-    **4. Testa!** Vad händer om du håller magneten längre från gemet? Prova också att föra magneten nära ett mynt eller ett föremål av plast.
+    **4. Testa!** Lyft magneten längre bort. Prova nära ett mynt och ett plastföremål.
 
-    ⭐ **Forskarens fråga:** Vilka föremål drog magneten till sig, och vilka lämnade den ifred?
+    ⭐ **Forskarens fråga:** Vad drogs till magneten?
 
 </div>
 </div>
