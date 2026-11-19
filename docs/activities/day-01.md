@@ -47,6 +47,9 @@ Only a **small sample** of each material goes in the box. The prices are rough S
 
 ## Child's mission card
 
+<div class="mission-card" markdown="1">
+<div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
+
 !!! example "🔍 DAY 1 — MYSTERY MATERIALS LAB"
     **Your mission:** Meet four mysterious materials. Can you discover their superpowers?
 
@@ -63,6 +66,30 @@ Only a **small sample** of each material goes in the box. The prices are rough S
     **5. Think!** Which material would you choose for a raincoat? Which for wiping up a spill? Why?
 
     ⭐ **Scientist's question:** Did any material surprise you?
+
+</div>
+
+<div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
+
+!!! example "🔍 DAG 1 — MYSTISKA MATERIAL-LABB"
+    **Ditt uppdrag:** Undersök fyra mystiska material. Kan du upptäcka deras superkrafter?
+
+    **Du behöver:** De fyra materialproverna i din låda, en tallrik, en tesked, lite vatten och en handduk.
+
+    **1. Utforska!** Känn på varje prov. Vilket är mjukt? Slätt? Strävt? Böjligt?
+
+    **2. Gissa!** Vilka två tror du kommer att suga upp en vattendroppe? Berätta för din vuxen.
+
+    **3. Testa!** Lägg proverna plant på en tallrik. Lägg **en liten droppe** vatten på varje prov. Titta i några sekunder.
+
+    **4. Sortera!** Gör två grupper: **vattnet sugs upp** och **vattnet stannar på ytan**.
+
+    **5. Fundera!** Vilket material skulle du välja till en regnjacka? Vilket skulle du använda för att torka upp spill? Varför?
+
+    ⭐ **Forskarens fråga:** Var det något material som överraskade dig?
+
+</div>
+</div>
 
 ## Adult instructions
 
