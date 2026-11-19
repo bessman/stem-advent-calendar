@@ -5,11 +5,11 @@
 **Field:** Engineering · Programming · Electronics  
 **Time:** 40–60 minutes (Thursday 24 December 2026)  
 **Age group:** 6–9  
-**Progression:** We have learned about circuits, switches, Arduino code and light signals. Today we combine them in a **Christmas Signal Station**: press a button and two LEDs blink SOS in Morse code.
+**Progression:** We have learned about circuits, switches, Arduino code and light signals. Today we combine them in a **Christmas Signal Station**: press a button and two LEDs blink **your child's name** in Morse code.
 
 ## Introduction
 
-Can you build an invention that sends a message when someone presses a button? Mount two LEDs in a cardboard Christmas scene, connect a pushbutton and Arduino, then upload a program that blinks **SOS** when the button is pressed.
+Can you build an invention that sends a message when someone presses a button? Mount two LEDs in a cardboard Christmas scene, connect a pushbutton and Arduino, then upload a program that blinks the child's name when the button is pressed.
 
 By the end of this mission, the child can:
 
@@ -47,7 +47,7 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20. The existing Ard
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
 !!! example "🎄 DAY 24 — THE GRAND CHRISTMAS INVENTION!"
-    **Your mission:** Build a Christmas Signal Station that sends SOS when you press its button!
+    **Your mission:** Build a Christmas Signal Station that sends **your name** when you press its button!
 
     **You need:** Your Arduino, button, breadboard, two LEDs, two resistors, jumper wires, cardboard and a grown-up.
 
@@ -55,18 +55,18 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20. The existing Ard
 
     **2. Build!** Ask your grown-up to connect the button to pin 2 and GND, and the LEDs to pins 8 and 9 through resistors. Keep the Arduino and breadboard outside the cardboard cover.
 
-    **3. Program!** Upload the SOS program. Press the button. Watch the lights send short, short, short; long, long, long; short, short, short.
+    **3. Program!** Upload the name program. Press the button. Watch the lights send each letter in turn.
 
     **4. Improve!** Can your receiver read the message? Adjust the display or the flash timing with your grown-up.
 
-    ⭐ **Inventor's question:** How do the button and program work together to send SOS?
+    ⭐ **Inventor's question:** How do the button and program work together to spell your name?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
 !!! example "🎄 DAG 24 — DEN STORA JULUPPFINNINGEN!"
-    **Ditt uppdrag:** Bygg en julig signalstation som skickar SOS när du trycker på knappen!
+    **Ditt uppdrag:** Bygg en julig signalstation som skickar **ditt namn** när du trycker på knappen!
 
     **Du behöver:** Arduino-kortet, knappen, kopplingsplattan, två LED-lampor, två motstånd, sladdar, kartong och en vuxen.
 
@@ -74,11 +74,11 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20. The existing Ard
 
     **2. Bygg!** Be en vuxen koppla knappen till pinne 2 och GND, och LED-lamporna till pinnarna 8 och 9 genom motstånd. Ha Arduino-kortet och kopplingsplattan utanför kartonghöljet.
 
-    **3. Programmera!** Ladda upp SOS-programmet. Tryck på knappen. Se lamporna blinka kort, kort, kort; långt, långt, långt; kort, kort, kort.
+    **3. Programmera!** Ladda upp namn-programmet. Tryck på knappen. Se lamporna blinka varje bokstav i turordning.
 
     **4. Förbättra!** Kan mottagaren läsa meddelandet? Ändra displayen eller blinktiden tillsammans med en vuxen.
 
-    ⭐ **Uppfinnarens fråga:** Hur samarbetar knappen och programmet för att skicka SOS?
+    ⭐ **Uppfinnarens fråga:** Hur samarbetar knappen och programmet för att stava ditt namn?
 
 </div>
 </div>
@@ -94,7 +94,8 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20. The existing Ard
    - Connect the pushbutton across the breadboard's centre gap, with one side to **digital pin 2** and the other to **GND**.
    - Connect the first LED's resistor side to **digital pin 8** and its short leg to **GND**.
    - Connect the second LED's resistor side to **digital pin 9** and its short leg to **GND**.
-4. Test the program before mounting the LEDs in the cardboard. An adult cuts any LED holes. Leave the Arduino, breadboard and connections uncovered and accessible on a stable surface.
+4. Set `NAME` in the program to your child's name using ASCII letters A–Z. Uppercase and lowercase both work; other characters are ignored.
+5. Test the program before mounting the LEDs in the cardboard. An adult cuts any LED holes. Leave the Arduino, breadboard and connections uncovered and accessible on a stable surface.
 
 ### How to help (40–60 minutes total)
 
@@ -103,7 +104,7 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20. The existing Ard
 | 0–5 min | Revisit the Day 23 plan and Day 22 Morse pattern. Agree on where the display and button will go. |
 | 5–15 min | With USB disconnected, build and check the button and two LED circuits. Confirm that each LED has its own 220-ohm resistor and both share GND. |
 | 15–25 min | Connect the Uno to the computer by USB, open the sketch below and upload it. The adult checks the board, port and wiring. |
-| 25–40 min | Press the button to send SOS. Let the child observe and decode the pattern. Mount the LEDs in the cardboard and position the button so it can be reached. |
+| 25–40 min | Press the button to send your child's name. Let the child observe and decode the pattern. Mount the LEDs in the cardboard and position the button so it can be reached. |
 | 40–55 min | Test the finished display from the receiver's position. Adjust the light openings or flash timing if needed. |
 | 55–60 min | Disconnect USB, collect loose parts and celebrate the working signal station. |
 
@@ -113,6 +114,37 @@ const int firstLedPin = 8;
 const int secondLedPin = 9;
 const int dotTime = 200;
 
+const char *morse_table[] = {
+  ".-", // A
+  "-...", // B
+  "-.-.", // C
+  "-..", // D
+  ".", // E
+  "..-.", // F
+  "--.", // G
+  "....", // H
+  "..", // I
+  ".---", // J
+  "-.-", // K
+  ".-..", // L
+  "--", // M
+  "-.", // N
+  "---", // O
+  ".--.", // P
+  "--.-", // Q
+  ".-.", // R
+  "...", // S
+  "-", // T
+  "..-", // U
+  "...-", // V
+  ".--", // W
+  "-..-", // X
+  "-.--", // Y
+  "--.." // Z
+};
+
+const char *NAME = "";
+
 void setup() {
   pinMode(buttonPin, INPUT_PULLUP);
   pinMode(firstLedPin, OUTPUT);
@@ -121,7 +153,7 @@ void setup() {
 
 void loop() {
   if (digitalRead(buttonPin) == LOW) {
-    sendSOS();
+    sendName();
     while (digitalRead(buttonPin) == LOW) {
     }
     delay(50);
@@ -137,13 +169,34 @@ void flashSignal(int onTime) {
   delay(dotTime);
 }
 
-void sendSOS() {
-  for (int i = 0; i < 3; i++) flashSignal(dotTime);
-  delay(dotTime * 2);
-  for (int i = 0; i < 3; i++) flashSignal(dotTime * 3);
-  delay(dotTime * 2);
-  for (int i = 0; i < 3; i++) flashSignal(dotTime);
-  delay(dotTime * 4);
+void sendMorseLetter(const char* code) {
+  for (int symbolIndex = 0; code[symbolIndex] != '\0'; symbolIndex++) {
+    if (code[symbolIndex] == '.') {
+      flashSignal(dotTime);
+    } else {
+      flashSignal(dotTime * 3);
+    }
+  }
+}
+
+void sendName() {
+  char letter = 0;
+  int letter_idx = 0;
+
+  while ((letter = NAME[letter_idx++]) != '\0') {
+    // toUpper
+    if (letter >= 'a' && letter <= 'z') {
+      letter -= 'a' - 'A';
+    }
+    // Alphabetical only
+    if (letter < 'A' || letter > 'Z') {
+      continue;
+    }
+    letter -= 'A';
+    sendMorseLetter(morse_table[letter]);
+    delay(dotTime * 2);
+  }
+  delay(dotTime * 6);
 }
 ```
 
@@ -159,7 +212,7 @@ void sendSOS() {
 
 ### Why it works
 
-The pushbutton is an input connected to pin 2. With `INPUT_PULLUP`, the input reads `HIGH` when the button is open and `LOW` when the button connects the pin to GND. When the program detects `LOW`, it calls `sendSOS()`.
+The pushbutton is an input connected to pin 2. With `INPUT_PULLUP`, the input reads `HIGH` when the button is open and `LOW` when the button connects the pin to GND. When the program detects `LOW`, it calls `sendName()`.
 
 The two LEDs are outputs on pins 8 and 9. The program turns them on together for a short duration (a dot) or a longer duration (a dash), with pauses between flashes and letters. The 220-ohm resistors limit current through each LED. The cardboard scene holds the display, while the Arduino and breadboard remain open and accessible.
 
@@ -170,7 +223,7 @@ The two LEDs are outputs on pins 8 and 9. The program turns them on together for
 - **The message repeats while the button is held:** The sketch waits for the button to be released after one message. Check the button is connected between pin 2 and GND and straddles the breadboard gap.
 - **The button does not start the message:** Check the pin 2 and GND connections and confirm the code uses `INPUT_PULLUP` and tests for `LOW`.
 - **The cardboard hides the lights or presses the button:** Move the LEDs and button to accessible positions. Keep the electronics outside the display.
-- **Extra challenge for older children:** Replace SOS with a different agreed Morse pattern. Change the short and long timing while keeping a long flash about three times the short flash.
+- **Extra challenge for older children:** Change `NAME` to another word using the Day 22 Morse key. Predict the light pattern.
 
 **Next experiment:** The calendar's final invention is complete. Keep the signal station as a reminder that small observations and ideas can grow into something you build.
 

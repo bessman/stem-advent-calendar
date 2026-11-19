@@ -123,6 +123,6 @@ Planning the physical design and the circuit together can prevent problems. The 
 - **There is no cardboard available:** Fold a sheet of paper into a standing tent shape and sketch the design on it.
 - **Extra challenge for older children:** Add a labelled wiring plan showing which Arduino pins will connect to the LEDs and button.
 
-**Next experiment:** On [Day 24](day-24.md), we will build the Christmas Signal Station and program its button to send SOS in light.
+**Next experiment:** On [Day 24](day-24.md), we will build the Christmas Signal Station and program its button to spell a name in light.
 
 [← Back to the calendar](../index.md) · [← Day 22: The Secret Light Message](day-22.md)

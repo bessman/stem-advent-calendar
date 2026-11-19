@@ -8,6 +8,25 @@
     if (restoreFocus) button.focus();
   }
 
+  function selectMorseKeyLanguage(language) {
+    document.querySelectorAll(".morse-key-print__translation").forEach((translation) => {
+      translation.hidden = translation.lang !== language;
+    });
+  }
+
+  function initializeMorseKeyPrint() {
+    document.querySelectorAll("[data-print-morse-key]:not([data-initialized])").forEach((button) => {
+      button.addEventListener("click", () => {
+        document.body.classList.add("print-morse-key");
+        window.addEventListener("afterprint", () => {
+          document.body.classList.remove("print-morse-key");
+        }, { once: true });
+        window.print();
+      });
+      button.dataset.initialized = "true";
+    });
+  }
+
   function initializeCards() {
     document.querySelectorAll(".mission-card:not([data-initialized])").forEach((card, index) => {
       const translations = Array.from(card.querySelectorAll(":scope > .mission-card__translation"));
@@ -16,7 +35,7 @@
       let preferredLanguage = "en";
       try {
         preferredLanguage = localStorage.getItem(preferenceKey) || "en";
-      } catch {}
+      } catch { }
 
       const fallback = translations.find((translation) => translation.lang === "en") || translations[0];
       const selected = translations.find((translation) => translation.lang === preferredLanguage) || fallback;
@@ -44,6 +63,7 @@
         translations.forEach((candidate) => {
           candidate.hidden = candidate !== translation;
         });
+        selectMorseKeyLanguage(translation.lang);
         const label = translation.dataset.languageLabel;
         toggle.textContent = `Language: ${label}`;
         toggle.setAttribute("aria-label", `Mission card language: ${label}`);
@@ -62,7 +82,7 @@
           status.textContent = `Mission card language: ${translation.dataset.languageLabel}`;
           try {
             localStorage.setItem(preferenceKey, translation.lang);
-          } catch {}
+          } catch { }
           closeControl(control, true);
         });
         languages.append(option);
@@ -82,6 +102,7 @@
       selectLanguage(selected);
       card.dataset.initialized = "true";
     });
+    initializeMorseKeyPrint();
   }
 
   document.addEventListener("click", (event) => {
