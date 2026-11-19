@@ -7,6 +7,7 @@ site_dir = "site"
 nav = [
   { "Welcome & calendar" = "index.md" },
   { "Print mission cards" = "print-cards.md" },
+  { "Overall inventory" = "inventory.md" },
   { "Week 1 — Physics & engineering" = [
     { "1 · Mystery Materials" = "activities/day-01.md" },
     { "2 · Sink or Float?" = "activities/day-02.md" },
@@ -41,7 +42,7 @@ nav = [
   ] },
 ]
 extra_css = ["stylesheets/extra.css"]
-extra_javascript = ["javascripts/mission-card.js", "javascripts/print-cards.js"]
+extra_javascript = ["javascripts/mission-card.js", "javascripts/print-cards.js", "javascripts/inventory.js"]
 
 [project.theme]
 language = "en"

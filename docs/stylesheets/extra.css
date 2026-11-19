@@ -30,6 +30,11 @@
   white-space: nowrap;
 }
 
+.inventory__table {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 .md-typeset .admonition {
   border-radius: 0.6rem;
 }

@@ -32,6 +32,10 @@ The combined HTML page loads the current cards from all 24 activity pages; no se
 
 Print on A4 or Letter in portrait at 100% scale with browser headers and footers off. Cards have dashed cutting borders and measure 90 x 120 mm, arranged four per sheet. Fold each card in half twice to fit a 7 cm box. Select **Save as PDF** in the browser print dialog to export a PDF.
 
+## Overall inventory
+
+Use **Overall inventory** in the navigation to view one table collected from the Materials lists on all 24 activity pages. Entries remain in day order, with links back to each source list. Duplicate and reused items are kept as separate entries; quantities are not combined. JavaScript and a running site are required.
+
 ## Translate a mission card
 
 Only the child's mission card is localized; the page heading, adult instructions and site navigation remain in English.
