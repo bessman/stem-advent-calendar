@@ -25,14 +25,11 @@ The liquids and container are ordinary household items; no special materials nee
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Printed Day 8 mission card | 1 folded card | Ordinary paper is fine. |
 | Clear, unbreakable container | 1, about 250 ml | A straight-sided plastic jar or cup makes layers easy to see. |
 | Golden syrup | About 2 tablespoons | Honey also works; use a familiar food if allergies are a concern. |
 | Cool water | About 2 tablespoons | Food colouring is optional. |
 | Vegetable oil | About 2 tablespoons | Use a clear cooking oil if available. |
 | Solid objects | 6–8 different objects | Choose from the suggestions below; their positions are for the child to discover. An adult supervises small objects. |
-| Small spoon | 1 | Adult uses it to guide the pours. |
-| Tray and towel | 1 each | Catch and wipe up spills. |
 
 ## What's inside the box?
 
@@ -48,7 +45,7 @@ The liquids and container are ordinary household items; no special materials nee
 
 Choose 6–8 different solids from the list and check the ones packed. These are suggestions, not items guaranteed to stop at particular layers; household materials and liquids vary.
 
-**Household items to supply separately:** Clear container, syrup, water, vegetable oil, spoon, tray and towel. Food colouring is optional.
+**Household items to supply separately:** Clear container, syrup, water and vegetable oil. Food colouring is optional.
 
 ## Child's mission card
 

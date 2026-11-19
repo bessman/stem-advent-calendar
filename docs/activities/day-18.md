@@ -28,7 +28,6 @@ Reuse the Day 17 circuit parts. Only the small switch materials are additional.
 | Aluminium foil | 2 squares, about 2 × 2 cm | Ordinary kitchen foil, folded once for strength. |
 | Large steel paperclip | 1 | Use as a movable metal bridge between contacts. |
 | Insulated alligator-clip lead | 1 | Adds a lead so the switch can be inserted into the circuit. |
-| Printed Day 18 mission card | 1 folded card | Ordinary paper is fine. |
 | Day 17 two-AA battery holder | 1 | Reuse the Day 17 circuit; remove the batteries while changing it. |
 | AA batteries | 2 | Reuse the Day 17 batteries; remove them from the holder during setup. |
 | Red LED with 220-ohm resistor | 1 assembly | Reuse the Day 17 component. |

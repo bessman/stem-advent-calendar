@@ -27,10 +27,7 @@ This activity uses the Day 14 seed setup and observation record, plus a reusable
 | --- | --- | --- |
 | Day 14 seed setup | 1 | Cress seeds on damp cotton in a clear cup or jar. |
 | Small hand lens | 1 | A simple magnifier helps inspect roots and shoots through the cup. |
-| Printed Day 21 mission card | 1 folded card | Ordinary paper is fine. |
-| Day 14 seed setup | 1 | Reuse the cress seeds on damp cotton in their clear cup or jar. If it has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead. |
-| First drawing or notes | 1 set | The child's Day 14 observation record. |
-| Pencil | 1 | For recording today's observations. |
+| Day 14 observation record | 1 | The child's first drawing or notes. If the seed setup has mould or smells unpleasant, do not handle it; discard it with adult help and use the original records instead. |
 
 ## What's inside the box?
 

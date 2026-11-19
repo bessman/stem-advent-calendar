@@ -26,14 +26,7 @@ Use ordinary granulated sugar and household water.
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Granulated sugar | 2 level teaspoons | About 8 g total; pre-portion into two small packets. |
-| Printed Day 12 mission card | 1 folded card | Ordinary paper is fine. |
 | Clear cups | 2, identical | For comparing warm and cool water. |
-| Water | 200 ml total | 100 ml cool and 100 ml warm, not hot; an adult prepares and handles the warm water. |
-| Teaspoon | 1 | For measuring the sugar. |
-| Measuring cup | 1 | For measuring the water. |
-| Stirring spoon | 1 | Use the same stirring pace in each cup. |
-| Towel | 1 | For spills. |
-| Thermometer | 1, optional | For checking the water temperature. |
 
 ## What's inside the box?
 

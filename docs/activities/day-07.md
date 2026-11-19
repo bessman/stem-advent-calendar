@@ -27,9 +27,6 @@ Household cups and string can be reused.
 | --- | --- | --- |
 | Small paper cups | 2, about 120 ml | Choose cups about 6 cm wide so they can be nested in the box. |
 | Smooth cotton string | 2 m | Thin, non-stretch string works best. |
-| Printed Day 7 mission card | 1 folded card | Ordinary paper is fine. |
-| Pencil | 1 | Adult use for making holes in the cups. |
-| Clear space | 1 | Enough for two people to stand apart with the string taut. |
 
 ## What's inside the box?
 

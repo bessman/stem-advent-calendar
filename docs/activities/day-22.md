@@ -27,10 +27,7 @@ The small flashlight is reusable and included in the box.
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | Small battery-powered flashlight | 1 | Use a compact LED model; keep its batteries enclosed. |
-| Printed Day 22 mission card | 1 folded card | Ordinary paper is fine. |
 | Printed A–Z Morse key | 1 sheet, folded | Print separately from the Morse key section below. |
-| Quiet indoor space | 1 | Choose a dim room for sending and receiving light signals. Use the included flashlight, not a phone flashlight, and keep the phone away. |
-| Pencil | 1 | For writing or decoding the message. |
 
 ## What's inside the box?
 

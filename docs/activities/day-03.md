@@ -27,11 +27,6 @@ By the end of the mission, the child can:
 | Drinking straw | 1, cut to about 5 cm | Paper or plastic works; the string must slide easily through it. |
 | Smooth string | 2–3 m | Thin cotton or synthetic string; smooth and not stretchy. May be a household supply rather than a purchase. |
 | Adhesive tape | About 15–20 cm | Painter's or transparent tape; may be a household supply rather than a purchase. |
-| Printed Day 3 mission card | 1 folded card | Ordinary paper is fine. |
-| Two stable anchor points | 2 | For example, door handles or chair backs. |
-| Clear floor area | About 2–3 m long | Keep the launch path clear. |
-| Scissors | 1 pair | Adult use. |
-| Hand pump | 1, optional | For inflating the balloon. |
 
 ## What's inside the box?
 

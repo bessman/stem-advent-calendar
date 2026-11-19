@@ -27,12 +27,7 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 | --- | --- | --- |
 | Cress seeds | 8–10 seeds | Fast-sprouting, untreated seeds from a food or garden supplier. Do not eat the experiment seeds. |
 | Cotton pad | 1 small piece | Plain, unscented cotton wool or a cotton pad. |
-| Printed Day 14 mission card | 1 folded card | Ordinary paper is fine. |
 | Small clear cup or jar | 1 | Choose a stable container that is easy to inspect from the side. |
-| Tap water | A little | To dampen the cotton. |
-| Spoon or dropper | 1 | For adding water. |
-| Tray | 1 | For containing drips. |
-| Pencil or notebook | 1 | For recording observations. |
 
 ## What's inside the box?
 

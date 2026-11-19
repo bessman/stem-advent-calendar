@@ -29,14 +29,6 @@ Only a **small sample** of each material goes in the box.
 | Cotton cloth | 1 square, about 4 × 4 cm | Scrap from an old clean T-shirt is fine. |
 | Aluminium foil | 1 square, about 4 × 4 cm | Ordinary kitchen foil. |
 | Flexible plastic packaging | 1 square, about 4 × 4 cm | Clean, smooth food packaging; no sharp edges. |
-| Printed mission card | 1 small card | Fold to fit the box. |
-| Tap water | A little | Use about one drop per sample. |
-| Small cup | 1 | Holds the water for testing. |
-| Teaspoon | 1 | For adding drops. |
-| Plate or shallow tray | 1 | For testing the samples. |
-| Cloth or towel | 1 | For spills. |
-| Pen or pencil | 1, optional | For recording a prediction. |
-| Scissors | 1 pair | Adult use for preparing the samples. |
 
 !!! info "Choosing materials"
     Clean household scraps work well. Choose safe materials with different surface properties.

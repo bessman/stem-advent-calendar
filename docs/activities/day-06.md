@@ -27,12 +27,7 @@ Use the same type of paper for both bridges.
 | --- | --- | --- |
 | Ordinary printer paper | 2 A4 sheets | Use two sheets of the same weight and size; one stays flat and one is folded. |
 | Small paper cup | 1 | Holds the coins during both tests; choose one about 6 cm wide so it fits in the box. Reuse the lightweight cup from Day 5 if available. |
-| Printed Day 6 mission card | 1 folded card | Ordinary paper is fine. |
-| Stable book supports | 2, same height | Reuse the Day 5 supports, or use matching supports set 15 cm apart. |
-| Sturdy table | 1 | For the bridge test. |
 | Similar coins | About 30 | Reuse the Day 5 coins and keep them the same for both tests. |
-| Ruler | 1 | For checking the gap and recording results. |
-| Pencil | 1 | For recording results. |
 
 ## What's inside the box?
 

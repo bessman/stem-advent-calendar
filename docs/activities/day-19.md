@@ -26,10 +26,8 @@ The Arduino is already available. Reuse its compatible USB data cable.
 | Item | Amount needed | Notes |
 | --- | --- | --- |
 | USB data cable | 1 | Reuse a data-capable cable compatible with the supplied Arduino. |
-| Printed Day 19 mission card | 1 folded card | Ordinary paper is fine. |
 | Arduino board | 1 | Use its built-in LED; no external wiring or battery pack is needed. |
 | Computer with Arduino IDE installed | 1 | For programming the board. |
-| Clear, dry table | 1 | For setting up the computer and Arduino. |
 
 ## What's inside the box?
 

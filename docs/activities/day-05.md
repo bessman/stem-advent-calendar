@@ -27,12 +27,7 @@ Reuse clean printer paper if available.
 | --- | --- | --- |
 | Ordinary printer paper | 1 sheet, A4 | Use standard paper, about 80 g/m²; save it for the Day 6 comparison if it stays flat. |
 | Small paper cup | 1 | Holds the coins during the bridge test; choose one about 6 cm wide so it fits in the box. |
-| Printed Day 5 mission card | 1 folded card | Ordinary paper is fine. |
-| Stable book supports | 2, same height | Set about 15 cm apart. |
-| Sturdy table | 1 | For the bridge test. |
 | Similar coins | About 30 | Use the same coins throughout. |
-| Ruler | 1 | For measuring the gap. |
-| Pencil | 1 | For recording results. |
 
 ## What's inside the box?
 

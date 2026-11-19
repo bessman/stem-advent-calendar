@@ -27,12 +27,8 @@ Household dish soap and water are supplied separately.
 | --- | --- | --- |
 | Ground black pepper | A small pinch | Fine ground pepper is easiest to see moving. |
 | Cotton swabs | 1–2 | One swab can be reused if kept clean. |
-| Printed Day 9 mission card | 1 folded card | Ordinary paper is fine. |
 | Shallow dish | 1 | For holding the water. |
-| Cool tap water | A small amount | Enough to cover the bottom of the dish. |
 | Dish soap | 1 small drop | Ordinary household dish soap. |
-| Washable work surface | 1 | Protect the table from spills. |
-| Towel | 1 | For spills. |
 
 ## What's inside the box?
 

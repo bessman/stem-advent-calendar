@@ -27,16 +27,9 @@ Make the indicator from a small piece of red cabbage; use household lemon juice 
 | --- | --- | --- |
 | Red cabbage | A few leaves for about 100 ml indicator | Use a small amount from a fresh cabbage. |
 | Leakproof small bottle | 1, about 10–15 ml | A clean screw-top sample bottle; double-bag for packing. |
-| Small pipette | 1 | Optional; a teaspoon also works. |
-| Printed Day 13 mission card | 1 folded card | Ordinary paper is fine. |
 | Lemon juice | A small amount | For one test sample; use tiny quantities and do not taste any samples. |
 | Baking soda | A small amount | For preparing another test sample; use tiny quantities and do not taste any samples. |
-| Water | A small amount | For diluting the test samples. |
 | Small clear cups | 3 | For the test samples. |
-| Teaspoon | 1 | For measuring and stirring. |
-| Strainer | 1 | For separating the cabbage from the indicator. |
-| Small pot or heat-safe bowl | 1 | Adult use for preparing the indicator. |
-| Washable tray | 1 | For containing spills. |
 
 ## What's inside the box?
 

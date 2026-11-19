@@ -30,9 +30,7 @@ Use a standard red LED and a resistor in series; do not use a loose coin-cell ba
 | Red 5 mm LED | 1 | Standard through-hole LED. |
 | 220-ohm resistor | 1 | Must be connected in series to limit current. |
 | Insulated alligator-clip leads | 2 | For temporary connections; do not let the clips touch each other. |
-| Printed Day 17 mission card | 1 folded card | Ordinary paper is fine. |
 | Insulating tape | A few small pieces | For securing or covering connections. |
-| Non-metal tray or clear table area | 1 | Keep the circuit dry and away from metal surfaces. |
 
 ## What's inside the box?
 
