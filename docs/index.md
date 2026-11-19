@@ -43,13 +43,13 @@ As individual activity pages are completed, they will include an **introduction*
 
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
-| 7 | Mon 7 Dec | **The Secret String Telephone** | Vibrations carry sound | 10–15 min |
-| 8 | Tue 8 Dec | **The Musical Water Glasses** | Pitch and acoustics | 10–15 min |
-| 9 | Wed 9 Dec | **The Pepper Escape** | Surface tension | 10–15 min |
-| 10 | Thu 10 Dec | **Walking Rainbow** | Capillary action and colour mixing | 10–15 min* |
-| 11 | Fri 11 Dec | **The Colour Detective** | Chromatography | 10–15 min |
-| 12 | Sat 12 Dec | **The Great Dissolving Race** | Dissolving, temperature and fair tests | 20–30 min |
-| 13 | Sun 13 Dec | **The Colour-Changing Potion Lab** | Acids, bases and indicators | 20–30 min |
+| 7 | Mon 7 Dec | **[The Secret String Telephone](activities/day-07.md)** | Vibrations carry sound | 10–15 min |
+| 8 | Tue 8 Dec | **[The Musical Water Glasses](activities/day-08.md)** | Pitch and acoustics | 10–15 min |
+| 9 | Wed 9 Dec | **[The Pepper Escape](activities/day-09.md)** | Surface tension | 10–15 min |
+| 10 | Thu 10 Dec | **[Walking Rainbow](activities/day-10.md)** | Capillary action and colour mixing | 10–15 min* |
+| 11 | Fri 11 Dec | **[The Colour Detective](activities/day-11.md)** | Chromatography | 10–15 min |
+| 12 | Sat 12 Dec | **[The Great Dissolving Race](activities/day-12.md)** | Dissolving, temperature and fair tests | 20–30 min |
+| 13 | Sun 13 Dec | **[The Colour-Changing Potion Lab](activities/day-13.md)** | Acids, bases and indicators | 20–30 min |
 
 **The connection:** Start with waves and vibrations, then investigate what water and other everyday substances can do.
 
@@ -99,4 +99,4 @@ These are **small experiments, not tests**. Invite children to make their own gu
 
 ### What is coming next?
 
-This is the project overview. The **[Day 1](activities/day-01.md)**, **[Day 2](activities/day-02.md)** and **[Day 3](activities/day-03.md)** activity pages are available now. The remaining activity pages will be added as their experiments are specified and checked. Each page explains what to buy, what to pack, what the child does, and what the adult needs to know.
+This is the project overview. Detailed activity pages are now available for Days 1–13; start with [Day 1](activities/day-01.md). The remaining activity pages will be added as their experiments are specified and checked. Each page explains what to buy, what to pack, what the child does, and what the adult needs to know.
