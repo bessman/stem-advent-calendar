@@ -21,7 +21,7 @@ By the end of this mission, the child can:
 
 ## Shopping list
 
-Reuse the Arduino Uno and most circuit parts from Days 17–20.
+Reuse the Arduino and most circuit parts from Days 17–20.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20.
 | Recycled cardboard panel | 1, about 10 × 15 cm | Use the Day 23 prototype or clean packaging. |
 | Printed Day 24 mission card | 1 folded card | Ordinary paper is fine. |
 
-**Household items supplied separately:** Arduino Uno, USB data cable and computer with Arduino IDE; mini breadboard, pushbutton and jumper wires from Day 20; red LED and 220-ohm resistor from Day 17; cardboard, pencil, tape and adult-handled scissors. Do not use the AA battery holder for this Arduino circuit.
+**Household items supplied separately:** Arduino, USB data cable and computer with Arduino IDE; mini breadboard, pushbutton and jumper wires from Day 20; red LED and 220-ohm resistor from Day 17; cardboard, pencil, tape and adult-handled scissors. Do not use the AA battery holder for this Arduino circuit.
 
 ## What's inside the 7 × 7 × 7 cm box?
 
@@ -38,7 +38,7 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20.
 - [ ] **One 220-ohm resistor** for the second LED.
 - [ ] **One folded Day 24 mission card** (below).
 
-**Packing:** Place the LED and resistor in a small parts packet with the folded card. Bring the Arduino, button, breadboard, saved LED parts, USB cable and cardboard separately; the Uno does not fit in the advent box.
+**Packing:** Place the LED and resistor in a small parts packet with the folded card. Bring the Arduino, button, breadboard, saved LED parts, USB cable and cardboard separately; the Arduino does not fit in the advent box.
 
 ## Child's mission card
 
@@ -86,10 +86,10 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20.
 
 ### Preparation (5–10 minutes before the activity)
 
-1. Bring out the Arduino Uno, USB data cable, computer, breadboard and pushbutton from Day 20, and the red LED/resistor assembly from Day 17. Keep the AA battery holder disconnected and out of the Arduino circuit.
+1. Bring out the Arduino, USB data cable, computer, breadboard and pushbutton from Day 20, and the red LED/resistor assembly from Day 17. Keep the AA battery holder disconnected and out of the Arduino circuit.
 2. Connect the second LED in series with its **own 220-ohm resistor**. An adult should check each resistor-to-LED connection before power is applied.
-3. Build the circuit with the Uno unplugged:
-   - Connect **GND** from the Uno to the breadboard's ground rail.
+3. Build the circuit with the Arduino unplugged:
+   - Connect **GND** from the Arduino to the breadboard's ground rail.
    - Connect the pushbutton across the breadboard's centre gap, with one side to **digital pin 2** and the other to **GND**.
    - Connect the first LED's resistor side to **digital pin 8** and its short leg to **GND**.
    - Connect the second LED's resistor side to **digital pin 9** and its short leg to **GND**.
@@ -102,7 +102,7 @@ Reuse the Arduino Uno and most circuit parts from Days 17–20.
 | --- | --- |
 | 0–5 min | Revisit the Day 23 plan and Day 22 Morse pattern. Agree on where the display and button will go. |
 | 5–15 min | With USB disconnected, build and check the button and two LED circuits. Confirm that each LED has its own 220-ohm resistor and both share GND. |
-| 15–25 min | Connect the Uno to the computer by USB, open the sketch below and upload it. The adult checks the board, port and wiring. |
+| 15–25 min | Connect the Arduino to the computer by USB, open the sketch below and upload it. The adult checks the board, port and wiring. |
 | 25–40 min | Press the button to send your child's name. Let the child observe and decode the pattern. Mount the LEDs in the cardboard and position the button so it can be reached. |
 | 40–55 min | Test the finished display from the receiver's position. Adjust the light openings or flash timing if needed. |
 | 55–60 min | Disconnect USB, collect loose parts and celebrate the working signal station. |

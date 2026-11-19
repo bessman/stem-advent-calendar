@@ -18,7 +18,7 @@ Each day's activity has two parts:
 
 As individual activity pages are completed, they will include an **introduction** (scientific field, learning goals, and links to earlier or later experiments), a **complete shopping list**, an **exact box inventory**, the **child's mission card**, and **additional adult instructions**.
 
-**Time and materials:** Weekday challenges take **10–15 minutes**. Weekend challenges on **5–6, 12–13, and 19–20 December** take **20–30 minutes**. The final mission on **24 December** takes **40–60 minutes**. Most activities use about **0–20 SEK worth of materials**; reusable items may cost more to buy upfront but can be used again. Ordinary household supplies and the existing Arduino Uno can be reused.
+**Time and materials:** Weekday challenges take **10–15 minutes**. Weekend challenges on **5–6, 12–13, and 19–20 December** take **20–30 minutes**. The final mission on **24 December** takes **40–60 minutes**. Most activities use about **0–20 SEK worth of materials**; reusable household items may cost more to buy upfront but are often already available. Three experiments require an Arduino, which costs around 100-300 SEK depending on model.
 
 [Print all 24 mission cards](print-cards.md){ .md-button .md-button--primary }
 
