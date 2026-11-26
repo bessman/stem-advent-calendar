@@ -2,7 +2,7 @@
 
 ![A balloon inflating above a bottle during a reaction](../images/experiments/day-06.svg){ .activity-illustration }
 
-**Field:** Chemistry · Reactions · Gases\
+**Field:** Chemistry · Reactions · Gases  
 **Time:** 20–30 minutes (Sunday 6 December 2026)  
 **Age group:** 6–9  
 **Progression:** On [Day 5](day-05.md), we tested how a paper bridge's shape affects its strength. Today we make a gas in a chemical reaction. On [Day 7](day-07.md), we will use a string to explore how vibrations carry sound.
