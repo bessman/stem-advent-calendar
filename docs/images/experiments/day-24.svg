@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300">
-  <rect width="640" height="300" rx="24" fill="#edf3ed"/>
-  <path d="M153 240V115l167-70 167 70v125z" fill="#d5a26b" stroke="#304e4a" stroke-width="7" stroke-linejoin="round"/>
-  <path d="M190 240v-98l130-55 130 55v98" fill="#f7edda" stroke="#304e4a" stroke-width="6" stroke-linejoin="round"/>
-  <path d="M220 240v-60h57v60M363 240v-60h57v60" fill="#83afa5" stroke="#304e4a" stroke-width="5"/>
-  <circle cx="320" cy="139" r="15" fill="#e87561" stroke="#304e4a" stroke-width="5"/>
-  <path d="M320 124V87m-70 39-18-30m158 30 18-30" stroke="#e5b749" stroke-width="7" stroke-linecap="round"/>
-  <path d="M295 263h50v17h-50z" fill="#dce8e2" stroke="#304e4a" stroke-width="5"/>
-  <circle cx="320" cy="271" r="5" fill="#e87561"/>
-  <path d="M106 252h428" stroke="#8da99e" stroke-width="6" stroke-linecap="round"/>
+  <rect width="640" height="300" rx="24" fill="#f5efe6"/>
+  <path d="M96 252h448" stroke="#8da99e" stroke-width="6" stroke-linecap="round"/>
+  <rect x="110" y="170" width="96" height="74" rx="22" fill="#e87b8f" fill-opacity="0.8" stroke="#304e4a" stroke-width="6"/>
+  <rect x="224" y="170" width="96" height="74" rx="22" fill="#f7f4ee" stroke="#304e4a" stroke-width="6"/>
+  <path d="M227 196h90" stroke="#304e4a" stroke-width="4"/>
+  <rect x="228" y="174" width="88" height="20" rx="14" fill="#f3c94a" fill-opacity="0.8"/>
+  <path d="M138 188q12-8 24 0" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <rect x="380" y="140" width="140" height="104" rx="8" fill="#459b83" stroke="#304e4a" stroke-width="6"/>
+  <path d="M450 140v104M380 186h140" stroke="#e6b956" stroke-width="10"/>
+  <path d="M450 136c-24-30-50-20-38 2zM450 136c24-30 50-20 38 2z" fill="#e6b956" stroke="#304e4a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M278 86v-34M262 74l-10-14M294 74l10-14" stroke="#a574b4" stroke-width="6" stroke-linecap="round"/>
+  <rect x="246" y="96" width="64" height="56" rx="6" fill="#b48ac4" stroke="#304e4a" stroke-width="5"/>
 </svg>

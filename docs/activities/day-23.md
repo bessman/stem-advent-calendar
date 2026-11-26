@@ -5,7 +5,7 @@
 **Field:** Chemistry · Solutions · Diffusion\
 **Time:** 10–15 minutes (Wednesday 23 December 2026)  
 **Age group:** 6–9  
-**Progression:** Today we use water to make a colourful pattern with Skittles. Tomorrow, we will build a Christmas Signal Station and send a light message.
+**Progression:** Today we use water to make a colourful pattern with Skittles. Tomorrow, we will make soap presents for Christmas.
 
 ## Introduction
 
@@ -111,6 +111,6 @@ The colourful outer coating contains sugar and food colouring. Water dissolves s
 - **The colours mix quickly:** Use less water and keep the plate level. Try spacing the sweets evenly around the rim.
 - **Extra challenge for older children:** Repeat with cool water and compare how quickly the colours spread. Keep the plate and arrangement the same.
 
-**Next experiment:** On [Day 24](day-24.md), we will build the Christmas Signal Station and send a name in light.
+**Next experiment:** On [Day 24](day-24.md), we will melt, colour and mould soap to give as Christmas presents.
 
 [← Back to the calendar](../index.md) · [← Day 22: The Secret Light Message](day-22.md)

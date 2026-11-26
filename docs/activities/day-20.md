@@ -1,143 +1,145 @@
-# Day 20 · The Magic Button
+# Day 20 · Slimy Slime Creatures
 
-![A push button controlling a light on a small circuit board](../images/experiments/day-20.svg){ .activity-illustration }
+![Colourful jelly animals and slime worms in a shallow bath](../images/experiments/day-20.svg){ .activity-illustration }
 
-**Field:** Technology · Programming · Inputs and outputs  
-**Time:** 20–30 minutes (Sunday 20 December 2026)  
+**Field:** Chemistry · Polymers · Gels  
+**Time:** 20–30 minutes, plus a slime liquid prepared the evening before (Sunday 20 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 19](day-19.md), we programmed an Arduino's built-in LED to blink. Today a pushbutton becomes an input that controls the light. Save the button, breadboard and jumper wires for the Christmas invention on Day 24.
+**Progression:** On [Day 19](day-19.md), a liquid turned into solid crystals. Today a thick, runny liquid made from seaweed turns into wobbly gel when it meets calcium. Tomorrow, we will model the Moon's phases with a ball and a lamp.
 
 ## Introduction
 
-How can an Arduino know that you pressed a button? Connect a pushbutton between an input pin and ground. The program checks the button and turns the built-in LED on while it is pressed.
+Can you make a liquid grow a skin? Sodium alginate, made from brown seaweed, makes water thick and gooey. When it touches a calcium chloride bath, it instantly turns into a soft, rubbery gel. Colour the slime liquid, fill animal moulds, and squeeze slimy worms straight into the bath.
 
 By the end of this mission, the child can:
 
-- Identify a button as an input and an LED as an output.
-- Observe how a program responds to a changing input.
-- Explain that the Arduino repeats the check in its program loop.
+- Observe a liquid changing into a gel when it meets a second solution.
+- Notice that the gel forms first where the two liquids touch.
+- Explain that long molecules linked together can trap water.
 
-**The big question:** How does the Arduino know when the button is pressed?
+**The big question:** What makes the runny liquid turn wobbly?
 
 ## Materials list
 
-The Arduino is already available. The pushbutton and breadboard will be reused on Day 24.
+The chemicals and equipment come from the Forskarfabriken **Slajmiga slajmdjur** kit. The amounts below use only part of the kit, so there is enough for several more sessions.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Mini solderless breadboard | 1 | A mini board is sufficient for the button. |
-| Breadboard-compatible momentary pushbutton | 1 | Normally open, four-leg tactile button. |
-| Male-to-male jumper wire | 5 | Insulated wires; use two today and save all five for Day 24. |
-| Arduino board | 1 | Reuse the Day 19 board; use its built-in LED. No external power supply, battery or LED is needed. |
-| USB data cable | 1 | Reuse the Day 19 cable. |
-| Computer with Arduino IDE installed | 1 | Reuse the computer from Day 19 for programming the board. |
+| Sodium alginate | About 2 g | From the kit (10 g in total). Roughly one level measuring spoon; follow the kit leaflet if it differs. |
+| Calcium chloride | About 10 g | From the kit (100 g in total). Roughly two level teaspoons. |
+| Animal moulds | 4 | From the kit. |
+| Colour solution (red, blue and yellow) | A few drops of each | From the kit. |
+| Glow-in-the-dark colour powder | A small pinch | From the kit. |
+| Bottle with pipette tip | 1 | From the kit, for filling moulds and making worms. |
+| Measuring spoon | 1 | From the kit. |
+| Safety glasses | 1 pair | From the kit. |
+| Water | About 400 ml | 100 ml for the slime liquid, 250 ml for the calcium bath and a little for rinsing. |
+| Jar with lid | 1, about 200 ml | For the slime liquid. |
+| Wide shallow bowl | 1 | For the calcium bath. |
+| Small cups | 3–4 | For mixing colours. |
+| Whisk or fork | 1 | For mixing the slime liquid. |
+| Spoon | 1 | For spooning calcium water over the moulds. |
+| Tray | 1 | Washable surface. |
 
 ## What's inside the box?
 
-- [ ] **One small solderless breadboard.**
-- [ ] **One momentary pushbutton**, packed separately.
-- [ ] **Five insulated jumper wires**, coiled loosely.
+- [ ] **One bottle with pipette tip.**
+- [ ] **Three small colour solutions** (red, blue and yellow).
+- [ ] **One sachet of glow-in-the-dark colour powder.**
+- [ ] **One measuring spoon.**
 - [ ] **One folded Day 20 mission card** (below).
+
+**Set out beside the box:** The jar of slime liquid and the bowl of calcium water prepared by an adult, the four animal moulds and the safety glasses.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🔘 DAY 20 — THE MAGIC BUTTON"
-    **Your mission:** Make a button control an Arduino light!
+!!! example "🐙 DAY 20 — SLIMY SLIME CREATURES"
+    **Your mission:** Turn a runny liquid into wobbly slime animals!
 
-    **You need:** Arduino, breadboard, button and wires.
+    **You need:** Slime liquid, calcium bath, colours, moulds, pipette bottle and safety glasses.
 
-    **1. Predict!** Press: what happens?
+    **1. Predict!** What will happen when the slime liquid meets the calcium bath?
 
-    **2. Connect!** With USB unplugged, place the button across the breadboard gap. Connect one side to pin 2, the other to GND.
+    **2. Colour!** Stir a few drops of colour into cups of slime liquid. Add glow powder to one.
 
-    **3. Program!** Upload the button program. Press and release. What does the light do?
+    **3. Mould!** Fill a mould, cover it with calcium water and wait 10 minutes.
 
-    **4. Discover!** Is the button an input or output? And the light?
+    **4. Squiggle!** Squeeze slime liquid into the bath. What forms?
 
-    ⭐ **Scientist's question:** What does the program keep checking?
+    ⭐ **Scientist's question:** What makes the liquid turn wobbly?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🔘 DAG 20 — DEN MAGISKA KNAPPEN"
-    **Ditt uppdrag:** Låt en knapp styra Arduino-lampan!
+!!! example "🐙 DAG 20 — SLAJMIGA SLAJMDJUR"
+    **Ditt uppdrag:** Förvandla en rinnig vätska till darriga slajmdjur!
 
-    **Du behöver:** Arduino, kopplingsplatta, knapp, sladdar och dator.
+    **Du behöver:** Slajmvätska, kalciumbad, färger, formar, pipettflaska och skyddsglasögon.
 
-    **1. Gissa!** Vad händer när du trycker och släpper?
+    **1. Gissa!** Vad händer när slajmvätskan möter kalciumbadet?
 
-    **2. Koppla!** Koppla ur USB. Sätt knappen över springan. Anslut ena sidan till pinne 2, den andra till GND.
+    **2. Färga!** Rör ner några droppar färg i koppar med slajmvätska. Lägg självlysande pulver i en.
 
-    **3. Programmera!** Ladda upp knapp-programmet. Tryck och släpp. Vad gör lampan?
+    **3. Forma!** Fyll en form, täck den med kalciumvatten och vänta 10 minuter.
 
-    **4. Upptäck!** Är knappen en inmatning eller utmatning? Och lampan?
+    **4. Spruta!** Spruta slajmvätska i badet. Vad bildas?
 
-    ⭐ **Forskarens fråga:** Vad kontrollerar programmet om och om igen?
+    ⭐ **Forskarens fråga:** Vad gör vätskan darrig?
 
 </div>
 </div>
 
 ## Setup notes
 
-### Preparation (before the activity)
+### Preparation (10 minutes the evening before, plus 5 minutes before the activity)
 
-1. Check that the Arduino IDE is installed and that the Arduino from Day 19 can connect over USB.
-2. Place the momentary pushbutton across the breadboard's centre gap. Connect one side of the button to **digital pin 2** and the other to **GND** with jumper wires. On a four-leg tactile button, the two legs on each side are internally connected; straddling the gap avoids connecting both wires to the same side.
-3. Pack the button, mini breadboard, two jumper wires and folded card. The Arduino, computer and USB cable stay outside the box.
+Read the kit leaflet first and follow its quantities if they differ from these steps.
+
+1. **The evening before:** Pour **100 ml room-temperature water** into the jar. While whisking hard, sprinkle in **about 2 g sodium alginate** a little at a time. Lumps are normal. Close the jar and leave it overnight (at least 3 hours) until the liquid is smooth, thick and clear. Stir once more.
+2. **Just before the activity:** Put on safety glasses. Pour **250 ml water** into the wide bowl and stir in **about 10 g calcium chloride** until dissolved. The water may get slightly warm. This is the calcium bath; keep it clearly separate from drinks.
+3. Cover the table with a tray. Set out the moulds, cups, spoon, pipette bottle and colours.
 
 ### How to help (20–30 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–4 min | Recall that an input gives information to the Arduino and an output does something. Ask which role the button and light might have. |
-| 4–8 min | With the Arduino unplugged, place the button across the breadboard gap and connect it between pin 2 and GND. Check the wiring before connecting USB. |
-| 8–15 min | Upload the sketch below. The built-in LED should turn on only while the button is held down. |
-| 15–22 min | Let the child press and release the button. Ask what the program reads and how the output changes. |
-| 22–30 min | Disconnect USB, then store the button, breadboard and jumper wires together for Day 24. |
+| 0–3 min | Put on safety glasses. Stir and lift the slime liquid with a spoon and look at how it flows. Ask what might happen in the calcium bath. |
+| 3–8 min | Divide the slime liquid between the cups. Add a drop or two of colour to each; try mixing red and yellow, or blue and yellow. Stir a small pinch of glow powder into one cup. |
+| 8–14 min | Fill the pipette bottle with one colour and squeeze it into a mould until full. Gently spoon calcium water over the top until the mould is covered. Repeat for each mould. Wait about 10 minutes. |
+| 14–20 min | While waiting, squeeze slime liquid slowly into the calcium bath to make worms, or drip it to make small pearls. Lift them out with the spoon and feel them. |
+| 20–26 min | Carefully ease the creatures out of the moulds and lay them in the calcium bath for 5 more minutes to firm up. Rinse in clean water. |
+| 26–30 min | Hold the glowing creature under a lamp for a minute, then look at it in a dark room. Wash hands and clean up. |
 
-```cpp
-const int buttonPin = 2;
-const int ledPin = LED_BUILTIN;
-
-void setup() {
-  pinMode(buttonPin, INPUT_PULLUP);
-  pinMode(ledPin, OUTPUT);
-}
-
-void loop() {
-  if (digitalRead(buttonPin) == LOW) {
-    digitalWrite(ledPin, HIGH);
-  } else {
-    digitalWrite(ledPin, LOW);
-  }
-}
-```
-
-**Keep it a fair comparison:** Keep the wiring and program the same while testing. Pressing the button changes the input; the program changes the output in response.
+**Keep it a fair test:** To compare firmness, take two worms from the bath at different times, such as after 1 minute and after 5 minutes, and gently squeeze them.
 
 ### Safety
 
-- Check the connections before plugging in USB. Use only the Arduino's USB connection; no wall adapters, AA packs or mains electricity.
-- Keep drinks and wet materials away from the board and computer. Disconnect USB before changing wires.
-- Do not connect the 5V pin directly to GND. The button goes between pin 2 and GND as described.
+- Wear safety glasses when handling calcium chloride, the calcium bath and the glow powder. Calcium chloride irritates eyes; rinse with plenty of water if it gets in.
+- **An adult prepares the calcium bath.** Do not taste or eat the slime, the liquids or the creatures. They are not food.
+- Open the glow powder sachet carefully and avoid breathing in the dust.
+- The colours can stain fabric and skin. Wash hands after the activity.
+- Put the slime creatures and worms in household waste, not down the sink. Pour the calcium bath down the sink with plenty of water.
 
 ### Why it works
 
-The button is an **input**: it changes the electrical signal the Arduino reads on pin 2. `INPUT_PULLUP` uses a small internal pull-up resistor, so the unpressed pin reads `HIGH`. Pressing the button connects pin 2 to ground, so it reads `LOW`.
+Sodium alginate is made of very long, chain-shaped molecules called **polymers**. In water, the chains slide past each other, so the liquid is thick but still flows.
 
-The `if` statement checks that reading each time `loop()` repeats. When the reading is `LOW`, the program sets the built-in LED output to `HIGH`; otherwise it sets it to `LOW`. The button is active-low, so a pressed button reads LOW.
+In the calcium bath, **calcium** links the chains together. Each calcium particle can hold on to two chains at once, like a hand holding two ropes. The chains join into a net that traps the water inside, and the liquid becomes a soft, wobbly **gel**.
+
+The calcium enters from the outside, so a skin forms first where the liquids meet. The longer the slime stays in the bath, the deeper the calcium reaches and the firmer it becomes. The same reaction makes popping bubble-tea pearls and some wound dressings. The glow powder stores energy from light and releases it slowly as a glow in the dark.
 
 ### Troubleshooting and optional extension
 
-- **The light stays on or never changes:** Check that the button straddles the breadboard gap and that its wires go to pin 2 and GND, not two legs on the same side.
-- **The IDE reports an upload error:** Check the selected Arduino board and port, as on Day 19.
-- **The light flickers when pressed:** Make sure the button is seated firmly. Some buttons may bounce briefly; the activity is to explore the input, not to count individual presses.
-- **Extra challenge for older children:** Change the program so the light is on when the button is not pressed. Ask what condition must change.
+- **The slime liquid is lumpy:** Whisk again and leave it longer. Lumps of dry powder dissolve with time.
+- **The creature falls apart when unmoulding:** Leave it covered with calcium water for longer, then ease it out slowly.
+- **The worms are too runny or too stiff:** Leave them in the bath for longer or shorter.
+- **The creatures shrink or dry out:** Store them in a closed box with a spoonful of water. They last a few days.
+- **Extra challenge for older children:** Drip slime liquid into plain water and into the calcium bath. Compare what happens and explain the difference.
 
-**Next experiment:** On [Day 21](day-21.md), we will model the Moon's phases using a ball and a lamp.
+**Next experiment:** On [Day 21](day-21.md), we will model the Moon's phases with a ball and a lamp.
 
-[← Back to the calendar](../index.md) · [← Day 19: Hello, Arduino!](day-19.md)
+[← Back to the calendar](../index.md) · [← Day 19: The Crystal Stalagmite](day-19.md)

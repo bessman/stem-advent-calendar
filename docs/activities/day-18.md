@@ -1,132 +1,184 @@
-# Day 18 · Invent a Switch
+# Day 18 · The Blink-Pattern Button
 
-![A paperclip switch opening and closing an LED circuit](../images/experiments/day-18.svg){ .activity-illustration }
+![A push button and a glowing LED connected to an Arduino board](../images/experiments/day-18.svg){ .activity-illustration }
 
-**Field:** Technology · Electricity · Circuits  
+**Field:** Technology · Programming · Inputs and outputs  
 **Time:** 10–15 minutes (Friday 18 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 17](day-17.md), we built a complete LED circuit with a two-AA battery pack and a current-limiting resistor. Today we add a paperclip switch that opens and closes the circuit. Save the LED, resistor and leads for Days 19–20 and the final invention.
+**Progression:** On [Day 17](day-17.md), a paperclip switch turned an LED on and off. Today the same LED is controlled by an Arduino, and a button tells the program to change to the next blink pattern. Tomorrow, we will switch from circuits to chemistry and grow a crystal tower.
 
 ## Introduction
 
-How can you make a light turn on only when you choose? Add a simple switch to yesterday's LED circuit. When a metal paperclip bridges two foil contacts, the loop closes and the LED lights; lift it away and the loop opens.
+What if a switch could do more than just on and off? Connect yesterday's LED and a pushbutton to an Arduino and upload a short program. Every press of the button makes the Arduino change to a new blink pattern: slow, fast, twinkle or lighthouse.
 
 By the end of this mission, the child can:
 
-- Identify a switch as a part that opens or closes a circuit.
-- Build and test a simple paperclip-and-foil switch.
-- Explain why the LED turns off when the switch contacts are separated.
+- Identify a button as an input and an LED as an output.
+- Recognize that a program is a set of instructions the Arduino repeats again and again.
+- Change a number in the program and predict how the blink pattern changes.
 
-**The big question:** How does a switch control whether current can flow?
+**The big question:** How does the Arduino know which blink pattern to show next?
 
 ## Materials list
 
-Reuse the Day 17 circuit parts. Only the small switch materials are additional.
+The Arduino is a reusable item that may already be available. Reuse the LED and resistor from Day 17.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Aluminium foil | 2 squares, about 2 × 2 cm | Ordinary kitchen foil, folded once for strength. |
-| Large steel paperclip | 1 | Use as a movable metal bridge between contacts. |
-| Insulated alligator-clip lead | 1 additional | Adds a lead so the switch can be inserted into the circuit. |
-| 2-AA battery holder with leads | 1 | Reuse the battery holder from Day 17; remove the batteries while changing the circuit. |
-| AA alkaline battery | 2 | Reuse the batteries from Day 17; remove them from the holder during setup. |
+| Arduino board | 1 | An Arduino Uno or compatible board with at least two GND pins. Not packed in the box. |
+| USB data cable | 1 | Must support data, not only charging, and fit the Arduino. |
+| Computer with Arduino IDE installed | 1 | For uploading the program. |
+| Mini solderless breadboard | 1 | A small board is enough. |
+| Breadboard-compatible momentary pushbutton | 1 | Normally open, four-leg tactile button. |
+| Male-to-male jumper wire | 4 | Insulated wires; one extra is a useful spare. |
 | Red 5 mm LED | 1 | Reuse the LED from Day 17, keeping its resistor connected in series. |
-| 220-ohm resistor | 1 | Reuse the resistor from Day 17, keeping it connected in series with the red LED. |
-| Insulated alligator-clip lead | 2 | Reuse the leads from Day 17. |
-| Thin cardboard | 1 small piece | For mounting the foil contacts. |
-| Insulating tape | A small piece | For securing the switch parts. |
+| 220-ohm resistor | 1 | Reuse the resistor from Day 17. Never connect the LED to the Arduino without it. |
 
 ## What's inside the box?
 
-- [ ] **Two foil squares**, about 2 × 2 cm each.
-- [ ] **One large steel paperclip.**
-- [ ] **One additional insulated alligator-clip lead.**
+- [ ] **One mini solderless breadboard.**
+- [ ] **One momentary pushbutton**, packed separately.
+- [ ] **Four insulated jumper wires**, coiled loosely.
 - [ ] **One folded Day 18 mission card** (below).
+
+**Reuse from Day 17:** Red LED with its 220-ohm resistor. **Supply separately:** Arduino, USB data cable and computer.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🔘 DAY 18 — INVENT A SWITCH"
-    **Your mission:** Make a foil switch!
+!!! example "🔘 DAY 18 — THE BLINK-PATTERN BUTTON"
+    **Your mission:** Program a button that changes how a light blinks!
 
-    **You need:** Day 17 circuit, foil and paperclip.
+    **You need:** Arduino, breadboard, button, wires, yesterday's LED and a computer.
 
-    **1. Predict!** What connects?
+    **1. Predict!** What will pressing the button tell the Arduino?
 
-    **2. Build!** Disconnect the battery. Tape foil squares to card with a gap; connect one to red wire, one to the LED circuit.
+    **2. Connect!** USB unplugged. Button to pin 2 and GND. LED to pin 8 and GND.
 
-    **3. Switch!** Bridge the foils with the paperclip and reconnect the battery. LED on? Lift the clip to switch it off.
+    **3. Program!** Upload the code. Press the button again and again. How many patterns are there?
 
-    **4. Improve!** Keep foils apart. Move the clip easily.
+    **4. Invent!** Change one number in the code, upload and find your new pattern.
 
-    ⭐ **Scientist's question:** What changes?
+    ⭐ **Scientist's question:** How does the Arduino remember which pattern comes next?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🔘 DAG 18 — UPPFINN EN STRÖMBRYTARE"
-    **Ditt uppdrag:** Bygg en folieströmbrytare!
+!!! example "🔘 DAG 18 — BLINKKNAPPEN"
+    **Ditt uppdrag:** Programmera en knapp som ändrar hur lampan blinkar!
 
-    **Du behöver:** Kretsen från dag 17, folie och gem.
+    **Du behöver:** Arduino, kopplingsplatta, knapp, sladdar, gårdagens LED och en dator.
 
-    **1. Gissa!** Vad kopplar gemet?
+    **1. Gissa!** Vad berättar knapptrycket för Arduino?
 
-    **2. Bygg!** Koppla bort batteriet. Lägg foliebitar på kartong med mellanrum. Koppla ena till röd sladd, andra till LED-kretsen.
+    **2. Koppla!** USB urkopplad. Knappen till pinne 2 och GND. LED-lampan till pinne 8 och GND.
 
-    **3. Byt läge!** Lägg gemet över båda bitarna och koppla in batteriet. Lyser LED? Lyft bort gemet för att släcka.
+    **3. Programmera!** Ladda upp koden. Tryck på knappen flera gånger. Hur många mönster finns det?
 
-    **4. Förbättra!** Håll foliebitar isär. Gör gemet lätt att flytta.
+    **4. Uppfinn!** Ändra ett tal i koden, ladda upp och hitta ditt nya mönster.
 
-    ⭐ **Forskarens fråga:** Vad ändrar strömbrytaren?
+    ⭐ **Forskarens fråga:** Hur vet Arduino vilket mönster som kommer härnäst?
 
 </div>
 </div>
 
 ## Setup notes
 
-### Preparation (3–5 minutes before opening)
+### Preparation (before the activity)
 
-1. Bring out the Day 17 circuit: two-AA holder, two cells, LED with its **220-ohm resistor in series**, and two clip leads. Remove both cells from the holder before changing any connections. Check the insulation and all components before use.
-2. Fold the two foil squares once and place them on a piece of card with a **5–8 mm gap**. Tape each square at one edge so it stays flat, but leave a clean metal area for a clip to grip.
-3. With both cells removed, use the extra clip lead to connect one foil pad to the holder's red wire. Use the Day 17 lead to connect the other pad to the free resistor leg. The remaining Day 17 lead connects the LED's short leg to the battery's black wire.
-4. Check that the foil pads do not touch and that the paperclip can bridge both. Do not connect the battery until the child is ready to test.
+1. Install the Arduino IDE ahead of time. Connect the Arduino, select the board and port, and test an upload of the sketch below so the session can focus on the circuit and the patterns.
+2. Disconnect USB. Check that the Day 17 LED/resistor joint is still insulated and that the free resistor leg and LED short leg are straight enough to push into the breadboard.
+3. Set out the Arduino, USB cable, computer, breadboard, button, jumper wires and LED on a dry, uncluttered table. Keep the AA battery holder away from today's circuit.
+
+### Wiring (USB unplugged)
+
+1. Push the button across the breadboard's **centre gap**.
+2. Connect **pin 2** to one button leg and **GND** to the **diagonally opposite** leg. Diagonal legs are always on different sides of the switch, so the button only connects them when pressed.
+3. Push the free **resistor leg** into one empty row and the LED's **short leg** into a different empty row. Nothing else may share those rows.
+4. Connect **pin 8** to the resistor row and a second **GND** pin to the LED short-leg row.
+
+**LED path:** Pin 8 → resistor → LED long leg → LED short leg → GND.
 
 ### How to help (10–15 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–2 min | Recall that a circuit needs a complete loop. Ask what might happen when the two foil pads are connected by metal. |
-| 2–6 min | With the battery disconnected, set up the foil pads and clip leads as a gap in the positive side of the Day 17 circuit. Check that the resistor remains in series. |
-| 6–9 min | Lay the paperclip across both foil pads. Check that the pads and loose clips are not touching elsewhere, then insert the two AA cells. Observe the LED. |
-| 9–12 min | Lift the paperclip to open the switch and turn the LED off; bridge the pads again to turn it on. Repeat a few times. |
-| 12–15 min | Disconnect the battery and collect the foil and paperclip. Store the clean circuit parts for later missions. |
+| 0–2 min | Recall Day 17: the paperclip opened and closed the loop. Today the Arduino will open and close the LED circuit, and the button gives it information. Ask which part is the input and which is the output. |
+| 2–6 min | With USB unplugged, build the circuit following the wiring steps. An adult checks every connection before USB is connected. |
+| 6–8 min | Connect USB and upload the sketch. The LED starts with a slow blink. |
+| 8–11 min | Press the button again and again. Count the patterns and give each one a name. |
+| 11–15 min | Change one number in `onTimes` or `offTimes`, upload and test the new pattern. Disconnect USB and store the parts. |
 
-**Circuit path with switch:** Battery red (+) → foil contact → paperclip switch → second foil contact → resistor → LED long leg → LED short leg → battery black (−). The switch must interrupt only one side of the loop, and the resistor must stay in series.
+```cpp
+const int buttonPin = 2;
+const int ledPin = 8;
+
+// Time on and time off (milliseconds) for each pattern.
+const int onTimes[]  = {1000, 200, 100, 1500};
+const int offTimes[] = {1000, 200, 900,  500};
+const int patternCount = 4;
+
+int pattern = 0;
+bool ledOn = false;
+bool wasPressed = false;
+unsigned long lastChange = 0;
+
+void setup() {
+  pinMode(buttonPin, INPUT_PULLUP);
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+  bool pressed = digitalRead(buttonPin) == LOW;
+  if (pressed != wasPressed) {
+    if (pressed) {
+      pattern = (pattern + 1) % patternCount;
+      ledOn = false;
+      lastChange = 0;
+    }
+    wasPressed = pressed;
+    delay(50);
+  }
+
+  unsigned long waitTime = ledOn ? onTimes[pattern] : offTimes[pattern];
+  if (millis() - lastChange >= waitTime) {
+    ledOn = !ledOn;
+    digitalWrite(ledPin, ledOn ? HIGH : LOW);
+    lastChange = millis();
+  }
+}
+```
+
+**Patterns:** 1 = slow blink, 2 = fast blink, 3 = twinkle, 4 = lighthouse. After the fourth pattern, the next press starts again at the first.
+
+**Keep it a fair comparison:** Change only one number between uploads, so you know which change made the difference. Keep every on and off time at **150 ms or more**.
 
 ### Safety
 
-- Use only the same **two-AA, approximately 3 V holder** and 220-ohm resistor from Day 17. Never connect the switch to mains electricity, a wall adapter or a USB port.
-- Reconnect the battery only when the foil pads are separate. Disconnect immediately if wires or batteries warm.
-- Do not let the battery's red and black wires or loose clips touch each other. Keep the circuit dry and disconnect batteries whenever it is not being tested.
-- Fold foil edges over before taping them down.
+- Check all wiring with USB unplugged. Use only the Arduino's USB connection for power; do not connect the AA battery holder, a wall adapter or mains electricity.
+- The LED must always have its **220-ohm resistor in series**. Never connect pin 8 or 5V directly to GND.
+- Keep drinks and wet materials away from the board and computer. Disconnect USB before moving wires.
+- Avoid very fast flashing: keep on and off times at 150 ms or longer, and stop if anyone finds the flashing uncomfortable.
 
 ### Why it works
 
-The paperclip is a conductor. When it touches both foil pads, it makes a bridge across the gap and completes the circuit, so current can flow through the resistor and LED. When the clip is lifted, the gap opens, current stops and the LED goes out.
+The button is an **input**. `INPUT_PULLUP` uses a resistor inside the Arduino so that pin 2 reads `HIGH` when the button is up. Pressing the button connects pin 2 to GND, so it reads `LOW`.
 
-This is the same basic idea used by many everyday switches. A switch does not create electricity; it controls whether there is a continuous path for current. The resistor still limits current to protect the LED.
+The LED is an **output**. `digitalWrite` turns pin 8 on (`HIGH`) or off (`LOW`), doing the same job as the paperclip on Day 17, but thousands of times faster and following instructions.
+
+The Arduino runs `loop()` over and over. Each time, it checks the button and the clock. The variable `pattern` is the Arduino's memory: it stores which pattern is active, and each new press adds one. The `%` sign makes the count wrap back to the first pattern after the last. The lists `onTimes` and `offTimes` hold how long the light stays on and off for each pattern. The short `delay(50)` ignores the tiny bounces a button makes when its metal contacts touch.
 
 ### Troubleshooting and optional extension
 
-- **The LED stays off:** Disconnect the battery. Check that the paperclip touches both foil pads, the pads connect to the correct circuit points, the LED is oriented correctly and the resistor remains in series.
-- **The LED stays on when the clip is lifted:** Check whether the foil pads or alligator clips are touching across the gap. Disconnect the battery and widen the gap.
-- **The foil tears or moves:** Fold it around the card and tape one edge, leaving the contact area exposed.
-- **A clip or battery feels warm:** Disconnect immediately and check for a short circuit before reconnecting.
-- **Extra challenge for older children:** Design a switch that uses a folded card flap to press the paperclip down. Keep the two contacts separate when the flap is raised.
+- **The LED never lights:** Unplug USB. Check that the long LED leg is joined to the resistor, the resistor is in the pin 8 row and the short leg is in the GND row.
+- **The pattern never changes:** Check that the button straddles the centre gap and that the wires go to diagonally opposite legs.
+- **The pattern changes by itself or skips:** A wire may be loose, or both button wires may be on the same internal side. Re-seat the button and use diagonal legs.
+- **Upload fails:** Check the board and port selection and that the USB cable supports data.
+- **Extra challenge for older children:** Add a fifth pattern: put a new number at the end of both lists and change `patternCount` to 5.
 
-**Next experiment:** On [Day 19](day-19.md), we will use an Arduino to make a light blink with code.
+**Next experiment:** On [Day 19](day-19.md), we will turn a clear, cool liquid into a crystal tower in seconds.
 
-[← Back to the calendar](../index.md) · [← Day 17: Light Up an LED!](day-17.md)
+[← Back to the calendar](../index.md) · [← Day 17: Light It, Switch It!](day-17.md)

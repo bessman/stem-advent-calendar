@@ -18,7 +18,7 @@ Each day's activity has two parts:
 
 Each activity page includes an **introduction** (scientific field, learning goals, and links to earlier or later experiments), a **complete shopping list**, an **exact box inventory**, the **mission card**, and **setup notes**.
 
-**Time and materials:** Weekday challenges take **10–15 minutes**. Weekend challenges on **5–6, 12–13, and 19–20 December** take **20–30 minutes**. The final mission on **24 December** takes **40–60 minutes**. Most activities use about **0–20 SEK worth of materials**; reusable household items may cost more to buy upfront but are often already available. Three experiments require an Arduino, which costs around 100-300 SEK depending on model.
+**Time and materials:** Weekday challenges take **10–15 minutes**. Weekend challenges on **5–6, 12–13, and 19–20 December** take **20–30 minutes**. The final mission on **24 December** takes **40–60 minutes**. Most activities use about **0–20 SEK worth of materials**; reusable household items may cost more to buy upfront but are often already available. One experiment (Day 18) requires an Arduino, which costs around 100-300 SEK depending on model. Days 19, 20 and 24 use materials from Forskarfabriken's **Kristallkemi**, **Slajmiga slajmdjur** and **Tvålfabriken** experiment kits.
 
 [Print all 24 mission cards](print-cards.md){ .md-button .md-button--primary }
 
@@ -66,38 +66,40 @@ Each activity page includes an **introduction** (scientific field, learning goal
 | 14 | Mon 14 Dec | **[The Liquid Stack Lab](activities/day-14.md)** | Density and mixtures | 10–15 min |
 | 15 | Tue 15 Dec | **[The Invisible Candle Snuffer](activities/day-15.md)** | Carbon dioxide and combustion | 10–15 min |
 | 16 | Wed 16 Dec | **[The Invisible Magnet Maze](activities/day-16.md)** | Magnetic forces | 10–15 min |
-| 17 | Thu 17 Dec | **[Light Up an LED!](activities/day-17.md)** | Simple electrical circuits | 10–15 min |
-| 18 | Fri 18 Dec | **[Invent a Switch](activities/day-18.md)** | Opening and closing a circuit | 10–15 min |
+| 17 | Thu 17 Dec | **[Light It, Switch It!](activities/day-17.md)** | Circuits and switches | 10–15 min |
+| 18 | Fri 18 Dec | **[The Blink-Pattern Button](activities/day-18.md)** | Inputs, outputs and code | 10–15 min |
 
-**The connection:** Investigate liquids, gases and magnetic forces, then keep the circuit parts from Days 17–18 for the inventor missions.
+**The connection:** Investigate liquids, gases and magnetic forces, then build an LED circuit with a switch and let an Arduino control the same LED.
 
-### Week 4 · The Inventor's Workshop
+### Week 4 · The Christmas Workshop
 
-*19–24 December · Code, circuits and a Christmas invention*
+*19–24 December · Crystals, gels, space, codes and homemade gifts*
 
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
-| 19 | Sat 19 Dec | **[Hello, Arduino!](activities/day-19.md)** | Make a light blink with code | 20–30 min |
-| 20 | Sun 20 Dec | **[The Magic Button](activities/day-20.md)** | Inputs, outputs and logic | 20–30 min |
+| 19 | Sat 19 Dec | **[The Crystal Stalagmite](activities/day-19.md)** | Supersaturated solutions and crystals | 20–30 min* |
+| 20 | Sun 20 Dec | **[Slimy Slime Creatures](activities/day-20.md)** | Polymers and gels | 20–30 min* |
 | 21 | Mon 21 Dec | **[The Moon's Secret Shapes](activities/day-21.md)** | Model the Moon's phases | 10–15 min |
 | 22 | Tue 22 Dec | **[The Secret Light Message](activities/day-22.md)** | Encode and decode flashes | 10–15 min |
 | 23 | Wed 23 Dec | **[The Skittles Rainbow Painting](activities/day-23.md)** | Dissolving, diffusion and colour | 10–15 min |
-| 24 | Thu 24 Dec | **[The Grand Christmas Invention!](activities/day-24.md)** | Combine a button, lights and code | 40–60 min |
+| 24 | Thu 24 Dec | **[The Christmas Soap Factory](activities/day-24.md)** | Melting, mixing and moulding | 40–60 min |
 
-**The connection:** Earlier circuit and Morse-code skills come together in a final **Christmas Signal Station** on Day 24. Day 23 adds one last colourful chemistry investigation before the build.
+**The connection:** Turn liquids into crystals and gels, look up at the Moon, send light messages and finish by making soap presents for Christmas.
+
+*Days 19 and 20 need an adult to prepare a solution in advance: about an hour before for Day 19, the evening before for Day 20.*
 
 ## Three discoveries that continue across days
 
 1. **Build, test, improve (Days 2–5).** Ask questions about forces and shapes, then compare flat and folded bridge designs.
-2. **Explore everyday materials (Days 8–14).** Compare liquids, surface effects, water movement, dissolving and colour-changing reactions.
-3. **Build an invention (Days 17–20 and 22–24).** Learn an LED circuit, a switch, a simple program and a light code before combining them into a final creation.
+2. **Explore and transform materials (Days 8–14, 19–20 and 23–24).** Compare liquids, surface effects, water movement and dissolving, then turn liquids into crystals, gels and soap.
+3. **Circuits and code (Days 17–18).** Build an LED circuit with a switch, then let an Arduino and a button control the same LED.
 
 ## A note to grown-ups
 
 These are **small experiments, not tests**. Invite children to make their own guesses and describe what they notice. If the result is surprising, try changing one thing and testing again.
 
 !!! warning "Safety comes first"
-    Check the setup notes and materials **before each activity**. Use the specified low-voltage batteries and magnets; avoid loose coin-cell batteries and strong magnets. Keep circuits disconnected while wiring, never connect them to mains electricity, and keep liquids away from electronics. Use a washable surface for messy experiments.
+    Check the setup notes and materials **before each activity**. Use the specified low-voltage batteries and magnets; avoid loose coin-cell batteries and strong magnets. Keep circuits disconnected while wiring, never connect them to mains electricity, and keep liquids away from electronics. Use a washable surface for messy experiments. On chemistry kit days, wear the kit's safety glasses and let an adult handle all heating and hot liquids.
 
 ### What is coming next?
 

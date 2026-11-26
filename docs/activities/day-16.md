@@ -114,6 +114,6 @@ Not every metal is magnetic. Many coins contain metals that are not strongly att
 - **The magnet will not guide through the maze:** Make the path wider and use a smooth tabletop. Avoid thick books or stacked paper between the magnet and clip.
 - **Extra challenge for older children:** Test a paperclip, steel spoon, aluminium foil and plastic object. Make a prediction before each test and sort by what the magnet actually attracts.
 
-**Next experiment:** On [Day 17](day-17.md), we will use a battery, resistor and LED to build a simple circuit.
+**Next experiment:** On [Day 17](day-17.md), we will use a battery, resistor and LED to build a simple circuit with a switch.
 
 [← Back to the calendar](../index.md) · [← Day 15: The Invisible Candle Snuffer](day-15.md)

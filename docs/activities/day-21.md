@@ -5,7 +5,7 @@
 **Field:** Astronomy · Light · Shadows\
 **Time:** 10–15 minutes (Monday 21 December 2026)\
 **Age group:** 6–9  
-**Progression:** On [Day 20](day-20.md), we explored how an Arduino responds to a button. Today we model how the Moon's phases appear as it orbits Earth. Tomorrow, we will use light flashes to send a secret message.
+**Progression:** On [Day 20](day-20.md), we turned a runny liquid into wobbly slime creatures. Today we model how the Moon's phases appear as it orbits Earth. Tomorrow, we will use light flashes to send a secret message.
 
 ## Introduction
 
@@ -116,4 +116,4 @@ The Moon does not make its own visible light, and it does not change shape each 
 
 **Next experiment:** On [Day 22](day-22.md), we will encode and decode a message using short and long light flashes.
 
-[← Back to the calendar](../index.md) · [← Day 20: The Magic Button](day-20.md)
+[← Back to the calendar](../index.md) · [← Day 20: Slimy Slime Creatures](day-20.md)

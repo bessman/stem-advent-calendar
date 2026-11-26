@@ -1,134 +1,138 @@
-# Day 19 · Hello, Arduino!
+# Day 19 · The Crystal Stalagmite
 
-![An Arduino-style board blinking an LED](../images/experiments/day-19.svg){ .activity-illustration }
+![A crystal tower growing in a dish as liquid is poured onto it](../images/experiments/day-19.svg){ .activity-illustration }
 
-**Field:** Technology · Programming · Electronics  
-**Time:** 20–30 minutes (Saturday 19 December 2026)  
+**Field:** Chemistry · Crystals · Solutions  
+**Time:** 20–30 minutes, plus about 1 hour of adult preparation and cooling beforehand (Saturday 19 December 2026)  
 **Age group:** 6–9  
-**Progression:** Days 17–18 introduced an LED circuit and a switch. Today we use an Arduino and a short program to blink its built-in light. Tomorrow, we will make a button control a light. Keep the saved LED parts for the final invention.
+**Progression:** On [Day 18](day-18.md), a button and a program changed how a light blinked. Today we turn from circuits to chemistry: a clear, cool liquid becomes a solid crystal tower the moment it touches a crystal. Tomorrow, another liquid will turn into wobbly slime creatures.
 
 ## Introduction
 
-Can a computer board follow instructions to make a light blink? Connect the Arduino to a computer and upload a short program. The board's built-in LED will turn on and off in a repeating pattern.
+Can a liquid wait for a signal before it turns solid? Sodium acetate dissolves in a tiny amount of hot water. When the solution cools slowly and undisturbed, it holds more dissolved substance than it normally could. Pour it onto a few seed crystals, and it crystallizes so fast that a tower, like a cave stalagmite, grows where the liquid lands.
 
 By the end of this mission, the child can:
 
-- Recognize that a program is a set of instructions for a computer.
-- Upload a program that turns a light on and off.
-- Change a time value and observe how the blink pattern changes.
+- Observe a supersaturated solution crystallizing when it touches a seed crystal.
+- Build a crystal tower by pouring slowly onto the same spot.
+- Notice that crystallization releases heat.
 
-**The big question:** How does the Arduino know when to turn its light on and off?
+**The big question:** Why does the liquid stay liquid until it touches a crystal?
 
 ## Materials list
 
-The Arduino is already available. Reuse its compatible USB data cable.
+The chemicals and equipment come from the Forskarfabriken **Kristallkemi** kit. Save the second bag of sodium acetate for a repeat, and the alum and ammonium dihydrogen phosphate for the optional extension.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| USB data cable | 1 | Reuse a data-capable cable compatible with the supplied Arduino. |
-| Arduino board | 1 | Use its built-in LED; no external wiring or battery pack is needed. |
-| Computer with Arduino IDE installed | 1 | For programming the board. |
+| Sodium acetate trihydrate | 1 bag (60 g) | From the Kristallkemi kit, which contains two bags. Save a pinch as seed crystals before heating. |
+| Petri dish | 1 | From the kit. The stalagmite is built in the dish. |
+| Measuring beaker (50 ml) | 1 | From the kit, for measuring the water. |
+| Measuring spoon | 1 | From the kit, for stirring and handling crystals. |
+| Safety glasses | 1 pair | From the kit. |
+| Water | About 10 ml | Ordinary tap water. |
+| Heat-resistant glass jar | 1, about 100–200 ml | A clean, dry jam jar or glass. Microwave-safe if using a microwave. |
+| Saucepan | 1 | For a hot-water bath. A microwave can be used instead. |
+| Foil or cling film | 1 small piece | Covers the jar while it cools. |
+| Small sealable bag | 1 | For the seed crystals. |
+| Tray or plate | 1 | Washable surface under the petri dish. |
 
 ## What's inside the box?
 
-- [ ] **One USB data cable** compatible with the supplied Arduino.
+- [ ] **One small sealed bag with a pinch of seed crystals** (dry sodium acetate saved from the kit bag).
 - [ ] **One folded Day 19 mission card** (below).
+
+**Set out beside the box:** The jar of cooled crystal liquid prepared by an adult, the petri dish and the safety glasses.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🤖 DAY 19 — HELLO, ARDUINO!"
-    **Your mission:** Teach Arduino to blink its little light!
+!!! example "💎 DAY 19 — THE CRYSTAL STALAGMITE"
+    **Your mission:** Build a crystal tower in seconds!
 
-    **You need:** Arduino, USB cable and computer.
+    **You need:** Cooled crystal liquid, seed crystals, petri dish and safety glasses.
 
-    **1. Predict!** What will the board do with a program?
+    **1. Predict!** What will happen when the liquid touches a crystal?
 
-    **2. Connect!** Connect Arduino and open the blink program.
+    **2. Seed!** Put on the glasses. Sprinkle a few seed crystals in the middle of the dish.
 
-    **3. Upload!** Select the board and upload. Watch the light blink!
+    **3. Pour!** Pour the liquid very slowly onto the crystals. Watch the tower grow!
 
-    **4. Change!** Find the wait-time number. Make it bigger or smaller, then upload again.
+    **4. Feel!** Gently touch the side of the tower. Warm or cold?
 
-    ⭐ **Scientist's question:** What turns the light on and off?
+    ⭐ **Scientist's question:** Why did the liquid wait for a crystal before turning solid?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🤖 DAG 19 — HEJ, ARDUINO!"
-    **Ditt uppdrag:** Lär Arduino att blinka med sin lampa!
+!!! example "💎 DAG 19 — KRISTALLSTALAGMITEN"
+    **Ditt uppdrag:** Bygg ett kristalltorn på några sekunder!
 
-    **Du behöver:** Arduino, USB-sladd och dator.
+    **Du behöver:** Avsvalnad kristallvätska, startkristaller, petriskål och skyddsglasögon.
 
-    **1. Gissa!** Vad gör kortet med ett program?
+    **1. Gissa!** Vad händer när vätskan rör vid en kristall?
 
-    **2. Anslut!** Anslut Arduino och öppna blinkprogrammet.
+    **2. Så!** Ta på glasögonen. Strö några startkristaller mitt i skålen.
 
-    **3. Ladda upp!** Välj kortet och ladda upp. Titta när lampan blinkar!
+    **3. Häll!** Häll vätskan väldigt långsamt på kristallerna. Se tornet växa!
 
-    **4. Ändra!** Hitta väntetiden. Ändra talet och ladda upp igen.
+    **4. Känn!** Rör försiktigt vid tornets sida. Varmt eller kallt?
 
-    ⭐ **Forskarens fråga:** Vad tänder och släcker lampan?
+    ⭐ **Forskarens fråga:** Varför väntade vätskan på en kristall innan den blev fast?
 
 </div>
 </div>
 
 ## Setup notes
 
-### Preparation (before the activity)
+### Preparation (about 1–2 hours before, or the evening before)
 
-1. Install the Arduino IDE and check that the USB cable supports data, not just charging. Open the IDE before the session if setup time is limited.
-2. Set out the Arduino and the USB cable from the box on a dry, uncluttered table. Do not connect any external circuit or battery pack today.
-3. Pack the USB data cable and folded mission card. The existing Arduino is a household item and is excluded from the per-activity budget.
+Read the kit leaflet first and follow its advice if it differs from these steps.
+
+1. Put on safety glasses. Open one 60 g bag of sodium acetate and put **a pinch (about ¼ teaspoon)** into the small bag. Seal it and pack it in the box. Wash and dry your hands; a single stray crystal can set off the liquid too early.
+2. Tip the rest of the bag into the clean glass jar and add **about 10 ml water**, measured in the kit's beaker.
+3. Stand the jar in a saucepan of hot, steaming water and stir with the kit spoon until **every crystal has dissolved** and the liquid is completely clear, about 10–15 minutes. Alternatively, microwave the jar in 15–20 second bursts, stirring between bursts; do not let it boil over. Rinse any crystals on the jar walls down with a few drops of hot water.
+4. Cover the jar with foil or cling film and leave it **undisturbed** to cool to room temperature, about 1 hour, until the glass no longer feels warm. Do not stir, shake or open it. Keep the seed crystals away from the jar.
 
 ### How to help (20–30 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–4 min | Explain that a program is a list of instructions. Find the small built-in LED marked **L** on most Arduino boards. |
-| 4–9 min | Connect the Arduino to the computer with USB. In the Arduino IDE, select the Arduino board and the correct port. |
-| 9–16 min | Open or enter the sketch below. Read the instructions together: set the LED pin as an output, turn it on, wait, turn it off, wait. |
-| 16–22 min | Upload the sketch and observe the built-in LED. If it does not blink, check the board/port selection and upload status. |
-| 22–30 min | Change both `delay(500)` values to `delay(150)` or `delay(1000)`, upload again and compare the speed. |
+| 0–3 min | Show the clear liquid. Feel that the jar is cool. Explain that it is full of hidden crystal material that is waiting to become solid. Ask for a prediction. |
+| 3–6 min | Put on safety glasses. Place the petri dish on a tray and sprinkle a few seed crystals in a small heap in the middle. |
+| 6–14 min | Pour the liquid **very slowly** in a thin stream onto the top of the heap. The liquid crystallizes on contact and the tower grows upward. Keep about a quarter of the liquid in the jar. |
+| 14–18 min | Gently touch the side of the tower and the dish. Compare with the cool jar. |
+| 18–24 min | Drop one seed crystal into the liquid left in the jar. Watch the crystals spread through the whole jar from that point. |
+| 24–30 min | Look at the crystals closely and talk about what happened. Wash hands, the dish and the work surface. |
 
-```cpp
-const int ledPin = LED_BUILTIN;
-
-void setup() {
-  pinMode(ledPin, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(ledPin, HIGH);
-  delay(500);
-  digitalWrite(ledPin, LOW);
-  delay(500);
-}
-```
-
-**Keep it a fair comparison:** Change only the delay number between uploads. The board and program structure stay the same.
+**Repeat it another day:** Put the crystals back in the jar, add a few drops of water and heat until clear again. The same sodium acetate can be reused many times.
 
 ### Safety
 
-- Use only the computer's USB connection to power the Arduino. Do not connect the project to mains electricity, a wall adapter or the AA battery holder.
-- Keep drinks and wet materials away from the board. Disconnect USB before moving or packing it.
+- **An adult handles all heating** and the hot jar. The hot liquid can cause burns; let the jar cool fully before the child handles it.
+- Wear the safety glasses when pouring and handling crystals. If crystals or liquid get into eyes, rinse with plenty of water.
+- The crystals can become **warm (up to about 50 °C)**. Touch the tower gently and briefly at first.
+- Do not taste or eat the crystals or liquid. Wash hands afterwards.
+- To dispose of the crystals, dissolve them in plenty of water and pour them down the sink.
 
 ### Why it works
 
-The Arduino runs the instructions inside `loop()` again and again. `digitalWrite` sets the built-in LED pin to `HIGH` (on) or `LOW` (off). `delay(500)` pauses for 500 milliseconds, or half a second, before the next instruction.
+Sodium acetate dissolves much better in hot water than in cold water. When the hot solution cools slowly without being disturbed, it keeps more sodium acetate dissolved than cold water normally can. This is called a **supersaturated** solution. It is unstable but has nowhere to start forming a crystal.
 
-Because the board repeats the loop, the light blinks continuously. A smaller delay makes each part of the pattern shorter; a larger delay makes the blink slower. The pin name `LED_BUILTIN` helps the same sketch work on Arduino boards that label the built-in LED differently.
+A **seed crystal** gives the dissolved particles a pattern to copy. As soon as the liquid touches it, the particles lock onto the crystal one layer after another, and the crystal grows very quickly. Pouring slowly onto the same spot builds a tower. In real caves, stalagmites grow upward in the same way as dripping water leaves minerals behind, but over thousands of years instead of seconds.
+
+When the crystals form, they release the heat energy that was used to dissolve them. Reusable hand warmers use the same chemical: clicking a small metal disc starts the crystals forming, and the pad gets warm.
 
 ### Troubleshooting and optional extension
 
-- **The IDE cannot find the board:** Check the USB cable, select the Arduino model and choose the port that appears when the board is connected. Some USB cables only charge.
-- **Upload fails:** Check the selected board and port, close any other program using the port, then try again.
-- **The LED does not blink after upload:** Look for the small **L** LED near the USB connector; some Arduino-compatible boards label it differently. Upload the sketch again and check for a success message.
-- **Extra challenge for older children:** Replace both delay values with different numbers. Predict the pattern before uploading and explain the result.
+- **The liquid crystallizes in the jar before pouring:** A crystal or dust got in, or not everything dissolved. Reheat until fully clear, wipe the rim and cool covered and undisturbed.
+- **The liquid spreads as a puddle instead of building a tower:** Pour more slowly onto the top of the heap. If it still stays runny, there is too much water: reheat the jar uncovered for a few minutes to evaporate some.
+- **Nothing happens when poured:** Add a few more seed crystals on top or touch the liquid with a crystal on the spoon.
+- **Extra challenge for older children:** Use the kit's alum or ammonium dihydrogen phosphate, the colour tablet and the crystal cave wall to grow slow crystals over several days, following the kit leaflet. Compare the shape and size of fast and slow crystals.
 
-**Next experiment:** On [Day 20](day-20.md), a button will control a light using an input and an output.
+**Next experiment:** On [Day 20](day-20.md), a runny liquid will turn into wobbly slime creatures when it meets calcium.
 
-[← Back to the calendar](../index.md) · [← Day 18: Invent a Switch](day-18.md)
+[← Back to the calendar](../index.md) · [← Day 18: The Blink-Pattern Button](day-18.md)

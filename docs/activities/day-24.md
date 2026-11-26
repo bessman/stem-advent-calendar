@@ -1,196 +1,145 @@
-# Day 24 · The Grand Christmas Invention
+# Day 24 · The Christmas Soap Factory
 
-![A cardboard Christmas signal station with a button and two glowing LEDs](../images/experiments/day-24.svg){ .activity-illustration }
+![Coloured soaps in moulds next to an open gift box](../images/experiments/day-24.svg){ .activity-illustration }
 
-**Field:** Engineering · Programming · Electronics  
+**Field:** Chemistry · States of matter · Mixtures  
 **Time:** 40–60 minutes (Thursday 24 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 22](day-22.md), we practised Morse code with light. Today we combine the circuit, button and programming skills from Days 17–20 to build a Christmas Signal Station that flashes a name. We will plan, prototype and test the display as one final mission.
+**Progression:** On [Day 23](day-23.md), colours dissolved and spread through water. Today we melt soap, mix in colour and scent, and mould three soaps to give away as Christmas presents.
 
 ## Introduction
 
-Can you build an invention that sends a message when someone presses a button? Plan a simple cardboard display, connect two LEDs and a button to an Arduino, then upload a program that flashes a name in Morse code.
+Can you make a Christmas present with chemistry? Melt a solid soap base into a liquid, colour and scent it, and pour it into moulds. As it cools, it turns solid again, ready to unmould and pack in a gift box.
 
 By the end of this mission, the child can:
 
-- Plan and build a simple cardboard display around a working circuit.
-- Combine a button input, a program and LED outputs.
-- Explain how short and long flashes encode a message.
+- Observe a solid melting into a liquid and turning solid again as it cools.
+- Mix colours and scent into the liquid soap and predict the result.
+- Explain how soap helps water wash away grease and dirt.
 
-**The big question:** How do the button, program and lights work together to send a message?
+**The big question:** Is melted soap still soap?
 
 ## Materials list
 
-Reuse the Arduino and most circuit parts from Days 17–20.
+The soap materials come from the Forskarfabriken **Tvålfabriken** kit.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Green or other colour 5 mm LED | 1 | New second signal light. |
-| 220-ohm resistor | 1 additional | New; connect in series with the second LED. |
-| Thin cardboard | 1 panel, about 10 × 15 cm | Use clean, uncoated packaging. |
-| Red 5 mm LED | 1 | Reuse the LED from Day 17, keeping its resistor connected in series. |
-| 220-ohm resistor | 1 | Reuse the resistor from Day 17 for the red LED. |
-| Breadboard-compatible momentary pushbutton | 1 | Reuse the pushbutton from Day 20. |
-| Mini solderless breadboard | 1 | Reuse the breadboard from Day 20. |
-| Male-to-male jumper wire | 5 | Reuse the wires from Day 20. |
-| Arduino board | 1 | Reuse the board from Days 19–20. Do not use an external battery pack. |
-| USB data cable | 1 | Reuse the cable from Day 19. |
-| Computer with Arduino IDE installed | 1 | Reuse the computer from Day 19. |
-| Adhesive tape | A small amount | Child-safe tape for the cardboard display. |
+| Clear melt-and-pour soap base | 150 g | From the kit. |
+| White melt-and-pour soap base | 50 g | From the kit. |
+| Soap colour (red, blue and yellow) | A tiny amount of each | From the kit (3 g of each). A little goes a long way. |
+| Jasmine-scented essential oil | 2–3 drops per soap | From the kit (5 ml). |
+| Soap moulds | 3 | From the kit. |
+| Plastic melting beaker (100 ml) | 1 | From the kit. |
+| Wooden stirring stick | 1 | From the kit. |
+| Gift box | 3 | From the kit. |
+| Safety glasses | 2 pairs | From the kit; one for the child and one for the adult. |
+| Knife and chopping board | 1 each | Adult only, for cutting the soap base into cubes. |
+| Microwave or saucepan | 1 | For melting the soap base; follow the kit leaflet. |
+| Oven glove or folded tea towel | 1 | For holding the warm beaker. |
+| Kitchen paper | A few sheets | For drips and wiping the beaker between colours. |
 
 ## What's inside the box?
 
-- [ ] **One second LED** in a different colour.
-- [ ] **One additional 220-ohm resistor.**
-- [ ] **One folded Day 24 mission card.**
+- [ ] **Three small soap colours** (red, blue and yellow).
+- [ ] **One small bottle of jasmine-scented essential oil.**
+- [ ] **One wooden stirring stick.**
+- [ ] **One folded Day 24 mission card** (below).
 
-**Reuse from earlier days:** Red LED and resistor from Day 17; Arduino, USB cable and computer from Day 19; button, breadboard and jumper wires from Day 20.
-
-**Household items to supply separately:** Cardboard, adhesive tape and scissors.
+**Set out beside the box:** The soap bases cut into cubes, the moulds, the melting beaker, the gift boxes and both pairs of safety glasses.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🎄 DAY 24 — THE GRAND CHRISTMAS INVENTION"
-    **Your mission:** Build a station that flashes a name!
+!!! example "🎁 DAY 24 — THE CHRISTMAS SOAP FACTORY"
+    **Your mission:** Make soap presents for Christmas!
 
-    **You need:** Arduino, button, breadboard, two LEDs, resistors and cardboard.
+    **You need:** Soap base, colours, scent, moulds, stirring stick, gift boxes and safety glasses.
 
-    **1. Plan!** Sketch a display with two lights and an easy-to-reach button.
+    **1. Plan!** Who gets a soap? Choose a colour and shape for each.
 
-    **2. Build!** Make the cardboard front. Keep the Arduino and wires uncovered.
+    **2. Mix!** When an adult has melted the soap, stir in a tiny bit of colour and 2 drops of scent.
 
-    **3. Connect!** With USB unplugged, connect the button and LEDs as shown by your adult.
+    **3. Pour!** Fill a mould slowly. Try a white layer and a clear layer!
 
-    **4. Program and test!** Upload the name code, press the button and improve your display.
+    **4. Wait and wrap!** When the soap is hard, pop it out and put it in a gift box.
 
-    ⭐ **Inventor's question:** How do the flashes spell a name?
+    ⭐ **Scientist's question:** Is melted soap still soap?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🎄 DAG 24 — DEN STORA JULUPPFINNINGEN"
-    **Ditt uppdrag:** Bygg en station som blinkar ett namn!
+!!! example "🎁 DAG 24 — JULENS TVÅLFABRIK"
+    **Ditt uppdrag:** Gör tvålar som julklappar!
 
-    **Du behöver:** Arduino, knapp, kopplingsplatta, två LED-lampor, motstånd och kartong.
+    **Du behöver:** Tvålbas, färger, doft, formar, träpinne, presentlådor och skyddsglasögon.
 
-    **1. Planera!** Rita en display med två lampor och en knapp som är lätt att nå.
+    **1. Planera!** Vem ska få en tvål? Välj färg och form till varje.
 
-    **2. Bygg!** Gör en framsida av kartong. Täck inte över Arduino eller sladdar.
+    **2. Blanda!** När en vuxen har smält tvålen, rör ner lite färg och 2 droppar doft.
 
-    **3. Koppla!** Koppla ur USB. Anslut knappen och lamporna med hjälp av en vuxen.
+    **3. Häll!** Fyll en form långsamt. Prova ett vitt lager och ett klart lager!
 
-    **4. Programmera och testa!** Ladda upp namnprogrammet, tryck på knappen och förbättra displayen.
+    **4. Vänta och slå in!** När tvålen är hård, tryck ut den och lägg den i en presentlåda.
 
-    ⭐ **Uppfinnarens fråga:** Hur stavar blinkningarna ett namn?
+    ⭐ **Forskarens fråga:** Är smält tvål fortfarande tvål?
 
 </div>
 </div>
 
 ## Setup notes
 
-### Preparation (5–10 minutes before the activity)
+### Preparation (10 minutes before the activity)
 
-1. Bring out the Arduino, USB data cable, computer, breadboard and pushbutton from Days 19–20, plus the red LED/resistor assembly from Day 17. Keep the AA battery holder disconnected and out of the Arduino circuit.
-2. With the Arduino unplugged, prepare the circuit: connect GND to the breadboard ground rail; connect the pushbutton across the centre gap between digital pin 2 and GND; connect each LED through its own **220-ohm resistor** to pins 8 and 9, with both short legs to GND.
-3. Set `NAME` in the program below to the child's name using ASCII letters A–Z. Test the circuit before the child begins. Keep all electronics uncovered and accessible.
-4. Set out a cardboard panel, tape, pencil and scissors. The child can plan the display around the pre-tested circuit.
+Read the kit leaflet first and follow its melting instructions and temperature limits.
+
+1. Cut the clear and white soap bases into **1–2 cm cubes** and keep them in separate piles. Small cubes melt quickly and evenly.
+2. Check that the moulds are clean and dry and place them on a tray on a level surface where they can stand undisturbed.
+3. Set out the beaker, stick, colours, scent, kitchen paper, oven glove and gift boxes. Both the adult and the child put on safety glasses.
 
 ### How to help (40–60 minutes total)
 
+Three soaps are suggested: a clear coloured soap, a layered white and clear soap, and a soap in a mixed colour.
+
 | Time | What to do |
 | --- | --- |
-| 0–5 min | Recall the Day 22 Morse activity. Sketch a display with two light openings, a reachable button and a clear message target. |
-| 5–15 min | Make the cardboard front. Mark and cut openings for the LEDs; plan where the button can be reached. Keep electronics outside the cardboard. |
-| 15–25 min | With USB disconnected, position the LEDs and button. An adult checks the circuit and every connection before power is applied. |
-| 25–35 min | Connect USB and upload the prepared program. Press the button to flash the name; decode it with the Day 22 Morse key. |
-| 35–50 min | Test the display from the viewer's position. Adjust the openings, button access or timing if needed. |
-| 50–60 min | Disconnect USB, collect loose parts and celebrate the finished signal station. |
+| 0–5 min | Plan who will receive each soap and choose colours and moulds. Ask: if we melt soap and let it harden again, will it still be soap? |
+| 5–15 min | **Soap 1:** The adult melts about 50 g clear cubes in the beaker in 20-second microwave bursts, then 10-second bursts, stirring between, until just melted. Do not let it boil. The child stirs in a tiny amount of colour and 2–3 drops of scent, slowly to avoid bubbles. The adult or child pours slowly into a mould. |
+| 15–30 min | **Soap 2:** Melt the white base and pour a layer into a mould to about half full. Wait until a firm skin forms, about 5–10 minutes. Gently scratch the surface with the stick, then pour a coloured clear layer on top. |
+| 30–40 min | **Soap 3:** Melt the rest of the clear base and mix two colours, such as red and blue to make purple. Add scent and pour. Once each soap has a firm skin, move it to the fridge to set faster. |
+| 40–55 min | While the soaps set, wipe the beaker and stick, decorate gift tags and talk about why soap cleans. When a soap is hard all the way through, about 15–20 minutes in the fridge, press it out of the mould from the back. |
+| 55–60 min | Pack each soap in a gift box, ready to give away. If the last soap is still soft, unmould it later in the day. |
 
-```cpp
-const int buttonPin = 2;
-const int firstLedPin = 8;
-const int secondLedPin = 9;
-const int dotTime = 200;
-
-const char *morseTable[] = {
-  ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---",
-  "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-",
-  "..-", "...-", ".--", "-..-", "-.--", "--.."
-};
-
-const char *NAME = "";
-
-void setup() {
-  pinMode(buttonPin, INPUT_PULLUP);
-  pinMode(firstLedPin, OUTPUT);
-  pinMode(secondLedPin, OUTPUT);
-}
-
-void loop() {
-  if (digitalRead(buttonPin) == LOW) {
-    sendName();
-    while (digitalRead(buttonPin) == LOW) {
-    }
-    delay(50);
-  }
-}
-
-void flashSignal(int onTime) {
-  digitalWrite(firstLedPin, HIGH);
-  digitalWrite(secondLedPin, HIGH);
-  delay(onTime);
-  digitalWrite(firstLedPin, LOW);
-  digitalWrite(secondLedPin, LOW);
-  delay(dotTime);
-}
-
-void sendMorseLetter(const char *code) {
-  for (int symbolIndex = 0; code[symbolIndex] != '\0'; symbolIndex++) {
-    flashSignal(code[symbolIndex] == '.' ? dotTime : dotTime * 3);
-  }
-}
-
-void sendName() {
-  int letterIndex = 0;
-  char letter;
-  while ((letter = NAME[letterIndex++]) != '\0') {
-    if (letter >= 'a' && letter <= 'z') letter -= 'a' - 'A';
-    if (letter < 'A' || letter > 'Z') continue;
-    sendMorseLetter(morseTable[letter - 'A']);
-    delay(dotTime * 2);
-  }
-  delay(dotTime * 6);
-}
-```
-
-**Keep it a fair test:** Test the circuit before mounting the LEDs in the display. Change one connection or design feature at a time, with USB unplugged before wiring changes.
+**Keep it a fair comparison:** Add colour in very small steps. Compare a soap with one tiny pinch of colour with one that has twice as much.
 
 ### Safety
 
-- With USB disconnected, check all wiring before connecting. Use only the Arduino's USB connection; do not connect an AA holder, mains electricity or an external power supply.
-- Every external LED must have its own **220-ohm resistor in series**. Never connect an LED directly between an Arduino pin and GND.
-- Keep drinks and wet materials away from the computer, board and breadboard. Disconnect USB before moving wires or changing the circuit.
-- Do not cover or enclose the Arduino, breadboard or USB connection in cardboard.
-- Cut cardboard openings with child-safe scissors and adult supervision. Keep lights pointed toward a nearby wall or viewer, never into eyes or toward roads.
+- **Melted soap base is hot enough to burn.** An adult melts the soap and handles the hot beaker with an oven glove. Heat in short bursts and stir between them; never let it boil. Let younger children pour only when an adult holds the beaker with them.
+- Wear safety glasses while melting, mixing and pouring.
+- Do not put essential oil directly on skin, and keep it away from eyes and mouth. Use no more than 2–3 drops per soap. Check whether anyone receiving a soap has allergies to scents.
+- Soap colours can stain. Wipe up drips while they are still soft.
+- Use the kit's beaker, stick and moulds for soap only, not for food.
 
 ### Why it works
 
-The pushbutton is an input connected to pin 2. With `INPUT_PULLUP`, the input reads `HIGH` when the button is open and `LOW` when the button connects the pin to GND. When the program detects `LOW`, it calls `sendName()`.
+The soap base is already finished soap. It was made in a factory by a chemical reaction between oils and a strong base. Today we only **melt** it and let it go **solid** again. That is a physical change: the substance is the same soap before and after, just as ice and water are both water.
 
-The LEDs are outputs on pins 8 and 9. The program turns them on together for a short duration (a dot) or a longer duration (a dash), with pauses between flashes and letters. The resistors limit current through the LEDs. The cardboard display holds the lights, while the Arduino and breadboard remain open and accessible.
+Colour spreads through the liquid soap and is locked in place when it hardens. The scent molecules escape into the air and travel to your nose, the same spreading that moved the colours on Day 23. The white base contains tiny particles that scatter light, while the clear base lets light pass through.
+
+Soap cleans because each soap molecule has two different ends: one end likes water and the other likes oil and grease. The oil-loving ends grab the grease, the water-loving ends face outwards, and water can wash the grease away.
 
 ### Troubleshooting and optional extension
 
-- **Neither LED lights:** Disconnect USB. Check GND, button wiring, LED polarity and pin numbers. Confirm each LED has its own 220-ohm resistor in series.
-- **One LED stays off:** With USB disconnected, check that its short leg reaches GND and its resistor connects toward the correct output pin.
-- **The message repeats while the button is held:** Check that the button is between pin 2 and GND and that the code waits for release.
-- **The button does not start the message:** Check the pin 2 and GND connections and confirm the code uses `INPUT_PULLUP` and tests for `LOW`.
-- **Extra challenge for older children:** Change `NAME` to another word using the Day 22 Morse key. Predict the light pattern first.
+- **The soap gets hard in the beaker before pouring:** Reheat for 5–10 seconds and stir.
+- **There are bubbles on the top:** Pour more slowly and gently pop surface bubbles with the stick right after pouring.
+- **The layers separate:** Scratch the first layer before pouring the second, and pour the second layer when it is warm but not very hot.
+- **The soap is stuck in the mould:** Put it in the fridge for 10 minutes, then press from the back.
+- **Small drops form on the soap:** The soap base attracts moisture from the air. Close the gift box once the soap is fully cool.
+- **Extra challenge for older children:** Wash a little cooking oil off your hands with water only, then with your new soap. Explain the difference.
 
-**Next experiment:** The calendar's final invention is complete. Keep the station as a reminder that small observations and ideas can grow into something you build.
+**Next experiment:** The calendar is complete. Merry Christmas, and keep asking questions!
 
 [← Back to the calendar](../index.md) · [← Day 23: The Skittles Rainbow Painting](day-23.md)

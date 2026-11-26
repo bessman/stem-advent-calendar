@@ -5,11 +5,11 @@
 **Field:** Technology · Communication · Patterns  
 **Time:** 10–15 minutes (Tuesday 22 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 21](day-21.md), we modelled how the Moon's phases appear from Earth. Today we practise SOS and discover how combinations of short and long flashes can encode every letter. Tomorrow, we will plan a Christmas display that can send a light message.
+**Progression:** On [Day 21](day-21.md), we modelled how the Moon's phases appear from Earth. Today we practise SOS and discover how combinations of short and long flashes can encode every letter. Tomorrow, we will paint a rainbow with Skittles.
 
 ## Introduction
 
-Can a light send a message without using words? In Morse code, combinations of short and long flashes stand for all 26 letters. Practise sending and decoding **SOS**, then use the alphabet key to spell a name or a festive word for the Christmas Signal Station.
+Can a light send a message without using words? In Morse code, combinations of short and long flashes stand for all 26 letters. Practise sending and decoding **SOS**, then use the alphabet key to spell a name or a festive word.
 
 By the end of this mission, the child can:
 
@@ -175,6 +175,6 @@ SOS is a well-known distress signal, but this activity is a practice code, not a
 - **The room is too bright:** Aim the flashlight at a nearby pale wall and shade the area slightly without making the room unsafe to move in.
 - **Extra challenge for older children:** Encode **NOEL** with the A–Z key. Write down the dots and dashes before sending, then compare the decoded result.
 
-**Next experiment:** On [Day 23](day-23.md), we will make a Skittles rainbow. On Day 24, we will build the Christmas Signal Station and send a light message.
+**Next experiment:** On [Day 23](day-23.md), we will make a Skittles rainbow.
 
 [← Back to the calendar](../index.md) · [← Day 21: The Moon's Secret Shapes](day-21.md)
