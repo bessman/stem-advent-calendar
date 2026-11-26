@@ -123,6 +123,6 @@ An **indicator** gives a clue about a liquid's properties; it does not identify 
 - **The colour change is subtle:** Add vinegar or lemon juice a teaspoon at a time and compare with the starting purple colour.
 - **Extra challenge for older children:** Use a fresh small sample and compare the starting juice, a pinch of baking soda, and then a few drops of vinegar. Predict each colour change first.
 
-**Next experiment:** Week 3 begins on [Day 14](day-14.md), where we will start a seed-growing investigation.
+**Next experiment:** Week 3 begins on [Day 14](day-14.md), where we will investigate how syrup, water and oil form layers.
 
 [← Back to the calendar](../index.md) · [← Day 12: The Great Dissolving Race](day-12.md)

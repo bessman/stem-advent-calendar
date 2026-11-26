@@ -5,7 +5,7 @@
 **Field:** Technology · Communication · Patterns  
 **Time:** 10–15 minutes (Tuesday 22 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 21](day-21.md), we compared our cress observations with an earlier prediction. Today we practise SOS and discover how combinations of short and long flashes can encode every letter. Tomorrow, we will plan a Christmas display that can send a light message.
+**Progression:** On [Day 21](day-21.md), we modelled how the Moon's phases appear from Earth. Today we practise SOS and discover how combinations of short and long flashes can encode every letter. Tomorrow, we will plan a Christmas display that can send a light message.
 
 ## Introduction
 
@@ -177,4 +177,4 @@ SOS is a well-known distress signal, but this activity is a practice code, not a
 
 **Next experiment:** On [Day 23](day-23.md), we will make a Skittles rainbow. On Day 24, we will build the Christmas Signal Station and send a light message.
 
-[← Back to the calendar](../index.md) · [← Day 21: The Seed Scientist Returns](day-21.md)
+[← Back to the calendar](../index.md) · [← Day 21: The Moon's Secret Shapes](day-21.md)

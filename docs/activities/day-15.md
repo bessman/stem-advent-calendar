@@ -5,7 +5,7 @@
 **Field:** Chemistry · Gases · Combustion\
 **Time:** 10–15 minutes (Tuesday 15 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 14](day-14.md), we started a seed investigation to revisit on Day 21. Today we make carbon dioxide and observe it extinguish a candle. Tomorrow, we will explore magnetic forces with a paperclip maze.
+**Progression:** On [Day 14](day-14.md), we investigated how different liquids form layers. Today we make carbon dioxide and observe it extinguish a candle. Tomorrow, we will explore magnetic forces with a paperclip maze.
 
 ## Introduction
 
@@ -118,4 +118,4 @@ Vinegar and baking soda react to make **carbon dioxide gas**. Carbon dioxide doe
 
 **Next experiment:** On [Day 16](day-16.md), we will guide a paperclip through a maze with a magnet.
 
-[← Back to the calendar](../index.md) · [← Day 14: Wake Up, Little Seed!](day-14.md)
+[← Back to the calendar](../index.md) · [← Day 14: The Liquid Stack Lab](day-14.md)

@@ -138,6 +138,6 @@ The `if` statement checks that reading each time `loop()` repeats. When the read
 - **The light flickers when pressed:** Make sure the button is seated firmly. Some buttons may bounce briefly; the activity is to explore the input, not to count individual presses.
 - **Extra challenge for older children:** Change the program so the light is on when the button is not pressed. Ask what condition must change.
 
-**Next experiment:** On [Day 21](day-21.md), we will revisit the cress seeds and compare their growth with the prediction from Day 14.
+**Next experiment:** On [Day 21](day-21.md), we will model the Moon's phases using a ball and a lamp.
 
 [← Back to the calendar](../index.md) · [← Day 19: Hello, Arduino!](day-19.md)

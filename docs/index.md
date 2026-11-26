@@ -63,13 +63,13 @@ Each activity page includes an **introduction** (scientific field, learning goal
 
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
-| 14 | Mon 14 Dec | **[Wake Up, Little Seed!](activities/day-14.md)** | Germination and observation | 10–15 min |
+| 14 | Mon 14 Dec | **[The Liquid Stack Lab](activities/day-14.md)** | Density and mixtures | 10–15 min |
 | 15 | Tue 15 Dec | **[The Invisible Candle Snuffer](activities/day-15.md)** | Carbon dioxide and combustion | 10–15 min |
 | 16 | Wed 16 Dec | **[The Invisible Magnet Maze](activities/day-16.md)** | Magnetic forces | 10–15 min |
 | 17 | Thu 17 Dec | **[Light Up an LED!](activities/day-17.md)** | Simple electrical circuits | 10–15 min |
 | 18 | Fri 18 Dec | **[Invent a Switch](activities/day-18.md)** | Opening and closing a circuit | 10–15 min |
 
-**The connection:** Start a week-long plant investigation. Keep the circuit parts from Days 17–18 for the inventor missions.
+**The connection:** Investigate liquids, gases and magnetic forces, then keep the circuit parts from Days 17–18 for the inventor missions.
 
 ### Week 4 · The Inventor's Workshop
 
@@ -79,7 +79,7 @@ Each activity page includes an **introduction** (scientific field, learning goal
 | --- | --- | --- | --- | --- |
 | 19 | Sat 19 Dec | **[Hello, Arduino!](activities/day-19.md)** | Make a light blink with code | 20–30 min |
 | 20 | Sun 20 Dec | **[The Magic Button](activities/day-20.md)** | Inputs, outputs and logic | 20–30 min |
-| 21 | Mon 21 Dec | **[The Seed Scientist Returns](activities/day-21.md)** | Compare plant growth with predictions | 10–15 min |
+| 21 | Mon 21 Dec | **[The Moon's Secret Shapes](activities/day-21.md)** | Model the Moon's phases | 10–15 min |
 | 22 | Tue 22 Dec | **[The Secret Light Message](activities/day-22.md)** | Encode and decode flashes | 10–15 min |
 | 23 | Wed 23 Dec | **[The Skittles Rainbow Painting](activities/day-23.md)** | Dissolving, diffusion and colour | 10–15 min |
 | 24 | Thu 24 Dec | **[The Grand Christmas Invention!](activities/day-24.md)** | Combine a button, lights and code | 40–60 min |
@@ -89,7 +89,7 @@ Each activity page includes an **introduction** (scientific field, learning goal
 ## Three discoveries that continue across days
 
 1. **Build, test, improve (Days 2–5).** Ask questions about forces and shapes, then compare flat and folded bridge designs.
-2. **Watch something grow (Days 14 and 21).** Start a seed experiment, make a prediction, and return to see what changed.
+2. **Explore everyday materials (Days 8–14).** Compare liquids, surface effects, water movement, dissolving and colour-changing reactions.
 3. **Build an invention (Days 17–20 and 22–24).** Learn an LED circuit, a switch, a simple program and a light code before combining them into a final creation.
 
 ## A note to grown-ups

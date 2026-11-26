@@ -1,78 +1,90 @@
-# Day 14 · Wake Up, Little Seed!
+# Day 14 · The Liquid Stack Lab
 
-![A seed beginning to sprout inside a clear growing jar](../images/experiments/day-14.svg){ .activity-illustration }
+![A clear jar showing layers of syrup, coloured water and oil](../images/experiments/day-14.svg){ .activity-illustration }
 
-**Field:** Biology · Plant science · Observation  
-**Time:** 10–15 minutes to set up; check for a few minutes each day (Monday 14 December 2026)  
+**Field:** Chemistry · Density · Mixtures\
+**Time:** 10–15 minutes (Monday 14 December 2026)\
 **Age group:** 6–9  
-**Progression:** Week 3 starts a plant investigation. Today we give cress seeds water and make a prediction. Keep the setup to compare with your observations on Day 21. Tomorrow, we will model the Moon's changing phases.
+**Progression:** Week 3 begins with a closer look at everyday liquids. Today we investigate how liquids stack and whether their layers last. Tomorrow, we will make carbon dioxide and observe it extinguish a candle.
 
 ## Introduction
 
-What does a seed need to begin growing? Place a few cress seeds on damp cotton in a clear cup and watch for changes over the next week. The seeds do not need soil to begin germinating, but they do need water and air.
+Will syrup, water and cooking oil stay in one mixture, or make layers? Build the stack, then test 6–8 different solids to discover where each one floats, sinks or stops. Watch what changes over the next few minutes.
 
 By the end of this mission, the child can:
 
-- Predict when the first root or shoot will appear.
-- Observe and describe changes in a seed over several days.
-- Compare the final result with an early prediction on Day 21.
+- Observe how syrup, water and oil arrange themselves in a stack.
+- Observe that oil and water separate into layers.
+- Compare where different solids end up in the stack.
 
-**The big question:** What changes first when a seed begins to grow?
+**The big question:** Where will each solid go in a stack of liquids, and will it stay there?
 
 ## Materials list
 
-Choose untreated seeds sold for growing, not seeds treated for planting in fields.
+The liquids and container are ordinary household items; no special materials need to be purchased.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Cress seeds | 8–10 seeds | Fast-sprouting, untreated seeds from a food or garden supplier. |
-| Cotton pad | 1 small piece | Plain, unscented cotton wool or a cotton pad. |
-| Small clear cup or jar | 1 | Choose a stable container that is easy to inspect from the side. Keep the seed setup intact for Day 21; this container remains in use until then. |
+| Clear, unbreakable container | 1, about 250 ml | A straight-sided plastic jar or cup makes layers easy to see. |
+| Golden syrup | About 2 tablespoons | Honey also works; use a familiar food if allergies are a concern. |
+| Cool water | About 2 tablespoons | Food colouring is optional. |
+| Vegetable oil | About 2 tablespoons | Use a clear cooking oil if available. |
+| Solid objects | 6–8 different objects | Choose from the suggestions below; their positions are for the child to discover. |
 
 ## What's inside the box?
 
-- [ ] **One sealed packet of 8–10 cress seeds.**
-- [ ] **One small piece of cotton pad.**
 - [ ] **One folded Day 14 mission card** (below).
+- [ ] **Cork piece.**
+- [ ] **Clean, intact polystyrene foam piece.**
+- [ ] **Plastic bead or small plastic toy.**
+- [ ] **Solid acrylic bead.**
+- [ ] **Grape or raisin.**
+- [ ] **Small smooth pebble.**
+- [ ] **Coin.**
+- [ ] **Glass bead.**
+
+Choose 6–8 different solids from the list and check the ones packed. These are suggestions, not items guaranteed to stop at particular layers; household materials and liquids vary.
+
+**Household items to supply separately:** Clear container, syrup, water and vegetable oil. Food colouring is optional.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🌱 DAY 14 — WAKE UP, LITTLE SEED!"
-    **Your mission:** Wake a seed and track its changes!
+!!! example "🧪 DAY 14 — THE LIQUID STACK LAB"
+    **Your mission:** Build a stack of three liquids!
 
-    **You need:** Cress seeds, cotton, cup and water.
+    **You need:** A clear jar, syrup, water, oil and 6–8 different solid objects.
 
-    **1. Predict!** When will a tiny root or shoot appear?
+    **1. Guess!** Choose one object. Do you think it will float, sink or stop between liquids?
 
-    **2. Set up!** Dampen the cotton in the cup. Place seeds on top where you can see them.
+    **2. Pour!** Slowly add syrup, coloured water, then oil.
 
-    **3. Observe!** Draw today's seeds. Keep the cup bright, out of direct sun.
+    **3. Test!** Gently add each object, one at a time. Where does it end up?
 
-    **4. Check!** Look daily. If dry, add drops. Draw changes.
+    **4. Compare!** Which objects ended up in similar places? Look again after a few minutes. Did anything move?
 
-    ⭐ **Scientist's question:** What appeared first?
+    ⭐ **Scientist's question:** What patterns do you notice in where the objects end up?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🌱 DAG 14 — VAKNA, LILLA FRÖ!"
-    **Ditt uppdrag:** Väck ett frö och följ de första förändringarna!
+!!! example "🧪 DAG 14 — VÄTSKOR PÅ HÖJD"
+    **Ditt uppdrag:** Bygg ett torn av tre vätskor!
 
-    **Du behöver:** Krassefrön, bomull, genomskinlig mugg och vatten.
+    **Du behöver:** En genomskinlig burk, sirap, vatten, olja och 6–8 olika fasta föremål.
 
-    **1. Gissa!** När syns en liten rot eller ett skott?
+    **1. Gissa!** Välj ett föremål. Tror du att det flyter, sjunker eller stannar mellan vätskorna?
 
-    **2. Gör i ordning!** Fukta bomullen i muggen. Lägg fröna ovanpå så att du ser dem.
+    **2. Häll!** Häll långsamt i sirap, färgat vatten och sedan olja.
 
-    **3. Titta!** Rita dagens frön. Ställ muggen ljust, utan direkt sol.
+    **3. Testa!** Lägg försiktigt i föremålen, ett i taget. Var hamnar de?
 
-    **4. Följ!** Titta varje dag. Fukta bomullen om den torkar. Rita eller berätta vad som ändrats.
+    **4. Jämför!** Vilka föremål hamnade på liknande ställen? Titta igen efter några minuter. Har något flyttat sig?
 
-    ⭐ **Forskarens fråga:** Vad kom först?
+    ⭐ **Forskarens fråga:** Vilka mönster ser du i var föremålen hamnar?
 
 </div>
 </div>
@@ -81,40 +93,41 @@ Choose untreated seeds sold for growing, not seeds treated for planting in field
 
 ### Preparation (2–3 minutes before opening)
 
-1. Choose untreated, fast-sprouting cress seeds from a reputable food or garden supplier. Do not use seeds sold as chemically treated agricultural seed.
-2. Set out a clear cup or jar, clean cotton, tap water and a tray. The cup should be stable and easy to check from the side.
-3. Pack 8–10 seeds in a sealed packet, with the cotton and folded mission card.
+1. Put the clear container on a tray on a stable table. Set out equal small amounts of syrup, water and oil, plus 6–8 different solids from the suggestions in the box list.
+2. If using food colouring, tint the water only; this makes it easier to distinguish from the oil.
+3. Keep the spoon nearby to guide each pour down the inside wall of the container. Do not pre-mix the liquids.
+4. Pack the folded mission card and the chosen solids in the advent calendar box. Check that there are 6–8 different objects.
 
-### How to help (10–15 minutes to set up)
+### How to help (10–15 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–3 min | Ask what the child thinks a seed needs to begin growing. Record the child's prediction about when growth will appear. |
-| 3–6 min | Wet the cotton and squeeze out excess water. It should be damp, not dripping. Place it in the clear cup. |
-| 6–9 min | Arrange the seeds on the cotton near the side of the cup so they can be seen. Do not bury or crowd them. |
-| 9–12 min | Place the cup in bright, indirect light at room temperature. Help the child draw or describe the starting setup. |
-| 12–15 min | Agree on a daily check. Keep the cotton damp with a few drops of water, not flooded. Save the observation for Day 21. |
+| 0–2 min | Show the three liquids and the solids. Invite the child to choose one solid and make a broad guess: float, sink or stop between liquids. |
+| 2–5 min | Slowly pour syrup, water and then oil into the clear container, guiding each stream down the side. |
+| 5–9 min | Observe the layers, then gently add the selected solids one at a time. Notice where each one ends up. |
+| 9–12 min | Compare which solids ended up in similar places. Look again after a few minutes to see whether any have moved as the syrup mixes with water. |
+| 12–15 min | Discuss what changed. Remove the solids, empty and wash the container, and wipe the tray. |
 
-**Observation plan:** Encourage a brief drawing or note each day, including the date. On Day 21, compare what is visible with the original prediction. Cress often sprouts within a few days, but timing varies with seed freshness, warmth and moisture.
+**Keep it a fair comparison:** Use the same container and similar amounts of each liquid. Pour slowly and do not shake or stir; mixing makes the layers harder to observe.
 
 ### Safety
 
-- Use only a little water and keep the cup on a tray away from electronics. Discard the setup if it develops mould or an unpleasant smell.
-- Keep the cup out of direct hot sunlight and away from heaters.
+- Use a stable, unbreakable clear container on a tray. Keep liquids away from eyes and wipe spills promptly; oil can make floors slippery.
+- Choose intact, smooth objects with no sharp edges and collect them all after testing.
+- Check food allergies before using syrup, oil or fruit.
 
 ### Why it works
 
-Germination is the start of a seed's growth. When a viable seed absorbs water, it softens and the embryo inside begins to grow. The first structure to emerge is usually the **radicle**, which becomes the root. A shoot then grows upward.
+Density describes how much mass is packed into a given volume. In general, a solid floats in a liquid that is denser than the solid and sinks in a liquid that is less dense. In a stack, a solid may stop at a boundary if it sinks through the liquid above but floats on the one below. The exact results are part of this experiment: household oils, syrups and solid objects vary, and shape or trapped air can also affect what happens. Observe and compare rather than expecting any object to land at a particular layer.
 
-The seed contains stored food to fuel its first growth. It needs water, air and a suitable temperature to germinate; it does not need light to begin. Once leaves appear, light helps the young plant make more of its own food.
+Density is only part of the story. Oil and water do not mix, so their boundary usually remains visible. Syrup dissolves in water, so the syrup-water boundary gradually blurs and disappears. As the liquids change, a solid may move; this is part of the observation.
 
 ### Troubleshooting and optional extension
 
-- **Nothing has sprouted after a few days:** Check that the cotton is damp but not underwater, and keep the cup at normal room temperature. Some seeds take longer.
-- **The cotton dries out:** Add a few drops of water. Do not pour in enough to submerge the seeds.
-- **Seeds grow mould:** Discard the setup, wash hands and start again with a clean cup and fresh materials.
-- **Extra challenge for older children:** Place a second small group of seeds on damp cotton in a dark cupboard. Keep both groups equally damp and compare on Day 21; discuss that light is needed for healthy continued plant growth, not usually for germination itself.
+- **The liquids mix as they are poured:** Pour more slowly down the container wall using the spoon as a guide. The syrup and water boundary may still fade with time; that is part of the discovery.
+- **The oil and water boundary is hard to see:** Tint the water with one drop of food colouring and use a clear container.
+- **Extra challenge for older children:** Draw the stack right after pouring and again several minutes later. Compare which boundaries changed.
 
-**Next experiment:** On [Day 15](day-15.md), an adult will make carbon dioxide and use it to put out a small candle flame.
+**Next experiment:** On [Day 15](day-15.md), we will make carbon dioxide and use it to put out a small candle flame.
 
 [← Back to the calendar](../index.md) · [← Day 13: The Fizzy Red-Cabbage Juice Lab](day-13.md)
