@@ -5,7 +5,7 @@
 **Field:** Physics · Magnetism · Forces  
 **Time:** 10–15 minutes (Wednesday 16 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 15](day-15.md), we modelled light and the Moon's phases. Today we explore an invisible magnetic force by moving a paperclip through a paper maze. Tomorrow, we will build a simple low-voltage circuit to light an LED.
+**Progression:** On [Day 15](day-15.md), we used carbon dioxide to put out a candle flame. Today we explore an invisible magnetic force by moving a paperclip through a paper maze. Tomorrow, we will build a simple low-voltage circuit to light an LED.
 
 ## Introduction
 
@@ -116,4 +116,4 @@ Not every metal is magnetic. Many coins contain metals that are not strongly att
 
 **Next experiment:** On [Day 17](day-17.md), we will use a battery, resistor and LED to build a simple circuit.
 
-[← Back to the calendar](../index.md) · [← Day 15: The Moon's Secret Shapes](day-15.md)
+[← Back to the calendar](../index.md) · [← Day 15: The Invisible Candle Snuffer](day-15.md)

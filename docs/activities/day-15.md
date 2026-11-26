@@ -1,119 +1,121 @@
-# Day 15 · The Moon's Secret Shapes
+# Day 15 · The Invisible Candle Snuffer
 
-![Moon phases lit by the Sun](../images/experiments/day-15.svg){ .activity-illustration }
+![Carbon dioxide gas being poured from a flask to extinguish a candle](../images/experiments/day-15.svg){ .activity-illustration }
 
-**Field:** Astronomy · Light · Shadows  
+**Field:** Chemistry · Gases · Combustion\
 **Time:** 10–15 minutes (Tuesday 15 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 14](day-14.md), we started a seed investigation to revisit on Day 21. Today we model how the Moon's phases appear as it orbits Earth. Tomorrow, we will use a magnet to move an object without touching it.
+**Progression:** On [Day 14](day-14.md), we started a seed investigation to revisit on Day 21. Today we make carbon dioxide and observe it extinguish a candle. Tomorrow, we will explore magnetic forces with a paperclip maze.
 
 ## Introduction
 
-Why does the Moon seem to change shape over the month? Use a ball as the Moon and a lamp as the Sun. As the ball moves around you, the lamp always lights half of it, but you see different amounts of that lit half.
+Can an invisible gas put out a candle? A reaction between vinegar and baking soda makes carbon dioxide. An adult can carefully pour the gas toward a candle flame without pouring in the liquid.
 
 By the end of this mission, the child can:
 
-- Observe that a light source illuminates one half of a ball.
-- Model how the Moon's position changes the visible lit shape.
-- Explain that ordinary Moon phases are not caused by Earth's shadow.
+- Observe that a chemical reaction produces a gas.
+- Describe how carbon dioxide can extinguish a small flame.
+- Name the three parts of the fire triangle: heat, fuel and oxygen.
 
-**The big question:** Does the Moon really change shape, or do we see its light differently?
+**The big question:** How can a gas put out a flame when we cannot see it?
 
 ## Materials list
 
-No special materials need to be purchased if a small ball and LED lamp are available at home.
-
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Small white ball | 1, about 4–5 cm diameter | A lightweight ping-pong or craft ball; it should fit in the box. |
-| Desk lamp with a cool LED bulb | 1 | Do not use candles, hot bulbs or direct sunlight. |
+| White vinegar | 50 ml | Household vinegar; do not use cleaning products. |
+| Baking soda | 2 tablespoons | Add gradually to limit foaming. |
+| Small clear reaction vessel | 1 | An open, wide-neck bottle or sturdy beaker; do not seal it. |
+| Tea light | 1 | Place in a stable, heat-resistant holder. |
+| Matches or lighter | 1 | For adult use only. |
+| Clear drinking glass | 1 | Stands upright around the tea light. |
+| Tray | 1 | Heat-resistant, with room for both vessels. |
 
 ## What's inside the box?
 
-- [ ] **One small white ball**, about 4–5 cm across.
-- [ ] **One folded Day 15 mission card** (below).
+- [ ] **One folded Day 15 mission card.**
+
+**Household items to supply separately:** Vinegar, baking soda, reaction vessel, tea light and holder, matches or lighter, clear drinking glass and heat-resistant tray.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🌙 DAY 15 — THE MOON'S SECRET SHAPES"
-    **Your mission:** Explore Moon shapes with a ball!
+!!! example "🧪 DAY 15 — THE INVISIBLE CANDLE SNUFFER"
+    **Your mission:** Can an invisible gas put out a candle?
 
-    **You need:** White ball and cool LED lamp.
+    **You need:** Vinegar, baking soda, two clear vessels and a tea light.
 
-    **1. Predict!** Will it light all or part of the ball?
+    **1. Predict!** What does a flame need to keep burning?
 
-    **2. Set up!** Place the lamp on a steady surface. Dim the room; hold the ball out.
+    **2. React!** An adult mixes the vinegar and baking soda on a tray.
 
-    **3. Explore!** Stand still. Circle the ball around you, watching it, not the lamp. What shapes appear?
+    **3. Observe!** An adult pours the invisible gas, not the liquid, toward the candle.
 
-    **4. Discover!** Pause. Which spot looks full or crescent?
+    **4. Explain!** What happened to the flame?
 
-    ⭐ **Scientist's question:** Does the Moon change, or do we?
+    ⭐ **Scientist's question:** Which part of the fire triangle was missing?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🌙 DAG 15 — MÅNENS HEMLIGA FORMER"
-    **Ditt uppdrag:** Undersök månens former med en boll!
+!!! example "🧪 DAG 15 — OSYNLIG LJUSSLÄCKARE"
+    **Ditt uppdrag:** Kan en osynlig gas släcka ett ljus?
 
-    **Du behöver:** Vit boll och sval LED-lampa.
+    **Du behöver:** Ättika, bikarbonat, två genomskinliga kärl och ett värmeljus.
 
-    **1. Gissa!** Lyser lampan på hela, halva eller ingen del av bollen?
+    **1. Gissa!** Vad behöver en låga för att brinna?
 
-    **2. Gör i ordning!** Ställ lampan stadigt. Dämpa rummet; håll bollen framför dig.
+    **2. Reagera!** En vuxen blandar ättika och bikarbonat på en bricka.
 
-    **3. Undersök!** Stå stilla. För bollen långsamt runt dig. Titta på bollen, inte lampan. Vilka former syns?
+    **3. Titta!** En vuxen häller den osynliga gasen, inte vätskan, mot ljuset.
 
-    **4. Upptäck!** Pausa. Vilket läge liknar fullmåne eller månskära?
+    **4. Förklara!** Vad hände med lågan?
 
-    ⭐ **Forskarens fråga:** Ändras månen, eller vår blick?
+    ⭐ **Forskarens fråga:** Vilken del av brandtriangeln saknades?
 
 </div>
 </div>
 
 ## Setup notes
 
-### Preparation (2–3 minutes before opening)
+### Preparation (3–5 minutes before the activity)
 
-1. Choose a lightweight white ball about **4–5 cm** across. A ping-pong ball or smooth craft ball works.
-2. Place a desk lamp with a cool LED bulb on a stable table, about **1.5–2 m** from where the child will stand. Aim it at chest or face height for the ball, not directly into the child's eyes.
-3. Dim the room enough to see the lit side of the ball while keeping the walking area safe and clear. Pack the ball and card.
+1. Put the tea light in its heat-resistant holder inside a clear drinking glass. Place it at one end of a heat-resistant tray, away from paper, curtains and other combustibles.
+2. Set the open reaction vessel at the other end of the tray. Measure **50 ml vinegar** and **2 tablespoons baking soda** separately.
+3. Keep matches or the lighter with the supervising adult. The adult lights and handles the candle; the child stays back from the flame.
 
 ### How to help (10–15 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–2 min | Ask whether the Moon makes its own light and what might make it look different during the month. |
-| 2–5 min | Turn on the lamp and have the child hold the ball at arm's length. Point out that the lamp lights one half of the ball. |
-| 5–10 min | Have the child stand in one place and slowly move the ball in a circle around their head at arm's length, turning to watch it. The child represents an observer on Earth; the ball represents the orbiting Moon. |
-| 10–13 min | Pause at a few positions and name the visible shapes: crescent, half-lit and nearly full. Keep eyes on the ball, not the lamp. |
-| 13–15 min | Ask why the visible shape changed, then put the ball away and turn off the lamp. |
+| 0–2 min | Ask what a flame needs to keep burning. Introduce heat, fuel and oxygen as the fire triangle. |
+| 2–5 min | With the child observing from a safe distance, the adult lights the tea light and checks that both vessels are stable. |
+| 5–8 min | The adult slowly adds baking soda to the vinegar in the open reaction vessel. Let vigorous fizzing settle before moving it. |
+| 8–11 min | The adult gently tilts the vessel and pours the gas toward the candle glass, keeping the liquid inside the reaction vessel. Observe whether the flame goes out. |
+| 11–15 min | The adult extinguishes any remaining flame safely, lets the vessels cool, and discusses which part of the fire triangle changed. |
 
-**Model limitation:** The ball moves around the child, while the real Moon travels around Earth. The model shows changing viewing angles, not the exact scale or timing of the orbit.
+**Keep it a fair test:** Use the same candle, distance and measured ingredients if repeating. Allow the fizz to settle before carefully moving the reaction vessel.
 
 ### Safety
 
-- Use a cool LED lamp on a stable surface; do not use candles, hot bulbs or sunlight.
-- Do not look directly into the lamp. Keep the room dim only enough to see the ball, and clear the floor before turning.
-- Do not throw the ball.
+- **Adult supervision is required throughout.** Only an adult may light, move or extinguish the candle and reaction vessel. Keep children, hair, sleeves and all combustible materials away from the flame.
+- Use a heat-resistant tray and holder on a stable, uncluttered surface. Keep a means of safely extinguishing the candle nearby.
+- Do not seal the reaction vessel, lean over it, inhale the gas, or pour liquid onto the flame. Ventilate the room afterward.
+- This is a demonstration, not a way to fight a real fire. Never attempt to relight the candle during this activity.
 
 ### Why it works
 
-The Sun lights about half of the Moon at all times. As the Moon orbits Earth, the angle between the Sun, Moon and observer changes. From Earth, we see different amounts of the Moon's lit half; these changing views are called **phases**.
-
-The Moon does not make its own visible light, and it does not change shape each night. Most phases are not caused by Earth's shadow. Earth's shadow falls on the Moon only during a **lunar eclipse**.
+Vinegar and baking soda react to make **carbon dioxide gas**. Carbon dioxide does not burn and is denser than air. When an adult carefully pours enough of it around the flame, it displaces some of the nearby oxygen. A flame needs heat, fuel and oxygen; when enough oxygen is displaced, the flame goes out.
 
 ### Troubleshooting and optional extension
 
-- **The lit side is hard to see:** Dim the room slightly more or move the lamp closer while keeping it stable and out of the child's direct line of sight.
-- **The ball looks lit all around:** Ask the child to look at it against the dim room, not with the bright lamp behind their eyes. Rotate slowly and point out the boundary between light and shadow.
-- **A crescent is difficult to find:** Turn slowly and pause at each position. The model may not show every phase equally clearly.
-- **Extra challenge for older children:** Draw the lamp, Earth (the child) and Moon (the ball) from four positions. Label which side of the Moon is lit and which part an observer on Earth sees.
+- **The candle stays lit:** The vessel may not have collected enough gas. Let the fizz settle, then make a fresh small batch and pour gently from close to the glass without touching it.
+- **Liquid splashes toward the candle:** Stop. Let everything cool, clean the tray and use a larger reaction vessel with less vigorous pouring next time.
+- **Extra challenge for older children:** Draw the fire triangle before and after the demonstration. Mark which part was reduced around the flame.
 
-**Next experiment:** On [Day 16](day-16.md), we will move a paperclip through a maze using a magnet beneath the paper.
+**Next experiment:** On [Day 16](day-16.md), we will guide a paperclip through a maze with a magnet.
 
 [← Back to the calendar](../index.md) · [← Day 14: Wake Up, Little Seed!](day-14.md)

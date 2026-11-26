@@ -5,7 +5,7 @@
 **Field:** Chemistry · Surface tension  
 **Time:** 10–15 minutes (Wednesday 9 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 8](day-08.md), we watched liquids form layers and compared which boundaries lasted. Today we observe what happens at the surface of water when a little soap is added. Tomorrow, we will watch coloured water travel through paper.
+**Progression:** On [Day 8](day-08.md), we watched carbon-dioxide bubbles carry coloured water through oil. Today we observe what happens at the surface of water when a little soap is added. Tomorrow, we will watch coloured water travel through paper.
 
 ## Introduction
 
@@ -120,4 +120,4 @@ The difference in surface tension makes water at the surface move away from the 
 
 **Next experiment:** On [Day 10](day-10.md), we will see water climb along paper towels and carry colour with it.
 
-[← Back to the calendar](../index.md) · [← Day 8: The Liquid Stack Lab](day-08.md)
+[← Back to the calendar](../index.md) · [← Day 8: The Bubbling Lava Lamp](day-08.md)

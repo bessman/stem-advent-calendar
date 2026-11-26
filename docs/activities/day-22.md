@@ -175,6 +175,6 @@ SOS is a well-known distress signal, but this activity is a practice code, not a
 - **The room is too bright:** Aim the flashlight at a nearby pale wall and shade the area slightly without making the room unsafe to move in.
 - **Extra challenge for older children:** Encode **NOEL** with the A–Z key. Write down the dots and dashes before sending, then compare the decoded result.
 
-**Next experiment:** On [Day 23](day-23.md), we will plan and prototype a Christmas display for our light-message invention.
+**Next experiment:** On [Day 23](day-23.md), we will make a Skittles rainbow. On Day 24, we will build the Christmas Signal Station and send a light message.
 
 [← Back to the calendar](../index.md) · [← Day 21: The Seed Scientist Returns](day-21.md)

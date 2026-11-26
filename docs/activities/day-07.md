@@ -115,6 +115,6 @@ A taut string carries the vibrations more effectively than a slack string. If th
 - **The cups crumple:** Hold them gently by the sides and speak softly.
 - **Extra challenge for older children:** Try a longer string or compare two different string materials. Change one thing at a time and keep the string taut for each test.
 
-**Next experiment:** On [Day 8](day-08.md), we will investigate the layers made by syrup, water and oil.
+**Next experiment:** On [Day 8](day-08.md), we will make a bubbling lava lamp with coloured water, oil and an effervescent tablet.
 
-[← Back to the calendar](../index.md) · [← Day 6: Build a Bridge, Part 2](day-06.md)
+[← Back to the calendar](../index.md) · [← Day 6: Chemical Balloon Inflation](day-06.md)

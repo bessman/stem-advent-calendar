@@ -1,123 +1,120 @@
-# Day 6 · Build a Bridge: Part 2
+# Day 6 · Chemical Balloon Inflation
 
-![A folded paper bridge supporting a test weight](../images/experiments/day-06.svg){ .activity-illustration }
+![A balloon inflating above a bottle during a reaction](../images/experiments/day-06.svg){ .activity-illustration }
 
-**Field:** Engineering · Structures · Fair testing  
+**Field:** Chemistry · Reactions · Gases\
 **Time:** 20–30 minutes (Sunday 6 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 5](day-05.md), we tested a flat paper bridge and observed where it bent. Today we compare a flat sheet with a folded one, keeping the materials and test setup the same. This is the final bridge challenge in Week 1.
+**Progression:** On [Day 5](day-05.md), we tested how a paper bridge's shape affects its strength. Today we make a gas in a chemical reaction. On [Day 7](day-07.md), we will use a string to explore how vibrations carry sound.
 
 ## Introduction
 
-Yesterday's paper bridge bent under a load. Can a simple fold make the same paper stronger? Test one flat sheet, then fold the second sheet into a shallow channel and compare how many coins each bridge holds.
+Can a reaction inflate a balloon without anyone blowing into it? Mix vinegar and baking soda in a bottle, then use the gas to fill a balloon.
 
 By the end of this mission, the child can:
 
-- Use yesterday's test as a starting point for improving a design.
-- Compare a flat sheet and a folded sheet while keeping other conditions the same.
-- Explain that a structure's shape can change how well it resists bending.
+- Observe bubbles forming when an acid and baking soda are mixed.
+- Describe how gas from the reaction inflates a balloon.
+- Identify one way to make the experiment tidier and more reliable.
 
-**The big question:** Can changing only the shape make a paper bridge hold more weight?
+**The big question:** Where does the gas in the balloon come from?
 
 ## Materials list
 
-Use the same type of paper for both bridges.
-
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Ordinary printer paper | 2 A4 sheets | Use two sheets of the same weight and size; one stays flat and one is folded. |
-| Small paper cup | 1 | Holds the coins during both tests; choose one about 6 cm wide so it fits in the box. Reuse the lightweight cup from Day 5 if available. |
-| Similar coins | About 30 | Reuse the Day 5 coins and keep them the same for both tests. |
+| Clear plastic bottle | 1, about 500 ml | Use a clean, stable drink bottle with a narrow neck. |
+| Balloon | 1 | Stretch it gently before fitting it over the bottle. |
+| White vinegar | 100 ml | Household vinegar; do not use cleaning products. |
+| Baking soda | 2 tablespoons | Measure before starting. |
+| Plate or tray | 1 | Place the bottle on it to catch splashes. |
 
 ## What's inside the box?
 
-- [ ] **Two A4 sheets of the same printer paper**, folded for packing.
-- [ ] **One small paper cup** for holding the test coins.
-- [ ] **One folded Day 6 mission card** (below).
+- [ ] **One balloon.**
+- [ ] **One folded Day 6 mission card.**
+
+**Household items to supply separately:** Clear plastic bottle, vinegar, baking soda, plate or tray, and a measuring spoon.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🌉 DAY 6 — BUILD A BRIDGE: PART 2"
-    **Your mission:** Shape a bridge to carry more coins!
+!!! example "🧪 DAY 6 — CHEMICAL BALLOON INFLATION"
+    **Your mission:** Can a reaction blow up a balloon?
 
-    **You need:** Two sheets, cup, supports and coins.
+    **You need:** Bottle, balloon, vinegar and baking soda.
 
-    **1. Predict!** Flat or folded: which holds more?
+    **1. Predict!** What will happen when the powder meets the vinegar?
 
-    **2. Test flat!** Set supports 15 cm apart. Add coins until paper sags or slips.
+    **2. Set up!** Pour vinegar into the bottle. Put baking soda in the balloon.
 
-    **3. Fold and test!** Fold 2 cm edges up on sheet two. Repeat.
+    **3. React!** Fit the balloon over the neck, then lift it so the powder falls in.
 
-    **4. Compare!** Which held more?
+    **4. Observe!** Watch the bubbles and balloon. Keep the bottle open to the balloon.
 
-    ⭐ **Scientist's question:** How do sides help?
+    ⭐ **Scientist's question:** What filled the balloon?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🌉 DAG 6 — BYGG EN BRO: DEL 2"
-    **Ditt uppdrag:** Forma en bro som bär fler mynt!
+!!! example "🧪 DAG 6 — KEMISK BALLONGBLÅSNING"
+    **Ditt uppdrag:** Kan en reaktion blåsa upp en ballong?
 
-    **Du behöver:** Två papper, mugg, stöd och mynt.
+    **Du behöver:** Flaska, ballong, ättika och bikarbonat.
 
-    **1. Gissa!** Platt eller vikt: vad bär mest?
+    **1. Gissa!** Vad händer när pulvret möter ättikan?
 
-    **2. Testa platt!** Ställ stöden 15 cm isär. Lägg mynt tills pappret hänger eller glider.
+    **2. Gör i ordning!** Häll ättika i flaskan. Lägg bikarbonat i ballongen.
 
-    **3. Vik och testa!** Vik upp 2 cm på ark två. Upprepa testet.
+    **3. Reagera!** Trä ballongen över flaskhalsen och lyft den så pulvret faller ner.
 
-    **4. Jämför!** Vilken bro bar mest?
+    **4. Titta!** Följ bubblorna och ballongen. Håll flaskan öppen mot ballongen.
 
-    ⭐ **Forskarens fråga:** Hur hjälper kanterna?
+    ⭐ **Forskarens fråga:** Vad fyllde ballongen?
 
 </div>
 </div>
 
 ## Setup notes
 
-### Preparation (3–5 minutes before opening)
+### Preparation (3–5 minutes before the activity)
 
-1. Prepare the same stable setup as Day 5: two supports of equal height on a sturdy table, with a **15 cm gap** between their inside edges and clear space beneath the bridge. If possible, use the same books and table.
-2. Check that the two A4 sheets are the same size and type. Unfold and flatten them. Keep one flat as the control; fold the second only when the child is ready to build. Set out the paper cup from the box.
-3. Set out the same lightweight cup and approximately **30 similar coins** used on Day 5. Keep the ruler and pencil nearby to record each result.
-4. Pack the two paper sheets, paper cup and folded card. The coins, supports and ruler stay outside the box.
+1. Set the bottle on a plate or tray on a stable table. Measure **100 ml vinegar** into the bottle.
+2. Use a funnel or paper cone to put **2 tablespoons baking soda** into the balloon. Keep the powder near the balloon's end so it does not fall out while fitting it.
+3. Stretch the balloon gently once, then fit its opening snugly over the bottle neck without tipping in the powder.
 
 ### How to help (20–30 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–4 min | Recall yesterday's flat-bridge result. Ask what one change might make it bend less. Let the child predict before building. |
-| 4–9 min | Place the first sheet flat across the same 15 cm gap, with about 3 cm resting on each support. Centre the cup and add coins one at a time until the paper touches the tabletop below or starts to slide. Record the count. |
-| 9–15 min | Remove the load. On the second sheet, help the child measure a 2 cm strip along each long edge and fold both edges upward to form a shallow channel. Keep the broad middle flat. |
-| 15–22 min | Place the folded bridge across the same gap with its open side up. Use the same cup and coins, adding them one at a time in the centre. Stop if the paper touches the tabletop below, starts to slide, or the cup starts to tip; record the count. |
-| 22–30 min | Compare the two results. Ask what changed and what stayed the same. Discuss whether the folded bridge was an improvement and why. |
+| 0–4 min | Show the materials and invite a prediction about what will happen when the powder meets the vinegar. |
+| 4–8 min | Fit the balloon over the bottle without spilling the powder. Check that it is secure and the bottle is stable on the tray. |
+| 8–12 min | Lift the balloon so the baking soda falls into the vinegar. Watch the bubbles and balloon inflate. Do not squeeze or seal the bottle. |
+| 12–20 min | Observe what happens as the bubbling slows. Compare the balloon with its starting shape. |
+| 20–30 min | Discuss where the gas came from, then deflate the balloon away from faces and wash the bottle and tray. |
 
-**Keep it a fair test:** Both sheets should be the same size and paper type. Keep the supports, **15 cm gap**, cup, coins, loading position and stop rule the same. The intended change is the second sheet's shape. If the Day 5 sheet is available and still flat, the child can use it as the flat control instead of one new sheet.
+**Keep it a fair test:** If repeating, use the same amounts and bottle, and change only one thing, such as the amount of baking soda.
 
 ### Safety
 
-- Use stable books on a sturdy table, away from the edge.
-- Use a lightweight, unbreakable cup. Add coins gently and stop before the bridge or cup can fall.
-- Keep hands and faces out from under the loaded bridge. Do not use glass, heavy objects or people as loads.
+- Use a tray and small quantities. Avoid splashes; rinse skin or eyes with plenty of water if splashed.
+- An adult should help fit the balloon and supervise the reaction. Do not taste any materials or inhale the gas.
+- Never cap or tightly seal the bottle. Keep the balloon opening as the only cover and stop if it becomes overinflated.
+- Check for latex allergies; use a latex-free balloon if needed. Keep uninflated balloons away from young children.
 
 ### Why it works
 
-A flat sheet is easy to bend because it is thin. Folding the long edges upward makes a shallow channel. Those raised sides make the paper harder to bend downward, much as the shaped beams in bridges and buildings resist bending better than a flat sheet of the same material.
-
-The paper, gap and load stay as similar as possible, so the comparison shows the effect of **shape**. A bridge does not become stronger simply because it has more material here: both designs use one sheet. The folded design may hold more coins, but careful folds and a centred load matter too.
+Vinegar is acidic. When it reacts with baking soda, it produces **carbon dioxide gas** along with water and other products. The gas takes up space and moves into the balloon, stretching it. The reaction makes bubbles in the liquid as well as gas in the balloon.
 
 ### Troubleshooting and optional extension
 
-- **The flat bridge does not sag:** Check that the gap is 15 cm and the cup is centred. Continue adding coins carefully, or compare the amount of sag under the same fixed number of coins.
-- **The folded bridge tips sideways:** Make both edge folds the same height and keep the open channel facing upward. Centre it on the supports.
-- **The folded sides flatten:** Crease the folds firmly along a ruler and keep the 2 cm sides upright along the full span.
-- **The paper slides off a support:** Restore the 15 cm gap and make sure each sheet overlaps both supports by about 3 cm.
-- **Extra challenge for older children:** Try a different fold height with a fresh sheet. Predict first, and change only the fold height while keeping the other test conditions the same.
+- **The balloon stays flat:** Check that the powder fell into the vinegar and that the balloon opening fits snugly over the bottle neck.
+- **The mixture foams toward the neck:** Keep the bottle on its tray and use a larger bottle next time; do not add more ingredients during the reaction.
+- **Extra challenge for older children:** Repeat with a different measured amount of baking soda. Predict first and compare the balloon sizes; keep the vinegar amount the same.
 
-**Next experiment:** The bridge challenge is complete. On Day 7, we will investigate how vibrations carry sound through a string telephone.
+**Next experiment:** On [Day 7](day-07.md), we will investigate how vibrations travel along a string.
 
-[← Back to the calendar](../index.md) · [← Day 5: Build a Bridge, Part 1](day-05.md)
+[← Back to the calendar](../index.md) · [← Day 5: Build, Test and Improve a Bridge](day-05.md)

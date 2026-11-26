@@ -115,6 +115,6 @@ In warm water, water molecules move faster and interact with the sugar more ofte
 - **The warm water cools while waiting:** Test one cup at a time and switch the order for a repeat. Record which cup was tested first.
 - **Extra challenge for older children:** Compare fine sugar and sugar cubes at the same water temperature. Change only the sugar form and predict which dissolves sooner.
 
-**Next experiment:** On [Day 13](day-13.md), we will make a colour-changing indicator from red cabbage and test safe household liquids.
+**Next experiment:** On [Day 13](day-13.md), we will make red-cabbage juice fizz and change colour with an effervescent tablet, baking soda and acid.
 
 [← Back to the calendar](../index.md) · [← Day 11: The Colour Detective](day-11.md)

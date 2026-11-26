@@ -1,90 +1,79 @@
-# Day 8 · The Liquid Stack Lab
+# Day 8 · The Bubbling Lava Lamp
 
-![A clear jar showing layers of syrup, coloured water and oil](../images/experiments/day-08.svg){ .activity-illustration }
+![Coloured water bubbles rising through a layer of oil](../images/experiments/day-08.svg){ .activity-illustration }
 
-**Field:** Chemistry · Density · Mixtures  
+**Field:** Chemistry · Density · Gases\
 **Time:** 10–15 minutes (Tuesday 8 December 2026)  
 **Age group:** 6–9  
-**Progression:** On [Day 7](day-07.md), we followed sound vibrations through a string. Today we investigate how liquids stack and whether their layers last. Tomorrow, we will see how soap changes the surface of pepper-covered water.
+**Progression:** On [Day 7](day-07.md), we followed sound vibrations through a string. Today we watch gas carry coloured water through oil. Tomorrow, we will test how soap changes the surface of water.
 
 ## Introduction
 
-Will syrup, water and cooking oil stay in one mixture, or make layers? Build the stack, then test 6–8 different solids to discover where each one floats, sinks or stops. Watch what changes over the next few minutes.
+Can you make a bubbling lamp without electricity? Layer coloured water and cooking oil in a clear container, then add a small piece of an effervescent tablet and watch the bubbles rise.
 
 By the end of this mission, the child can:
 
-- Observe how syrup, water and oil arrange themselves in a stack.
-- Observe that oil and water separate into layers.
-- Compare where different solids end up in the stack.
+- Observe that oil and water form separate layers.
+- Describe how gas bubbles carry coloured water upward.
+- Explain why the coloured water sinks back down after bubbles pop.
 
-**The big question:** Where will each solid go in a stack of liquids, and will it stay there?
+**The big question:** What makes the coloured bubbles travel up and down?
 
 ## Materials list
 
-The liquids and container are ordinary household items; no special materials need to be purchased.
-
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Clear, unbreakable container | 1, about 250 ml | A straight-sided plastic jar or cup makes layers easy to see. |
-| Golden syrup | About 2 tablespoons | Honey also works; use a familiar food if allergies are a concern. |
-| Cool water | About 2 tablespoons | Food colouring is optional. |
-| Vegetable oil | About 2 tablespoons | Use a clear cooking oil if available. |
-| Solid objects | 6–8 different objects | Choose from the suggestions below; their positions are for the child to discover. |
+| Clear, unbreakable container | 1, about 300 ml | Use a tall glass or clear plastic cup on a tray. Never use a sealed container. |
+| Water | About 100 ml | Warm, not hot. |
+| Vegetable oil | About 100 ml | Ordinary cooking oil. |
+| Food colouring | A few drops | Water-soluble colouring. |
+| Effervescent tablet | 1 | Break into small pieces; use a simple water-soluble tablet. |
 
 ## What's inside the box?
 
-- [ ] **One folded Day 8 mission card** (below).
-- [ ] **Cork piece.**
-- [ ] **Clean, intact polystyrene foam piece.**
-- [ ] **Plastic bead or small plastic toy.**
-- [ ] **Solid acrylic bead.**
-- [ ] **Grape or raisin.**
-- [ ] **Small smooth pebble.**
-- [ ] **Coin.**
-- [ ] **Glass bead.**
+- [ ] **One effervescent tablet.**
+- [ ] **One folded Day 8 mission card.**
 
-Choose 6–8 different solids from the list and check the ones packed. These are suggestions, not items guaranteed to stop at particular layers; household materials and liquids vary.
-
-**Household items to supply separately:** Clear container, syrup, water and vegetable oil. Food colouring is optional.
+**Household items to supply separately:** Clear container, water, vegetable oil, food colouring, spoon and tray.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🧪 DAY 8 — THE LIQUID STACK LAB"
-    **Your mission:** Build a stack of three liquids!
+!!! example "🧪 DAY 8 — THE BUBBLING LAVA LAMP"
+    **Your mission:** Make coloured bubbles rise through oil!
 
-    **You need:** A clear jar, syrup, water, oil and 6–8 different solid objects.
+    **You need:** Clear cup, warm water, oil, food colouring and a tablet.
 
-    **1. Guess!** Choose one object. Do you think it will float, sink or stop between liquids?
+    **1. Predict!** Will the oil mix with the coloured water?
 
-    **2. Pour!** Slowly add syrup, coloured water, then oil.
+    **2. Layer!** Add coloured water, then the same amount of oil.
 
-    **3. Test!** Gently add each object, one at a time. Where does it end up?
+    **3. Bubble!** Drop in a small piece of tablet and watch.
 
-    **4. Compare!** Which objects ended up in similar places? Look again after a few minutes. Did anything move?
+    **4. Observe!** What travels up? What sinks back down?
 
-    ⭐ **Scientist's question:** What patterns do you notice in where the objects end up?
+    ⭐ **Scientist's question:** What carries the colour upward?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🧪 DAG 8 — VÄTSKOR PÅ HÖJD"
-    **Ditt uppdrag:** Bygg ett torn av tre vätskor!
+!!! example "🧪 DAG 8 — GÖR EN LAVALAMPA"
+    **Ditt uppdrag:** Få färgade bubblor att stiga genom olja!
 
-    **Du behöver:** En genomskinlig burk, sirap, vatten, olja och 6–8 olika fasta föremål.
+    **Du behöver:** Genomskinlig bägare, varmt vatten, olja, karamellfärg och en brustablett.
 
-    **1. Gissa!** Välj ett föremål. Tror du att det flyter, sjunker eller stannar mellan vätskorna?
+    **1. Gissa!** Blandar sig oljan med det färgade vattnet?
 
-    **2. Häll!** Häll långsamt i sirap, färgat vatten och sedan olja.
+    **2. Varva!** Häll i färgat vatten och sedan lika mycket olja.
 
-    **3. Testa!** Lägg försiktigt i föremålen, ett i taget. Var hamnar de?
+    **3. Bubblor!** Släpp ner en liten bit brustablett och titta.
 
-    **4. Jämför!** Vilka föremål hamnade på liknande ställen? Titta igen efter några minuter. Har något flyttat sig?
+    **4. Undersök!** Vad stiger? Vad sjunker igen?
 
-    ⭐ **Forskarens fråga:** Vilka mönster ser du i var föremålen hamnar?
+    ⭐ **Forskarens fråga:** Vad för färgen uppåt?
 
 </div>
 </div>
@@ -93,41 +82,39 @@ Choose 6–8 different solids from the list and check the ones packed. These are
 
 ### Preparation (2–3 minutes before opening)
 
-1. Put the clear container on a tray on a stable table. Set out equal small amounts of syrup, water and oil, plus 6–8 different solids from the suggestions in the box list.
-2. If using food colouring, tint the water only; this makes it easier to distinguish from the oil.
-3. Keep the spoon nearby to guide each pour down the inside wall of the container. Do not pre-mix the liquids.
-4. Pack the folded mission card and the chosen solids in the advent calendar box. Check that there are 6–8 different objects.
+1. Set the clear container on a tray. Prepare about **100 ml warm water** and **100 ml vegetable oil**; the water should feel comfortably warm, never hot.
+2. Add a few drops of food colouring to the water. Keep the tablet dry until the child is ready.
+3. Break the tablet into small pieces. Pack one piece for the first test and keep the remainder for another round.
 
 ### How to help (10–15 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–2 min | Show the three liquids and the solids. Invite the child to choose one solid and make a broad guess: float, sink or stop between liquids. |
-| 2–5 min | Slowly pour syrup, water and then oil into the clear container, guiding each stream down the side. |
-| 5–9 min | Observe the layers, then gently add the selected solids one at a time. Notice where each one ends up. |
-| 9–12 min | Compare which solids ended up in similar places. Look again after a few minutes to see whether any have moved as the syrup mixes with water. |
-| 12–15 min | Discuss what changed. Remove the solids, empty and wash the container, and wipe the tray. |
+| 0–2 min | Invite a prediction: will the oil mix with the coloured water, and which liquid will sit on top? |
+| 2–5 min | Pour the coloured water into the container, then slowly add the same amount of oil. Pause and observe the layers. |
+| 5–9 min | Drop in a small piece of tablet and watch the bubbles carry coloured liquid upward. |
+| 9–12 min | Observe the droplets at the surface and as they sink back down. Add another small piece only after the bubbling slows. |
+| 12–15 min | Describe the movement, then leave the mixture to settle and wash the container. |
 
-**Keep it a fair comparison:** Use the same container and similar amounts of each liquid. Pour slowly and do not shake or stir; mixing makes the layers harder to observe.
+**Keep it a fair test:** Use similar amounts of water and oil, and add tablet pieces one at a time. Do not shake the container.
 
 ### Safety
 
-- Use a stable, unbreakable clear container on a tray. Keep liquids away from eyes and wipe spills promptly; oil can make floors slippery.
-- Choose intact, smooth objects with no sharp edges and collect them all after testing.
-- Check food allergies before using syrup, oil or fruit.
+- Use a stable, unbreakable container on a tray. Keep the mixture away from eyes and wipe spills promptly; oil can make surfaces slippery.
+- Use warm, not hot, water. An adult should break the tablet.
+- Do not drink or taste the mixture. Never put a lid on the container while it is bubbling.
 
 ### Why it works
 
-Density describes how much mass is packed into a given volume. In general, a solid floats in a liquid that is denser than the solid and sinks in a liquid that is less dense. In a stack, a solid may stop at a boundary if it sinks through the liquid above but floats on the one below. The exact results are part of this experiment: household oils, syrups and solid objects vary, and shape or trapped air can also affect what happens. Observe and compare rather than expecting any object to land at a particular layer.
-
-Density is only part of the story. Oil and water do not mix, so their boundary usually remains visible. Syrup dissolves in water, so the syrup-water boundary gradually blurs and disappears. As the liquids change, a solid may move; this is part of the observation.
+Oil does not mix with water and is less dense, so it forms a layer above the water. The tablet dissolves in the water and releases **carbon dioxide gas**. Bubbles of gas rise through the oil and carry some coloured water with them. At the surface, the gas escapes; the denser water droplets then sink back through the oil.
 
 ### Troubleshooting and optional extension
 
-- **The liquids mix as they are poured:** Pour more slowly down the container wall using the spoon as a guide. The syrup and water boundary may still fade with time; that is part of the discovery.
-- **The oil and water boundary is hard to see:** Tint the water with one drop of food colouring and use a clear container.
-- **Extra challenge for older children:** Draw the stack right after pouring and again several minutes later. Compare which boundaries changed.
+- **The layers are hard to see:** Use a clear container and add a little more food colouring to the water before pouring.
+- **The bubbles stop quickly:** Wait until the first piece has dissolved, then add another small piece of tablet.
+- **The water and oil were shaken together:** Leave the container undisturbed until the layers become visible again.
+- **Extra challenge for older children:** Compare a small tablet piece in cool and warm water, using the same amounts. Predict which will bubble faster.
 
-**Next experiment:** On [Day 9](day-09.md), we will test how a tiny drop of soap changes the water's surface.
+**Next experiment:** On [Day 9](day-09.md), we will see how a tiny drop of soap changes the surface of pepper-covered water.
 
 [← Back to the calendar](../index.md) · [← Day 7: The Secret String Telephone](day-07.md)

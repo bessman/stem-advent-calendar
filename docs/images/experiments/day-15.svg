@@ -1,12 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300">
-  <rect width="640" height="300" rx="24" fill="#eaf0f3"/>
-  <circle cx="113" cy="149" r="43" fill="#e8b95f"/>
-  <path d="M170 149h74M398 149h70" stroke="#8fa9ad" stroke-width="5" stroke-dasharray="7 10"/>
-  <g fill="#f4d276" stroke="#304e4a" stroke-width="5">
-    <circle cx="270" cy="149" r="32"/><path d="M302 117a32 32 0 0 0 0 64z" fill="#314f64"/>
-    <circle cx="360" cy="149" r="32"/><path d="M360 117a32 32 0 0 0 0 64z" fill="#314f64"/>
-    <circle cx="486" cy="149" r="32"/><path d="M486 117a32 32 0 0 1 0 64z" fill="#314f64"/>
-  </g>
-  <path d="M90 226q230 38 460 0" fill="none" stroke="#9db5b8" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="525" cy="78" r="3" fill="#58788a"/><circle cx="557" cy="105" r="4" fill="#58788a"/>
+  <rect width="640" height="300" rx="24" fill="#f3f0e8"/>
+  <path d="M92 242h456" stroke="#a8b7aa" stroke-width="6" stroke-linecap="round"/>
+  <path d="M125 120h110l-10 105q-2 10-12 10h-66q-10 0-12-10z" fill="#c8dfe3" stroke="#304e4a" stroke-width="6"/>
+  <path d="M140 183h80l-5 41h-70z" fill="#8c7c53"/>
+  <path d="M155 120v-20q0-12 12-12h25q12 0 12 12v20" fill="#c8dfe3" stroke="#304e4a" stroke-width="6"/>
+  <circle cx="157" cy="169" r="6" fill="#f3d16f"/><circle cx="187" cy="157" r="7" fill="#f3d16f"/><circle cx="204" cy="177" r="5" fill="#f3d16f"/>
+  <path d="M347 230h119q-1-14-12-20v-54h-95v54q-11 6-12 20z" fill="#f8e9c9" stroke="#304e4a" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M367 156v-32h78v32" fill="#fff" fill-opacity=".55" stroke="#304e4a" stroke-width="6"/>
+  <path d="M409 121c-23-23 4-34 2-57 26 19 33 37 15 57z" fill="#e87855" stroke="#304e4a" stroke-width="5"/>
+  <path d="M408 117c-7-10 1-17 5-25 9 10 11 17 4 25z" fill="#f4cf67"/>
+  <path d="M260 164h56m-15-15 16 15-16 15" fill="none" stroke="#678f8a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="292" cy="135" r="5" fill="#70b6c1"/><circle cx="315" cy="192" r="6" fill="#70b6c1"/>
 </svg>

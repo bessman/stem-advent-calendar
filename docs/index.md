@@ -34,10 +34,10 @@ Each activity page includes an **introduction** (scientific field, learning goal
 | 2 | Wed 2 Dec | **[Sink or Float?](activities/day-02.md)** | Buoyancy, shapes and predictions | 10–15 min |
 | 3 | Thu 3 Dec | **[Balloon Rocket Race](activities/day-03.md)** | Forces and propulsion | 10–15 min |
 | 4 | Fri 4 Dec | **[The Flying Helicopter](activities/day-04.md)** | Gravity and aerodynamics | 10–15 min |
-| 5 | Sat 5 Dec | **[Build a Bridge: Part 1](activities/day-05.md)** | Structures and load-bearing | 20–30 min |
-| 6 | Sun 6 Dec | **[Build a Bridge: Part 2](activities/day-06.md)** | Testing and improving a design | 20–30 min |
+| 5 | Sat 5 Dec | **[Build, Test and Improve a Bridge](activities/day-05.md)** | Structure, shape and fair tests | 20–30 min |
+| 6 | Sun 6 Dec | **[Chemical Balloon Inflation](activities/day-06.md)** | Chemical reactions and gases | 20–30 min |
 
-**The connection:** Explore how things behave, then use what you have learned to build and improve a paper bridge.
+**The connection:** Explore how shapes carry loads, compare designs fairly, then investigate how a chemical reaction makes gas.
 
 ### Week 2 · The Chemistry & Sound Lab
 
@@ -46,12 +46,12 @@ Each activity page includes an **introduction** (scientific field, learning goal
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
 | 7 | Mon 7 Dec | **[The Secret String Telephone](activities/day-07.md)** | Vibrations carry sound | 10–15 min |
-| 8 | Tue 8 Dec | **[The Liquid Stack Lab](activities/day-08.md)** | Relative density and miscibility | 10–15 min |
+| 8 | Tue 8 Dec | **[The Bubbling Lava Lamp](activities/day-08.md)** | Oil, water and carbon dioxide | 10–15 min |
 | 9 | Wed 9 Dec | **[The Pepper Escape](activities/day-09.md)** | Surface tension | 10–15 min |
 | 10 | Thu 10 Dec | **[Walking Rainbow](activities/day-10.md)** | Capillary action and colour mixing | 10–15 min* |
 | 11 | Fri 11 Dec | **[The Colour Detective](activities/day-11.md)** | Chromatography | 10–15 min |
 | 12 | Sat 12 Dec | **[The Great Dissolving Race](activities/day-12.md)** | Dissolving, temperature and fair tests | 20–30 min |
-| 13 | Sun 13 Dec | **[The Colour-Changing Potion Lab](activities/day-13.md)** | Acids, bases and indicators | 20–30 min |
+| 13 | Sun 13 Dec | **[The Fizzy Red-Cabbage Juice Lab](activities/day-13.md)** | Acids, bases, indicators and gas | 20–30 min |
 
 **The connection:** Start with waves and vibrations, then investigate what water and other everyday substances can do.
 
@@ -64,7 +64,7 @@ Each activity page includes an **introduction** (scientific field, learning goal
 | Day | Date | Mission | Discover | Time |
 | --- | --- | --- | --- | --- |
 | 14 | Mon 14 Dec | **[Wake Up, Little Seed!](activities/day-14.md)** | Germination and observation | 10–15 min |
-| 15 | Tue 15 Dec | **[The Moon's Secret Shapes](activities/day-15.md)** | Moon phases, light and shadows | 10–15 min |
+| 15 | Tue 15 Dec | **[The Invisible Candle Snuffer](activities/day-15.md)** | Carbon dioxide and combustion | 10–15 min |
 | 16 | Wed 16 Dec | **[The Invisible Magnet Maze](activities/day-16.md)** | Magnetic forces | 10–15 min |
 | 17 | Thu 17 Dec | **[Light Up an LED!](activities/day-17.md)** | Simple electrical circuits | 10–15 min |
 | 18 | Fri 18 Dec | **[Invent a Switch](activities/day-18.md)** | Opening and closing a circuit | 10–15 min |
@@ -81,14 +81,14 @@ Each activity page includes an **introduction** (scientific field, learning goal
 | 20 | Sun 20 Dec | **[The Magic Button](activities/day-20.md)** | Inputs, outputs and logic | 20–30 min |
 | 21 | Mon 21 Dec | **[The Seed Scientist Returns](activities/day-21.md)** | Compare plant growth with predictions | 10–15 min |
 | 22 | Tue 22 Dec | **[The Secret Light Message](activities/day-22.md)** | Encode and decode flashes | 10–15 min |
-| 23 | Wed 23 Dec | **[Design Your Christmas Invention](activities/day-23.md)** | Plan and prototype a display | 10–15 min |
+| 23 | Wed 23 Dec | **[The Skittles Rainbow Painting](activities/day-23.md)** | Dissolving, diffusion and colour | 10–15 min |
 | 24 | Thu 24 Dec | **[The Grand Christmas Invention!](activities/day-24.md)** | Combine a button, lights and code | 40–60 min |
 
-**The connection:** Each electronics challenge adds a skill for a final **Christmas Signal Station**: a cardboard scene with lights that can blink out a secret message when you press a button.
+**The connection:** Earlier circuit and Morse-code skills come together in a final **Christmas Signal Station** on Day 24. Day 23 adds one last colourful chemistry investigation before the build.
 
 ## Three discoveries that continue across days
 
-1. **Build, test, improve (Days 2–6).** Ask questions about forces and shapes, then redesign a bridge using your observations.
+1. **Build, test, improve (Days 2–5).** Ask questions about forces and shapes, then compare flat and folded bridge designs.
 2. **Watch something grow (Days 14 and 21).** Start a seed experiment, make a prediction, and return to see what changed.
 3. **Build an invention (Days 17–20 and 22–24).** Learn an LED circuit, a switch, a simple program and a light code before combining them into a final creation.
 

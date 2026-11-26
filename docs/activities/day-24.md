@@ -1,23 +1,23 @@
-# Day 24 · The Grand Christmas Invention!
+# Day 24 · The Grand Christmas Invention
 
-![A finished cardboard invention with a button and glowing lights](../images/experiments/day-24.svg){ .activity-illustration }
+![A cardboard Christmas signal station with a button and two glowing LEDs](../images/experiments/day-24.svg){ .activity-illustration }
 
 **Field:** Engineering · Programming · Electronics  
 **Time:** 40–60 minutes (Thursday 24 December 2026)  
 **Age group:** 6–9  
-**Progression:** We have learned about circuits, switches, Arduino code and light signals. Today we combine them in a **Christmas Signal Station**: press a button and two LEDs blink **your child's name** in Morse code.
+**Progression:** On [Day 22](day-22.md), we practised Morse code with light. Today we combine the circuit, button and programming skills from Days 17–20 to build a Christmas Signal Station that flashes a name. We will plan, prototype and test the display as one final mission.
 
 ## Introduction
 
-Can you build an invention that sends a message when someone presses a button? Mount two LEDs in a cardboard Christmas scene, connect a pushbutton and Arduino, then upload a program that blinks the child's name when the button is pressed.
+Can you build an invention that sends a message when someone presses a button? Plan a simple cardboard display, connect two LEDs and a button to an Arduino, then upload a program that flashes a name in Morse code.
 
 By the end of this mission, the child can:
 
-- Combine an input, a program and light outputs in one invention.
-- Build a cardboard display around a low-voltage circuit without enclosing the electronics.
-- Explain how the button starts a coded light message.
+- Plan and build a simple cardboard display around a working circuit.
+- Combine a button input, a program and LED outputs.
+- Explain how short and long flashes encode a message.
 
-**The big question:** How do the button, program and LEDs work together to send a message?
+**The big question:** How do the button, program and lights work together to send a message?
 
 ## Materials list
 
@@ -25,63 +25,67 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 
 | Item | Amount needed | Notes |
 | --- | --- | --- |
-| Green or other colour 5 mm LED | 1 | Second signal light; reuse the red LED from Day 17 as the first. |
-| 220-ohm resistor | 1 additional | New resistor for the second LED; connect in series with that LED. |
-| Thin cardboard | 1 panel, about 10 × 15 cm | Reuse the prototype from Day 23, or use clean packaging. |
-| Arduino board | 1 | Reuse the board from Days 19–20. Do not use the AA battery holder for this Arduino circuit. |
-| USB data cable | 1 | Reuse the cable from Day 19. |
-| Computer with Arduino IDE installed | 1 | Reuse the computer from Day 19 for programming the board. |
-| Mini solderless breadboard | 1 | Reuse the breadboard from Day 20. |
-| Breadboard-compatible momentary pushbutton | 1 | Reuse the pushbutton from Day 20. |
-| Male-to-male jumper wire | 5 | Reuse the wires from Day 20. |
+| Green or other colour 5 mm LED | 1 | New second signal light. |
+| 220-ohm resistor | 1 additional | New; connect in series with the second LED. |
+| Thin cardboard | 1 panel, about 10 × 15 cm | Use clean, uncoated packaging. |
 | Red 5 mm LED | 1 | Reuse the LED from Day 17, keeping its resistor connected in series. |
-| 220-ohm resistor | 1 | Reuse the resistor from Day 17 for the red LED; this is separate from the additional resistor above. |
-| Adhesive tape | A small amount | Choose child-safe tape for attaching the cardboard parts. |
+| 220-ohm resistor | 1 | Reuse the resistor from Day 17 for the red LED. |
+| Breadboard-compatible momentary pushbutton | 1 | Reuse the pushbutton from Day 20. |
+| Mini solderless breadboard | 1 | Reuse the breadboard from Day 20. |
+| Male-to-male jumper wire | 5 | Reuse the wires from Day 20. |
+| Arduino board | 1 | Reuse the board from Days 19–20. Do not use an external battery pack. |
+| USB data cable | 1 | Reuse the cable from Day 19. |
+| Computer with Arduino IDE installed | 1 | Reuse the computer from Day 19. |
+| Adhesive tape | A small amount | Child-safe tape for the cardboard display. |
 
 ## What's inside the box?
 
 - [ ] **One second LED** in a different colour.
-- [ ] **One 220-ohm resistor** for the second LED.
-- [ ] **One folded Day 24 mission card** (below).
+- [ ] **One additional 220-ohm resistor.**
+- [ ] **One folded Day 24 mission card.**
+
+**Reuse from earlier days:** Red LED and resistor from Day 17; Arduino, USB cable and computer from Day 19; button, breadboard and jumper wires from Day 20.
+
+**Household items to supply separately:** Cardboard, adhesive tape and scissors.
 
 ## Child's mission card
 
 <div class="mission-card" markdown="1">
 <div class="mission-card__translation" lang="en" data-language-label="English" markdown="1">
 
-!!! example "🎄 DAY 24 — THE GRAND CHRISTMAS INVENTION!"
-    **Your mission:** Build a station to blink your name!
+!!! example "🎄 DAY 24 — THE GRAND CHRISTMAS INVENTION"
+    **Your mission:** Build a station that flashes a name!
 
-    **You need:** Arduino, button, breadboard, two LEDs, resistors, wires and cardboard.
+    **You need:** Arduino, button, breadboard, two LEDs, resistors and cardboard.
 
-    **1. Plan!** Use Day 23 design. Button reachable?
+    **1. Plan!** Sketch a display with two lights and an easy-to-reach button.
 
-    **2. Build!** With USB unplugged, connect the button to pin 2/GND and the LEDs to pins 8/9 through resistors. Keep Arduino and breadboard outside.
+    **2. Build!** Make the cardboard front. Keep the Arduino and wires uncovered.
 
-    **3. Program!** Upload name code. Press the button; read the letters.
+    **3. Connect!** With USB unplugged, connect the button and LEDs as shown by your adult.
 
-    **4. Improve!** Can someone read it? Adjust display or timing.
+    **4. Program and test!** Upload the name code, press the button and improve your display.
 
-    ⭐ **Inventor's question:** How does code spell it?
+    ⭐ **Inventor's question:** How do the flashes spell a name?
 
 </div>
 
 <div class="mission-card__translation" lang="sv" data-language-label="Svenska" markdown="1">
 
-!!! example "🎄 DAG 24 — DEN STORA JULUPPFINNINGEN!"
-    **Ditt uppdrag:** Bygg en station som blinkar ditt namn!
+!!! example "🎄 DAG 24 — DEN STORA JULUPPFINNINGEN"
+    **Ditt uppdrag:** Bygg en station som blinkar ett namn!
 
-    **Du behöver:** Arduino, knapp, kopplingsplatta, två LED med motstånd, sladdar och kartong.
+    **Du behöver:** Arduino, knapp, kopplingsplatta, två LED-lampor, motstånd och kartong.
 
-    **1. Planera!** Använd dag 23:s design. Når någon knappen?
+    **1. Planera!** Rita en display med två lampor och en knapp som är lätt att nå.
 
-    **2. Bygg!** Koppla ur USB. Anslut knappen till 2/GND och LED-lamporna till 8/9 genom varsitt motstånd. Ha Arduino och kopplingsplatta utanför.
+    **2. Bygg!** Gör en framsida av kartong. Täck inte över Arduino eller sladdar.
 
-    **3. Programmera!** Ladda upp namnprogrammet. Tryck; läs bokstäverna.
+    **3. Koppla!** Koppla ur USB. Anslut knappen och lamporna med hjälp av en vuxen.
 
-    **4. Förbättra!** Kan någon läsa? Ändra display eller blinktid.
+    **4. Programmera och testa!** Ladda upp namnprogrammet, tryck på knappen och förbättra displayen.
 
-    ⭐ **Uppfinnarens fråga:** Hur stavar knappen och programmet ditt namn?
+    ⭐ **Uppfinnarens fråga:** Hur stavar blinkningarna ett namn?
 
 </div>
 </div>
@@ -90,26 +94,21 @@ Reuse the Arduino and most circuit parts from Days 17–20.
 
 ### Preparation (5–10 minutes before the activity)
 
-1. Bring out the Arduino, USB data cable, computer, breadboard and pushbutton from Day 20, and the red LED/resistor assembly from Day 17. Keep the AA battery holder disconnected and out of the Arduino circuit.
-2. Connect the second LED in series with its **own 220-ohm resistor**. Check both resistor-to-LED connections before power is applied.
-3. Build the circuit with the Arduino unplugged:
-   - Connect **GND** from the Arduino to the breadboard's ground rail.
-   - Connect the pushbutton across the breadboard's centre gap, with one side to **digital pin 2** and the other to **GND**.
-   - Connect the first LED's resistor side to **digital pin 8** and its short leg to **GND**.
-   - Connect the second LED's resistor side to **digital pin 9** and its short leg to **GND**.
-4. Set `NAME` in the program to your child's name using ASCII letters A–Z. Uppercase and lowercase both work; other characters are ignored.
-5. Test the program before mounting the LEDs in the cardboard. Cut any LED holes with scissors. Leave the Arduino, breadboard and connections uncovered and accessible on a stable surface.
+1. Bring out the Arduino, USB data cable, computer, breadboard and pushbutton from Days 19–20, plus the red LED/resistor assembly from Day 17. Keep the AA battery holder disconnected and out of the Arduino circuit.
+2. With the Arduino unplugged, prepare the circuit: connect GND to the breadboard ground rail; connect the pushbutton across the centre gap between digital pin 2 and GND; connect each LED through its own **220-ohm resistor** to pins 8 and 9, with both short legs to GND.
+3. Set `NAME` in the program below to the child's name using ASCII letters A–Z. Test the circuit before the child begins. Keep all electronics uncovered and accessible.
+4. Set out a cardboard panel, tape, pencil and scissors. The child can plan the display around the pre-tested circuit.
 
 ### How to help (40–60 minutes total)
 
 | Time | What to do |
 | --- | --- |
-| 0–5 min | Revisit the Day 23 plan and Day 22 Morse pattern. Agree on where the display and button will go. |
-| 5–15 min | With USB disconnected, build and check the button and two LED circuits. Confirm that each LED has its own 220-ohm resistor and both share GND. |
-| 15–25 min | Connect the Arduino to the computer by USB, open the sketch below and upload it. Check the board, port and wiring. |
-| 25–40 min | Press the button to send your child's name. Let the child observe and decode the pattern. Mount the LEDs in the cardboard and position the button so it can be reached. |
-| 40–55 min | Test the finished display from the receiver's position. Adjust the light openings or flash timing if needed. |
-| 55–60 min | Disconnect USB, collect loose parts and celebrate the working signal station. |
+| 0–5 min | Recall the Day 22 Morse activity. Sketch a display with two light openings, a reachable button and a clear message target. |
+| 5–15 min | Make the cardboard front. Mark and cut openings for the LEDs; plan where the button can be reached. Keep electronics outside the cardboard. |
+| 15–25 min | With USB disconnected, position the LEDs and button. An adult checks the circuit and every connection before power is applied. |
+| 25–35 min | Connect USB and upload the prepared program. Press the button to flash the name; decode it with the Day 22 Morse key. |
+| 35–50 min | Test the display from the viewer's position. Adjust the openings, button access or timing if needed. |
+| 50–60 min | Disconnect USB, collect loose parts and celebrate the finished signal station. |
 
 ```cpp
 const int buttonPin = 2;
@@ -117,33 +116,10 @@ const int firstLedPin = 8;
 const int secondLedPin = 9;
 const int dotTime = 200;
 
-const char *morse_table[] = {
-  ".-", // A
-  "-...", // B
-  "-.-.", // C
-  "-..", // D
-  ".", // E
-  "..-.", // F
-  "--.", // G
-  "....", // H
-  "..", // I
-  ".---", // J
-  "-.-", // K
-  ".-..", // L
-  "--", // M
-  "-.", // N
-  "---", // O
-  ".--.", // P
-  "--.-", // Q
-  ".-.", // R
-  "...", // S
-  "-", // T
-  "..-", // U
-  "...-", // V
-  ".--", // W
-  "-..-", // X
-  "-.--", // Y
-  "--.." // Z
+const char *morseTable[] = {
+  ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---",
+  "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-",
+  "..-", "...-", ".--", "-..-", "-.--", "--.."
 };
 
 const char *NAME = "";
@@ -172,62 +148,49 @@ void flashSignal(int onTime) {
   delay(dotTime);
 }
 
-void sendMorseLetter(const char* code) {
+void sendMorseLetter(const char *code) {
   for (int symbolIndex = 0; code[symbolIndex] != '\0'; symbolIndex++) {
-    if (code[symbolIndex] == '.') {
-      flashSignal(dotTime);
-    } else {
-      flashSignal(dotTime * 3);
-    }
+    flashSignal(code[symbolIndex] == '.' ? dotTime : dotTime * 3);
   }
 }
 
 void sendName() {
-  char letter = 0;
-  int letter_idx = 0;
-
-  while ((letter = NAME[letter_idx++]) != '\0') {
-    // toUpper
-    if (letter >= 'a' && letter <= 'z') {
-      letter -= 'a' - 'A';
-    }
-    // Alphabetical only
-    if (letter < 'A' || letter > 'Z') {
-      continue;
-    }
-    letter -= 'A';
-    sendMorseLetter(morse_table[letter]);
+  int letterIndex = 0;
+  char letter;
+  while ((letter = NAME[letterIndex++]) != '\0') {
+    if (letter >= 'a' && letter <= 'z') letter -= 'a' - 'A';
+    if (letter < 'A' || letter > 'Z') continue;
+    sendMorseLetter(morseTable[letter - 'A']);
     delay(dotTime * 2);
   }
   delay(dotTime * 6);
 }
 ```
 
-**Keep it a fair test:** Test the circuit before placing it in the display. If a light fails, change one connection at a time with USB unplugged. Keep the flash timing the same while testing the display's visibility.
+**Keep it a fair test:** Test the circuit before mounting the LEDs in the display. Change one connection or design feature at a time, with USB unplugged before wiring changes.
 
 ### Safety
 
-- With USB disconnected, check all wiring before connecting. Use only the Arduino's USB connection; do not connect the AA holder, mains electricity or an external power supply.
+- With USB disconnected, check all wiring before connecting. Use only the Arduino's USB connection; do not connect an AA holder, mains electricity or an external power supply.
 - Every external LED must have its own **220-ohm resistor in series**. Never connect an LED directly between an Arduino pin and GND.
 - Keep drinks and wet materials away from the computer, board and breadboard. Disconnect USB before moving wires or changing the circuit.
 - Do not cover or enclose the Arduino, breadboard or USB connection in cardboard.
-- Point the signal toward a nearby wall or receiver, never into eyes or toward roads. This is a learning project, not an emergency signal device.
+- Cut cardboard openings with child-safe scissors and adult supervision. Keep lights pointed toward a nearby wall or viewer, never into eyes or toward roads.
 
 ### Why it works
 
 The pushbutton is an input connected to pin 2. With `INPUT_PULLUP`, the input reads `HIGH` when the button is open and `LOW` when the button connects the pin to GND. When the program detects `LOW`, it calls `sendName()`.
 
-The two LEDs are outputs on pins 8 and 9. The program turns them on together for a short duration (a dot) or a longer duration (a dash), with pauses between flashes and letters. The 220-ohm resistors limit current through each LED. The cardboard scene holds the display, while the Arduino and breadboard remain open and accessible.
+The LEDs are outputs on pins 8 and 9. The program turns them on together for a short duration (a dot) or a longer duration (a dash), with pauses between flashes and letters. The resistors limit current through the LEDs. The cardboard display holds the lights, while the Arduino and breadboard remain open and accessible.
 
 ### Troubleshooting and optional extension
 
-- **Neither LED lights:** Disconnect USB. Check GND, button wiring, LED polarity and pin numbers. Confirm each LED is in series with its own 220-ohm resistor.
+- **Neither LED lights:** Disconnect USB. Check GND, button wiring, LED polarity and pin numbers. Confirm each LED has its own 220-ohm resistor in series.
 - **One LED stays off:** With USB disconnected, check that its short leg reaches GND and its resistor connects toward the correct output pin.
-- **The message repeats while the button is held:** The sketch waits for the button to be released after one message. Check the button is connected between pin 2 and GND and straddles the breadboard gap.
+- **The message repeats while the button is held:** Check that the button is between pin 2 and GND and that the code waits for release.
 - **The button does not start the message:** Check the pin 2 and GND connections and confirm the code uses `INPUT_PULLUP` and tests for `LOW`.
-- **The cardboard hides the lights or presses the button:** Move the LEDs and button to accessible positions. Keep the electronics outside the display.
-- **Extra challenge for older children:** Change `NAME` to another word using the Day 22 Morse key. Predict the light pattern.
+- **Extra challenge for older children:** Change `NAME` to another word using the Day 22 Morse key. Predict the light pattern first.
 
-**Next experiment:** The calendar's final invention is complete. Keep the signal station as a reminder that small observations and ideas can grow into something you build.
+**Next experiment:** The calendar's final invention is complete. Keep the station as a reminder that small observations and ideas can grow into something you build.
 
-[← Back to the calendar](../index.md) · [← Day 23: Design Your Christmas Invention](day-23.md)
+[← Back to the calendar](../index.md) · [← Day 23: The Skittles Rainbow Painting](day-23.md)

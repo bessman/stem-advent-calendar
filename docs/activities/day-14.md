@@ -115,6 +115,6 @@ The seed contains stored food to fuel its first growth. It needs water, air and 
 - **Seeds grow mould:** Discard the setup, wash hands and start again with a clean cup and fresh materials.
 - **Extra challenge for older children:** Place a second small group of seeds on damp cotton in a dark cupboard. Keep both groups equally damp and compare on Day 21; discuss that light is needed for healthy continued plant growth, not usually for germination itself.
 
-**Next experiment:** On [Day 15](day-15.md), we will use a ball and a lamp to model the Moon's phases.
+**Next experiment:** On [Day 15](day-15.md), an adult will make carbon dioxide and use it to put out a small candle flame.
 
-[← Back to the calendar](../index.md) · [← Day 13: The Colour-Changing Potion Lab](day-13.md)
+[← Back to the calendar](../index.md) · [← Day 13: The Fizzy Red-Cabbage Juice Lab](day-13.md)
