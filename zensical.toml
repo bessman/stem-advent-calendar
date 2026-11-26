@@ -26,7 +26,7 @@ nav = [
     { "13 · The Fizzy Red-Cabbage Juice Lab" = "activities/day-13.md" },
   ] },
   { "Week 3 — Nature's hidden powers" = [
-    { "14 · Wake Up, Little Seed!" = "activities/day-14.md" },
+    { "14 · The Liquid Stack Lab" = "activities/day-14.md" },
     { "15 · The Invisible Candle Snuffer" = "activities/day-15.md" },
     { "16 · The Invisible Magnet Maze" = "activities/day-16.md" },
     { "17 · Light Up an LED!" = "activities/day-17.md" },
@@ -35,7 +35,7 @@ nav = [
   { "Week 4 — The inventor's workshop" = [
     { "19 · Hello, Arduino!" = "activities/day-19.md" },
     { "20 · The Magic Button" = "activities/day-20.md" },
-    { "21 · The Seed Scientist Returns" = "activities/day-21.md" },
+    { "21 · The Moon's Secret Shapes" = "activities/day-21.md" },
     { "22 · The Secret Light Message" = "activities/day-22.md" },
     { "23 · The Skittles Rainbow Painting" = "activities/day-23.md" },
     { "24 · The Grand Christmas Invention!" = "activities/day-24.md" },
